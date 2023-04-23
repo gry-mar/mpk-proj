@@ -1,0 +1,1097 @@
+;source;target;delta_time;line_name
+1;KSIĘŻE MAŁE;Głubczycka;1.0;3
+2;Głubczycka;Karwińska;2.0;3
+3;Karwińska;Park Wschodni;1.0;3
+4;Park Wschodni;Armii Krajowej;1.0;3
+5;Armii Krajowej;KRAKOWSKA (Centrum handlowe);1.0;3
+6;KRAKOWSKA (Centrum handlowe);Krakowska;1.0;3
+7;Krakowska;Na Niskich Łąkach;2.0;3
+8;Na Niskich Łąkach;pl. Zgody (Muzeum Etnograficzne);1.0;3
+9;pl. Zgody (Muzeum Etnograficzne);pl. Wróblewskiego;3.0;3
+10;pl. Wróblewskiego;GALERIA DOMINIKAŃSKA;4.0;3
+11;GALERIA DOMINIKAŃSKA;Świdnicka;2.0;3
+12;Świdnicka;Zamkowa;1.0;3
+13;Zamkowa;Rynek;2.0;3
+14;Rynek;PL. JANA PAWŁA II;3.0;3
+15;PL. JANA PAWŁA II;Młodych Techników;2.0;3
+16;Młodych Techników;pl. Strzegomski (Muzeum Współczesne);1.0;3
+17;pl. Strzegomski (Muzeum Współczesne);ZACHODNIA (Stacja kolejowa);2.0;3
+18;ZACHODNIA (Stacja kolejowa);Niedźwiedzia;2.0;3
+19;Niedźwiedzia;Małopanewska;1.0;3
+20;Małopanewska;Kwiska;2.0;3
+21;Kwiska;DH Astra;2.0;3
+22;DH Astra;Park Zachodni;1.0;3
+23;Park Zachodni;Bajana;1.0;3
+24;Bajana;Metalowców;2.0;3
+25;Metalowców;PILCZYCE;1.0;3
+26;PILCZYCE;Tarczyński Arena (Lotnicza);2.0;3
+27;Tarczyński Arena (Lotnicza);Glinianki;1.0;3
+28;Glinianki;Aleja Architektów;1.0;3
+29;Aleja Architektów;Grabowa;1.0;3
+30;Grabowa;Kosmonautów (Szpital);2.0;3
+31;Kosmonautów (Szpital);Kamiennogórska (Ośrodek dla niewidomych);1.0;3
+32;Kamiennogórska (Ośrodek dla niewidomych);Złotnicka;2.0;3
+33;Złotnicka;Wschowska;1.0;3
+34;Wschowska;Jeleniogórska;1.0;3
+35;Jeleniogórska;LEŚNICA;1.0;3
+1;OPORÓW;GRABISZYŃSKA (Cmentarz II);1.0;4
+2;GRABISZYŃSKA (Cmentarz II);GRABISZYŃSKA (Cmentarz);1.0;4
+3;GRABISZYŃSKA (Cmentarz);Fiołkowa;1.0;4
+4;Fiołkowa;FAT;2.0;4
+5;FAT;Hutmen;1.0;4
+6;Hutmen;Bzowa (Centrum Zajezdnia);1.0;4
+7;Bzowa (Centrum Zajezdnia);pl. Srebrny;1.0;4
+8;pl. Srebrny;Stalowa;1.0;4
+9;Stalowa;Pereca;2.0;4
+10;Pereca;Grabiszyńska;1.0;4
+11;Grabiszyńska;Kolejowa;1.0;4
+12;Kolejowa;pl. Legionów;2.0;4
+13;pl. Legionów;Narodowe Forum Muzyki;2.0;4
+14;Narodowe Forum Muzyki;Zamkowa;1.0;4
+15;Zamkowa;Świdnicka;2.0;4
+16;Świdnicka;GALERIA DOMINIKAŃSKA;3.0;4
+17;GALERIA DOMINIKAŃSKA;Urząd Wojewódzki (Impart);3.0;4
+18;Urząd Wojewódzki (Impart);most Grunwaldzki;1.0;4
+19;most Grunwaldzki;PL. GRUNWALDZKI;2.0;4
+20;PL. GRUNWALDZKI;Kliniki - Politechnika Wrocławska;2.0;4
+21;Kliniki - Politechnika Wrocławska;Hala Stulecia;2.0;4
+22;Hala Stulecia;ZOO;1.0;4
+23;ZOO;Tramwajowa;2.0;4
+24;Tramwajowa;Chełmońskiego;1.0;4
+25;Chełmońskiego;Piramowicza;1.0;4
+26;Piramowicza;Spółdzielcza;1.0;4
+27;Spółdzielcza;BISKUPIN;2.0;4
+1;KOZANÓW (Dokerska);Kozanowska;1.0;32
+2;Kozanowska;Modra;1.0;32
+3;Modra;Pilczycka (Anima);1.0;32
+4;Pilczycka (Anima);Kolista;1.0;32
+5;Kolista;Kwiska;4.0;32
+6;Kwiska;Małopanewska;1.0;32
+7;Małopanewska;Niedźwiedzia;2.0;32
+8;Niedźwiedzia;ZACHODNIA (Stacja kolejowa);3.0;32
+9;ZACHODNIA (Stacja kolejowa);pl. Strzegomski (Muzeum Współczesne);2.0;32
+10;pl. Strzegomski (Muzeum Współczesne);Młodych Techników;1.0;32
+11;Młodych Techników;PL. JANA PAWŁA II;2.0;32
+12;PL. JANA PAWŁA II;pl. Orląt Lwowskich;3.0;32
+13;pl. Orląt Lwowskich;pl. Legionów;2.0;32
+14;pl. Legionów;Arkady (Capitol);2.0;32
+15;Arkady (Capitol);DWORZEC AUTOBUSOWY;4.0;32
+16;DWORZEC AUTOBUSOWY;Joannitów;2.0;32
+17;Joannitów;Gajowa;1.0;32
+18;Gajowa;Prudnicka;2.0;32
+19;Prudnicka;Kamienna;2.0;32
+20;Kamienna;Bardzka;1.0;32
+21;Bardzka;Krynicka;1.0;32
+22;Krynicka;Morwowa;1.0;32
+23;Morwowa;Świeradowska;1.0;32
+24;Świeradowska;GAJ;2.0;32
+1;SĘPOLNO;Godebskiego (AWF Wrocław);1.0;33
+2;Godebskiego (AWF Wrocław);8 Maja;1.0;33
+3;8 Maja;Stadion Olimpijski;1.0;33
+4;Stadion Olimpijski;Karłowicza;1.0;33
+5;Karłowicza;Chopina;1.0;33
+6;Chopina;Kochanowskiego;2.0;33
+7;Kochanowskiego;Bujwida;2.0;33
+8;Bujwida;PL. GRUNWALDZKI;2.0;33
+9;PL. GRUNWALDZKI;most Grunwaldzki;1.0;33
+10;most Grunwaldzki;Urząd Wojewódzki (Impart);2.0;33
+11;Urząd Wojewódzki (Impart);GALERIA DOMINIKAŃSKA;4.0;33
+12;GALERIA DOMINIKAŃSKA;Świdnicka;2.0;33
+13;Świdnicka;Zamkowa;1.0;33
+14;Zamkowa;Rynek;2.0;33
+15;Rynek;PL. JANA PAWŁA II;3.0;33
+16;PL. JANA PAWŁA II;Młodych Techników;2.0;33
+17;Młodych Techników;pl. Strzegomski (Muzeum Współczesne);1.0;33
+18;pl. Strzegomski (Muzeum Współczesne);ZACHODNIA (Stacja kolejowa);2.0;33
+19;ZACHODNIA (Stacja kolejowa);Niedźwiedzia;2.0;33
+20;Niedźwiedzia;Małopanewska;1.0;33
+21;Małopanewska;Kwiska;2.0;33
+22;Kwiska;DH Astra;2.0;33
+23;DH Astra;Park Zachodni;1.0;33
+24;Park Zachodni;Bajana;1.0;33
+25;Bajana;Metalowców;2.0;33
+26;Metalowców;PILCZYCE;1.0;33
+1;OPORÓW;GRABISZYŃSKA (Cmentarz II);1.0;5
+2;GRABISZYŃSKA (Cmentarz II);GRABISZYŃSKA (Cmentarz);1.0;5
+3;GRABISZYŃSKA (Cmentarz);Fiołkowa;1.0;5
+4;Fiołkowa;FAT;2.0;5
+5;FAT;Hutmen;1.0;5
+6;Hutmen;Bzowa (Centrum Zajezdnia);1.0;5
+7;Bzowa (Centrum Zajezdnia);pl. Srebrny;1.0;5
+8;pl. Srebrny;Stalowa;1.0;5
+9;Stalowa;Pereca;2.0;5
+10;Pereca;Grabiszyńska;1.0;5
+11;Grabiszyńska;Kolejowa;1.0;5
+12;Kolejowa;pl. Legionów;2.0;5
+13;pl. Legionów;Arkady (Capitol);2.0;5
+14;Arkady (Capitol);DWORZEC GŁÓWNY;3.0;5
+15;DWORZEC GŁÓWNY;Wzgórze Partyzantów;2.0;5
+16;Wzgórze Partyzantów;GALERIA DOMINIKAŃSKA;3.0;5
+17;GALERIA DOMINIKAŃSKA;pl. Wróblewskiego;4.0;5
+18;pl. Wróblewskiego;pl. Zgody (Muzeum Etnograficzne);2.0;5
+19;pl. Zgody (Muzeum Etnograficzne);Na Niskich Łąkach;2.0;5
+20;Na Niskich Łąkach;Krakowska;1.0;5
+21;Krakowska;KRAKOWSKA (Centrum handlowe);2.0;5
+22;KRAKOWSKA (Centrum handlowe);Armii Krajowej;1.0;5
+23;Armii Krajowej;Park Wschodni;1.0;5
+24;Park Wschodni;Karwińska;2.0;5
+25;Karwińska;Głubczycka;1.0;5
+26;Głubczycka;KSIĘŻE MAŁE;1.0;5
+1;BISKUPIN;Spółdzielcza;1.0;2
+2;Spółdzielcza;Piramowicza;1.0;2
+3;Piramowicza;Chełmońskiego;1.0;2
+4;Chełmońskiego;Tramwajowa;1.0;2
+5;Tramwajowa;ZOO;2.0;2
+6;ZOO;Hala Stulecia;1.0;2
+7;Hala Stulecia;Kliniki - Politechnika Wrocławska;2.0;2
+8;Kliniki - Politechnika Wrocławska;PL. GRUNWALDZKI;2.0;2
+9;PL. GRUNWALDZKI;Reja;1.0;2
+10;Reja;Katedra;2.0;2
+11;Katedra;Urząd Wojewódzki (Muzeum Narodowe);2.0;2
+12;Urząd Wojewódzki (Muzeum Narodowe);GALERIA DOMINIKAŃSKA;4.0;2
+13;GALERIA DOMINIKAŃSKA;Wzgórze Partyzantów;2.0;2
+14;Wzgórze Partyzantów;DWORZEC GŁÓWNY;2.0;2
+15;DWORZEC GŁÓWNY;Arkady (Capitol);3.0;2
+16;Arkady (Capitol);Zaolziańska;2.0;2
+17;Zaolziańska;Wielka;1.0;2
+18;Wielka;Rondo;2.0;2
+19;Rondo;Sztabowa;1.0;2
+20;Sztabowa;Hallera;2.0;2
+21;Hallera;Jastrzębia;1.0;2
+22;Jastrzębia;Orla;1.0;2
+23;Orla;KRZYKI;3.0;2
+1;OPORÓW;GRABISZYŃSKA (Cmentarz II);1.0;20
+2;GRABISZYŃSKA (Cmentarz II);GRABISZYŃSKA (Cmentarz);1.0;20
+3;GRABISZYŃSKA (Cmentarz);Fiołkowa;1.0;20
+4;Fiołkowa;FAT;2.0;20
+5;FAT;Aleja Pracy;2.0;20
+6;Aleja Pracy;Ojca Beyzyma;1.0;20
+7;Ojca Beyzyma;Mielecka;2.0;20
+8;Mielecka;Gajowicka;1.0;20
+9;Gajowicka;Hallera;2.0;20
+10;Hallera;Sztabowa;1.0;20
+11;Sztabowa;Rondo;1.0;20
+12;Rondo;Wielka;2.0;20
+13;Wielka;Zaolziańska;1.0;20
+14;Zaolziańska;Arkady (Capitol);3.0;20
+15;Arkady (Capitol);Renoma;2.0;20
+16;Renoma;pl. Orląt Lwowskich;4.0;20
+17;pl. Orląt Lwowskich;Dworzec Świebodzki;2.0;20
+18;Dworzec Świebodzki;Smolecka;2.0;20
+19;Smolecka;Śrubowa;1.0;20
+20;Śrubowa;Dolmed;1.0;20
+21;Dolmed;ZACHODNIA (Stacja kolejowa);2.0;20
+22;ZACHODNIA (Stacja kolejowa);Niedźwiedzia;2.0;20
+23;Niedźwiedzia;Małopanewska;1.0;20
+24;Małopanewska;Kwiska;2.0;20
+25;Kwiska;DH Astra;2.0;20
+26;DH Astra;Park Zachodni;1.0;20
+27;Park Zachodni;Bajana;1.0;20
+28;Bajana;Metalowców;2.0;20
+29;Metalowców;PILCZYCE;1.0;20
+30;PILCZYCE;Tarczyński Arena (Lotnicza);2.0;20
+31;Tarczyński Arena (Lotnicza);Glinianki;1.0;20
+32;Glinianki;Aleja Architektów;1.0;20
+33;Aleja Architektów;Grabowa;1.0;20
+34;Grabowa;Kosmonautów (Szpital);2.0;20
+35;Kosmonautów (Szpital);Kamiennogórska (Ośrodek dla niewidomych);1.0;20
+36;Kamiennogórska (Ośrodek dla niewidomych);Złotnicka;2.0;20
+37;Złotnicka;Wschowska;1.0;20
+38;Wschowska;Jeleniogórska;1.0;20
+39;Jeleniogórska;LEŚNICA;1.0;20
+1;GRABISZYŃSKA (Cmentarz);Fiołkowa;1.0;11
+2;Fiołkowa;FAT;2.0;11
+3;FAT;Hutmen;1.0;11
+4;Hutmen;Bzowa (Centrum Zajezdnia);1.0;11
+5;Bzowa (Centrum Zajezdnia);pl. Srebrny;1.0;11
+6;pl. Srebrny;Stalowa;1.0;11
+7;Stalowa;Pereca;2.0;11
+8;Pereca;Grabiszyńska;1.0;11
+9;Grabiszyńska;Kolejowa;1.0;11
+10;Kolejowa;pl. Legionów;2.0;11
+11;pl. Legionów;Arkady (Capitol);2.0;11
+12;Arkady (Capitol);DWORZEC GŁÓWNY;3.0;11
+13;DWORZEC GŁÓWNY;Wzgórze Partyzantów;2.0;11
+14;Wzgórze Partyzantów;GALERIA DOMINIKAŃSKA;3.0;11
+15;GALERIA DOMINIKAŃSKA;pl. Nowy Targ;1.0;11
+16;pl. Nowy Targ;Hala Targowa;1.0;11
+17;Hala Targowa;pl. Bema;3.0;11
+18;pl. Bema;Na Szańcach;1.0;11
+19;Na Szańcach;Jedności Narodowej;1.0;11
+20;Jedności Narodowej;Nowowiejska;2.0;11
+21;Nowowiejska;Daszyńskiego;1.0;11
+22;Daszyńskiego;Mosty Warszawskie;2.0;11
+23;Mosty Warszawskie;KROMERA;3.0;11
+24;KROMERA;Kętrzyńska;1.0;11
+25;Kętrzyńska;Kwidzyńska;1.0;11
+26;Kwidzyńska;Gęsia;1.0;11
+27;Gęsia;Bociania;2.0;11
+28;Bociania;KOWALE;1.0;11
+1;ZOO;Hala Stulecia;1.0;16
+2;Hala Stulecia;Kliniki - Politechnika Wrocławska;2.0;16
+3;Kliniki - Politechnika Wrocławska;PL. GRUNWALDZKI;2.0;16
+4;PL. GRUNWALDZKI;most Grunwaldzki;1.0;16
+5;most Grunwaldzki;Urząd Wojewódzki (Impart);2.0;16
+6;Urząd Wojewódzki (Impart);pl. Wróblewskiego;2.0;16
+7;pl. Wróblewskiego;GALERIA DOMINIKAŃSKA;3.0;16
+8;GALERIA DOMINIKAŃSKA;Wzgórze Partyzantów;2.0;16
+9;Wzgórze Partyzantów;DWORZEC GŁÓWNY;2.0;16
+10;DWORZEC GŁÓWNY;DWORZEC GŁÓWNY;2.0;16
+11;DWORZEC GŁÓWNY;DWORZEC AUTOBUSOWY;3.0;16
+12;DWORZEC AUTOBUSOWY;Joannitów;2.0;16
+13;Joannitów;Gajowa;1.0;16
+14;Gajowa;Prudnicka;2.0;16
+15;Prudnicka;Kamienna;2.0;16
+16;Kamienna;Bardzka;1.0;16
+17;Bardzka;Nyska;1.0;16
+18;Nyska;Tarnogajska;1.0;16
+19;Tarnogajska;Klimasa;2.0;16
+20;Klimasa;TARNOGAJ;1.0;16
+1;POŚWIĘTNE;Wołowska;1.0;74
+2;Wołowska;Kępińska;1.0;74
+3;Kępińska;Kamieńskiego;2.0;74
+4;Kamieńskiego;Broniewskiego;2.0;74
+5;Broniewskiego;Trzebnicka;3.0;74
+6;Trzebnicka;DWORZEC NADODRZE;2.0;74
+7;DWORZEC NADODRZE;Paulińska;2.0;74
+8;Paulińska;Dubois;3.0;74
+9;Dubois;Pomorska;2.0;74
+10;Pomorska;Dmowskiego;2.0;74
+11;Dmowskiego;PL. JANA PAWŁA II;2.0;74
+12;PL. JANA PAWŁA II;pl. Orląt Lwowskich;3.0;74
+13;pl. Orląt Lwowskich;pl. Legionów;2.0;74
+14;pl. Legionów;Kolejowa;1.0;74
+15;Kolejowa;Grabiszyńska;1.0;74
+16;Grabiszyńska;Pereca;2.0;74
+17;Pereca;Stalowa;2.0;74
+18;Stalowa;pl. Srebrny;1.0;74
+19;pl. Srebrny;Bzowa (Centrum Zajezdnia);1.0;74
+20;Bzowa (Centrum Zajezdnia);Hutmen;1.0;74
+21;Hutmen;FAT;2.0;74
+22;FAT;FAT;1.0;74
+23;FAT;Aleja Pracy;2.0;74
+24;Aleja Pracy;Ojca Beyzyma;1.0;74
+25;Ojca Beyzyma;Mielecka;2.0;74
+26;Mielecka;Gajowicka;1.0;74
+27;Gajowicka;Hallera;2.0;74
+28;Hallera;Jastrzębia;1.0;74
+29;Jastrzębia;Orla;1.0;74
+30;Orla;KRZYKI;3.0;74
+1;SĘPOLNO;Godebskiego (AWF Wrocław);1.0;17
+2;Godebskiego (AWF Wrocław);8 Maja;1.0;17
+3;8 Maja;Stadion Olimpijski;1.0;17
+4;Stadion Olimpijski;Karłowicza;1.0;17
+5;Karłowicza;Chopina;1.0;17
+6;Chopina;Kochanowskiego;2.0;17
+7;Kochanowskiego;Grunwaldzka;1.0;17
+8;Grunwaldzka;Piastowska;1.0;17
+9;Piastowska;Górnickiego;2.0;17
+10;Górnickiego;Ogród Botaniczny;2.0;17
+11;Ogród Botaniczny;pl. Bema;2.0;17
+12;pl. Bema;Hala Targowa;2.0;17
+13;Hala Targowa;pl. Nowy Targ;1.0;17
+14;pl. Nowy Targ;GALERIA DOMINIKAŃSKA;2.0;17
+15;GALERIA DOMINIKAŃSKA;Park Staromiejski;2.0;17
+16;Park Staromiejski;Opera;2.0;17
+17;Opera;Arkady (Capitol);4.0;17
+18;Arkady (Capitol);Zaolziańska;2.0;17
+19;Zaolziańska;Wielka;1.0;17
+20;Wielka;Rondo;2.0;17
+21;Rondo;Sztabowa;1.0;17
+22;Sztabowa;Hallera;2.0;17
+23;Hallera;Jastrzębia;1.0;17
+24;Jastrzębia;Orla;1.0;17
+25;Orla;KRZYKI;3.0;17
+26;KRZYKI;Radio i Telewizja;1.0;17
+27;Radio i Telewizja;Przyjaźni;2.0;17
+28;Przyjaźni;Braterska;1.0;17
+29;Braterska;Sąsiedzka;1.0;17
+30;Sąsiedzka;KLECINA;1.0;17
+1;BISKUPIN;Spółdzielcza;1.0;10
+2;Spółdzielcza;Piramowicza;1.0;10
+3;Piramowicza;Chełmońskiego;1.0;10
+4;Chełmońskiego;Tramwajowa;1.0;10
+5;Tramwajowa;ZOO;2.0;10
+6;ZOO;Hala Stulecia;1.0;10
+7;Hala Stulecia;Kliniki - Politechnika Wrocławska;2.0;10
+8;Kliniki - Politechnika Wrocławska;PL. GRUNWALDZKI;2.0;10
+9;PL. GRUNWALDZKI;Reja;1.0;10
+10;Reja;Katedra;2.0;10
+11;Katedra;Urząd Wojewódzki (Muzeum Narodowe);2.0;10
+12;Urząd Wojewódzki (Muzeum Narodowe);GALERIA DOMINIKAŃSKA;4.0;10
+13;GALERIA DOMINIKAŃSKA;Świdnicka;2.0;10
+14;Świdnicka;Zamkowa;1.0;10
+15;Zamkowa;Rynek;2.0;10
+16;Rynek;PL. JANA PAWŁA II;3.0;10
+17;PL. JANA PAWŁA II;Młodych Techników;2.0;10
+18;Młodych Techników;pl. Strzegomski (Muzeum Współczesne);1.0;10
+19;pl. Strzegomski (Muzeum Współczesne);ZACHODNIA (Stacja kolejowa);2.0;10
+20;ZACHODNIA (Stacja kolejowa);Niedźwiedzia;2.0;10
+21;Niedźwiedzia;Małopanewska;1.0;10
+22;Małopanewska;Kwiska;2.0;10
+23;Kwiska;DH Astra;2.0;10
+24;DH Astra;Park Zachodni;1.0;10
+25;Park Zachodni;Bajana;1.0;10
+26;Bajana;Metalowców;2.0;10
+27;Metalowców;PILCZYCE;1.0;10
+28;PILCZYCE;Tarczyński Arena (Lotnicza);2.0;10
+29;Tarczyński Arena (Lotnicza);Glinianki;1.0;10
+30;Glinianki;Aleja Architektów;1.0;10
+31;Aleja Architektów;Grabowa;1.0;10
+32;Grabowa;Kosmonautów (Szpital);2.0;10
+33;Kosmonautów (Szpital);Kamiennogórska (Ośrodek dla niewidomych);1.0;10
+34;Kamiennogórska (Ośrodek dla niewidomych);Złotnicka;2.0;10
+35;Złotnicka;Wschowska;1.0;10
+36;Wschowska;Jeleniogórska;1.0;10
+37;Jeleniogórska;LEŚNICA;1.0;10
+1;POŚWIĘTNE;Wołowska;1.0;7
+2;Wołowska;Kępińska;1.0;7
+3;Kępińska;Kamieńskiego;2.0;7
+4;Kamieńskiego;Broniewskiego;2.0;7
+5;Broniewskiego;Trzebnicka;3.0;7
+6;Trzebnicka;DWORZEC NADODRZE;2.0;7
+7;DWORZEC NADODRZE;Paulińska;2.0;7
+8;Paulińska;Dubois;3.0;7
+9;Dubois;Uniwersytet Wrocławski;2.0;7
+10;Uniwersytet Wrocławski;Rynek;3.0;7
+11;Rynek;Narodowe Forum Muzyki;2.0;7
+12;Narodowe Forum Muzyki;Renoma;4.0;7
+13;Renoma;Arkady (Capitol);2.0;7
+14;Arkady (Capitol);Zaolziańska;2.0;7
+15;Zaolziańska;Wielka;1.0;7
+16;Wielka;Rondo;2.0;7
+17;Rondo;Sztabowa;1.0;7
+18;Sztabowa;Hallera;2.0;7
+19;Hallera;Jastrzębia;1.0;7
+20;Jastrzębia;Orla;1.0;7
+21;Orla;KRZYKI;3.0;7
+22;KRZYKI;Radio i Telewizja;1.0;7
+23;Radio i Telewizja;Przyjaźni;2.0;7
+24;Przyjaźni;Braterska;1.0;7
+25;Braterska;Sąsiedzka;1.0;7
+26;Sąsiedzka;KLECINA;1.0;7
+1;PARK POŁUDNIOWY;Pułtuska;1.0;9
+2;Pułtuska;Weigla (Szpital);1.0;9
+3;Weigla (Szpital);Jaworowa;1.0;9
+4;Jaworowa;Wiśniowa;1.0;9
+5;Wiśniowa;Uniwersytet Ekonomiczny;2.0;9
+6;Uniwersytet Ekonomiczny;Sanocka;2.0;9
+7;Sanocka;DWORZEC AUTOBUSOWY;3.0;9
+8;DWORZEC AUTOBUSOWY;DWORZEC GŁÓWNY;3.0;9
+9;DWORZEC GŁÓWNY;Wzgórze Partyzantów;2.0;9
+10;Wzgórze Partyzantów;GALERIA DOMINIKAŃSKA;3.0;9
+11;GALERIA DOMINIKAŃSKA;pl. Nowy Targ;1.0;9
+12;pl. Nowy Targ;Hala Targowa;1.0;9
+13;Hala Targowa;pl. Bema;3.0;9
+14;pl. Bema;Ogród Botaniczny;2.0;9
+15;Ogród Botaniczny;Górnickiego;1.0;9
+16;Górnickiego;Piastowska;1.0;9
+17;Piastowska;Grunwaldzka;2.0;9
+18;Grunwaldzka;Kochanowskiego;2.0;9
+19;Kochanowskiego;Chopina;2.0;9
+20;Chopina;Karłowicza;1.0;9
+21;Karłowicza;Stadion Olimpijski;1.0;9
+22;Stadion Olimpijski;8 Maja;1.0;9
+23;8 Maja;Godebskiego (AWF Wrocław);1.0;9
+24;Godebskiego (AWF Wrocław);SĘPOLNO;2.0;9
+1;TARCZYŃSKI ARENA (Królewiecka);Dworska;1.0;31
+2;Dworska;Górnicza;1.0;31
+3;Górnicza;Modra;1.0;31
+4;Modra;Pilczycka (Anima);1.0;31
+5;Pilczycka (Anima);Kolista;1.0;31
+6;Kolista;Kwiska;4.0;31
+7;Kwiska;Małopanewska;1.0;31
+8;Małopanewska;Niedźwiedzia;2.0;31
+9;Niedźwiedzia;ZACHODNIA (Stacja kolejowa);3.0;31
+10;ZACHODNIA (Stacja kolejowa);pl. Strzegomski (Muzeum Współczesne);2.0;31
+11;pl. Strzegomski (Muzeum Współczesne);Młodych Techników;1.0;31
+12;Młodych Techników;PL. JANA PAWŁA II;2.0;31
+13;PL. JANA PAWŁA II;pl. Orląt Lwowskich;3.0;31
+14;pl. Orląt Lwowskich;pl. Legionów;2.0;31
+15;pl. Legionów;Arkady (Capitol);2.0;31
+16;Arkady (Capitol);DWORZEC AUTOBUSOWY;4.0;31
+17;DWORZEC AUTOBUSOWY;Joannitów;2.0;31
+18;Joannitów;Gajowa;1.0;31
+19;Gajowa;Prudnicka;2.0;31
+20;Prudnicka;Kamienna;2.0;31
+21;Kamienna;Bardzka;1.0;31
+22;Bardzka;Krynicka;1.0;31
+23;Krynicka;Morwowa;1.0;31
+24;Morwowa;Świeradowska;1.0;31
+25;Świeradowska;GAJ;2.0;31
+1;KARŁOWICE;Trzebnicka;3.0;8
+2;Trzebnicka;DWORZEC NADODRZE;2.0;8
+3;DWORZEC NADODRZE;DWORZEC NADODRZE;1.0;8
+4;DWORZEC NADODRZE;Słowiańska;2.0;8
+5;Słowiańska;Nowowiejska;1.0;8
+6;Nowowiejska;Jedności Narodowej;1.0;8
+7;Jedności Narodowej;Na Szańcach;1.0;8
+8;Na Szańcach;pl. Bema;2.0;8
+9;pl. Bema;Hala Targowa;2.0;8
+10;Hala Targowa;pl. Nowy Targ;1.0;8
+11;pl. Nowy Targ;GALERIA DOMINIKAŃSKA;2.0;8
+12;GALERIA DOMINIKAŃSKA;Wzgórze Partyzantów;2.0;8
+13;Wzgórze Partyzantów;DWORZEC GŁÓWNY;2.0;8
+14;DWORZEC GŁÓWNY;DWORZEC GŁÓWNY;2.0;8
+15;DWORZEC GŁÓWNY;DWORZEC AUTOBUSOWY;3.0;8
+16;DWORZEC AUTOBUSOWY;Joannitów;2.0;8
+17;Joannitów;Gajowa;1.0;8
+18;Gajowa;Prudnicka;2.0;8
+19;Prudnicka;Kamienna;2.0;8
+20;Kamienna;Bardzka;1.0;8
+21;Bardzka;Nyska;1.0;8
+22;Nyska;Tarnogajska;1.0;8
+23;Tarnogajska;Klimasa;2.0;8
+24;Klimasa;TARNOGAJ;1.0;8
+1;POŚWIĘTNE;Wołowska;1.0;1
+2;Wołowska;Kępińska;1.0;1
+3;Kępińska;Kamieńskiego;2.0;1
+4;Kamieńskiego;Broniewskiego;2.0;1
+5;Broniewskiego;Trzebnicka;3.0;1
+6;Trzebnicka;DWORZEC NADODRZE;2.0;1
+7;DWORZEC NADODRZE;DWORZEC NADODRZE;1.0;1
+8;DWORZEC NADODRZE;Słowiańska;2.0;1
+9;Słowiańska;Nowowiejska;2.0;1
+10;Nowowiejska;Wyszyńskiego;2.0;1
+11;Wyszyńskiego;Prusa;1.0;1
+12;Prusa;Piastowska;2.0;1
+13;Piastowska;PL. GRUNWALDZKI;3.0;1
+14;PL. GRUNWALDZKI;Kliniki - Politechnika Wrocławska;2.0;1
+15;Kliniki - Politechnika Wrocławska;Hala Stulecia;2.0;1
+16;Hala Stulecia;ZOO;1.0;1
+17;ZOO;Tramwajowa;2.0;1
+18;Tramwajowa;Chełmońskiego;1.0;1
+19;Chełmońskiego;Piramowicza;1.0;1
+20;Piramowicza;Spółdzielcza;1.0;1
+21;Spółdzielcza;BISKUPIN;2.0;1
+1;KSIĘŻE MAŁE;Głubczycka;1.0;3
+2;Głubczycka;Karwińska;2.0;3
+3;Karwińska;Park Wschodni;1.0;3
+4;Park Wschodni;Armii Krajowej;1.0;3
+5;Armii Krajowej;KRAKOWSKA (Centrum handlowe);1.0;3
+6;KRAKOWSKA (Centrum handlowe);Krakowska;1.0;3
+7;Krakowska;Na Niskich Łąkach;2.0;3
+8;Na Niskich Łąkach;pl. Zgody (Muzeum Etnograficzne);1.0;3
+9;pl. Zgody (Muzeum Etnograficzne);pl. Wróblewskiego;3.0;3
+10;pl. Wróblewskiego;GALERIA DOMINIKAŃSKA;4.0;3
+11;GALERIA DOMINIKAŃSKA;Świdnicka;2.0;3
+12;Świdnicka;Zamkowa;1.0;3
+13;Zamkowa;Rynek;2.0;3
+14;Rynek;PL. JANA PAWŁA II;3.0;3
+15;PL. JANA PAWŁA II;Młodych Techników;2.0;3
+16;Młodych Techników;pl. Strzegomski (Muzeum Współczesne);1.0;3
+17;pl. Strzegomski (Muzeum Współczesne);ZACHODNIA (Stacja kolejowa);2.0;3
+18;ZACHODNIA (Stacja kolejowa);Niedźwiedzia;2.0;3
+19;Niedźwiedzia;Małopanewska;1.0;3
+20;Małopanewska;Kwiska;2.0;3
+21;Kwiska;DH Astra;2.0;3
+22;DH Astra;Park Zachodni;1.0;3
+23;Park Zachodni;Bajana;1.0;3
+24;Bajana;Metalowców;2.0;3
+25;Metalowców;PILCZYCE;1.0;3
+26;PILCZYCE;Tarczyński Arena (Lotnicza);2.0;3
+27;Tarczyński Arena (Lotnicza);Glinianki;1.0;3
+28;Glinianki;Aleja Architektów;1.0;3
+29;Aleja Architektów;Grabowa;1.0;3
+30;Grabowa;Kosmonautów (Szpital);2.0;3
+31;Kosmonautów (Szpital);Kamiennogórska (Ośrodek dla niewidomych);1.0;3
+32;Kamiennogórska (Ośrodek dla niewidomych);Złotnicka;2.0;3
+33;Złotnicka;Wschowska;1.0;3
+34;Wschowska;Jeleniogórska;1.0;3
+35;Jeleniogórska;LEŚNICA;1.0;3
+1;OPORÓW;GRABISZYŃSKA (Cmentarz II);1.0;4
+2;GRABISZYŃSKA (Cmentarz II);GRABISZYŃSKA (Cmentarz);1.0;4
+3;GRABISZYŃSKA (Cmentarz);Fiołkowa;1.0;4
+4;Fiołkowa;FAT;2.0;4
+5;FAT;Hutmen;1.0;4
+6;Hutmen;Bzowa (Centrum Zajezdnia);1.0;4
+7;Bzowa (Centrum Zajezdnia);pl. Srebrny;1.0;4
+8;pl. Srebrny;Stalowa;1.0;4
+9;Stalowa;Pereca;2.0;4
+10;Pereca;Grabiszyńska;1.0;4
+11;Grabiszyńska;Kolejowa;1.0;4
+12;Kolejowa;pl. Legionów;2.0;4
+13;pl. Legionów;Narodowe Forum Muzyki;2.0;4
+14;Narodowe Forum Muzyki;Zamkowa;1.0;4
+15;Zamkowa;Świdnicka;2.0;4
+16;Świdnicka;GALERIA DOMINIKAŃSKA;3.0;4
+17;GALERIA DOMINIKAŃSKA;Urząd Wojewódzki (Impart);3.0;4
+18;Urząd Wojewódzki (Impart);most Grunwaldzki;1.0;4
+19;most Grunwaldzki;PL. GRUNWALDZKI;2.0;4
+20;PL. GRUNWALDZKI;Kliniki - Politechnika Wrocławska;2.0;4
+21;Kliniki - Politechnika Wrocławska;Hala Stulecia;2.0;4
+22;Hala Stulecia;ZOO;1.0;4
+23;ZOO;Tramwajowa;2.0;4
+24;Tramwajowa;Chełmońskiego;1.0;4
+25;Chełmońskiego;Piramowicza;1.0;4
+26;Piramowicza;Spółdzielcza;1.0;4
+27;Spółdzielcza;BISKUPIN;2.0;4
+1;KOZANÓW (Dokerska);Kozanowska;1.0;32
+2;Kozanowska;Modra;1.0;32
+3;Modra;Pilczycka (Anima);1.0;32
+4;Pilczycka (Anima);Kolista;1.0;32
+5;Kolista;Kwiska;4.0;32
+6;Kwiska;Małopanewska;1.0;32
+7;Małopanewska;Niedźwiedzia;2.0;32
+8;Niedźwiedzia;ZACHODNIA (Stacja kolejowa);3.0;32
+9;ZACHODNIA (Stacja kolejowa);pl. Strzegomski (Muzeum Współczesne);2.0;32
+10;pl. Strzegomski (Muzeum Współczesne);Młodych Techników;1.0;32
+11;Młodych Techników;PL. JANA PAWŁA II;2.0;32
+12;PL. JANA PAWŁA II;pl. Orląt Lwowskich;3.0;32
+13;pl. Orląt Lwowskich;pl. Legionów;2.0;32
+14;pl. Legionów;Arkady (Capitol);2.0;32
+15;Arkady (Capitol);DWORZEC AUTOBUSOWY;4.0;32
+16;DWORZEC AUTOBUSOWY;Joannitów;2.0;32
+17;Joannitów;Gajowa;1.0;32
+18;Gajowa;Prudnicka;2.0;32
+19;Prudnicka;Kamienna;2.0;32
+20;Kamienna;Bardzka;1.0;32
+21;Bardzka;Krynicka;1.0;32
+22;Krynicka;Morwowa;1.0;32
+23;Morwowa;Świeradowska;1.0;32
+24;Świeradowska;GAJ;2.0;32
+1;SĘPOLNO;Godebskiego (AWF Wrocław);1.0;33
+2;Godebskiego (AWF Wrocław);8 Maja;1.0;33
+3;8 Maja;Stadion Olimpijski;1.0;33
+4;Stadion Olimpijski;Karłowicza;1.0;33
+5;Karłowicza;Chopina;1.0;33
+6;Chopina;Kochanowskiego;2.0;33
+7;Kochanowskiego;Bujwida;2.0;33
+8;Bujwida;PL. GRUNWALDZKI;2.0;33
+9;PL. GRUNWALDZKI;most Grunwaldzki;1.0;33
+10;most Grunwaldzki;Urząd Wojewódzki (Impart);2.0;33
+11;Urząd Wojewódzki (Impart);GALERIA DOMINIKAŃSKA;4.0;33
+12;GALERIA DOMINIKAŃSKA;Świdnicka;2.0;33
+13;Świdnicka;Zamkowa;1.0;33
+14;Zamkowa;Rynek;2.0;33
+15;Rynek;PL. JANA PAWŁA II;3.0;33
+16;PL. JANA PAWŁA II;Młodych Techników;2.0;33
+17;Młodych Techników;pl. Strzegomski (Muzeum Współczesne);1.0;33
+18;pl. Strzegomski (Muzeum Współczesne);ZACHODNIA (Stacja kolejowa);2.0;33
+19;ZACHODNIA (Stacja kolejowa);Niedźwiedzia;2.0;33
+20;Niedźwiedzia;Małopanewska;1.0;33
+21;Małopanewska;Kwiska;2.0;33
+22;Kwiska;DH Astra;2.0;33
+23;DH Astra;Park Zachodni;1.0;33
+24;Park Zachodni;Bajana;1.0;33
+25;Bajana;Metalowców;2.0;33
+26;Metalowców;PILCZYCE;1.0;33
+1;OPORÓW;GRABISZYŃSKA (Cmentarz II);1.0;5
+2;GRABISZYŃSKA (Cmentarz II);GRABISZYŃSKA (Cmentarz);1.0;5
+3;GRABISZYŃSKA (Cmentarz);Fiołkowa;1.0;5
+4;Fiołkowa;FAT;2.0;5
+5;FAT;Hutmen;1.0;5
+6;Hutmen;Bzowa (Centrum Zajezdnia);1.0;5
+7;Bzowa (Centrum Zajezdnia);pl. Srebrny;1.0;5
+8;pl. Srebrny;Stalowa;1.0;5
+9;Stalowa;Pereca;2.0;5
+10;Pereca;Grabiszyńska;1.0;5
+11;Grabiszyńska;Kolejowa;1.0;5
+12;Kolejowa;pl. Legionów;2.0;5
+13;pl. Legionów;Arkady (Capitol);2.0;5
+14;Arkady (Capitol);DWORZEC GŁÓWNY;3.0;5
+15;DWORZEC GŁÓWNY;Wzgórze Partyzantów;2.0;5
+16;Wzgórze Partyzantów;GALERIA DOMINIKAŃSKA;3.0;5
+17;GALERIA DOMINIKAŃSKA;pl. Wróblewskiego;4.0;5
+18;pl. Wróblewskiego;pl. Zgody (Muzeum Etnograficzne);2.0;5
+19;pl. Zgody (Muzeum Etnograficzne);Na Niskich Łąkach;2.0;5
+20;Na Niskich Łąkach;Krakowska;1.0;5
+21;Krakowska;KRAKOWSKA (Centrum handlowe);2.0;5
+22;KRAKOWSKA (Centrum handlowe);Armii Krajowej;1.0;5
+23;Armii Krajowej;Park Wschodni;1.0;5
+24;Park Wschodni;Karwińska;2.0;5
+25;Karwińska;Głubczycka;1.0;5
+26;Głubczycka;KSIĘŻE MAŁE;1.0;5
+1;BISKUPIN;Spółdzielcza;1.0;2
+2;Spółdzielcza;Piramowicza;1.0;2
+3;Piramowicza;Chełmońskiego;1.0;2
+4;Chełmońskiego;Tramwajowa;1.0;2
+5;Tramwajowa;ZOO;2.0;2
+6;ZOO;Hala Stulecia;1.0;2
+7;Hala Stulecia;Kliniki - Politechnika Wrocławska;2.0;2
+8;Kliniki - Politechnika Wrocławska;PL. GRUNWALDZKI;2.0;2
+9;PL. GRUNWALDZKI;Reja;1.0;2
+10;Reja;Katedra;2.0;2
+11;Katedra;Urząd Wojewódzki (Muzeum Narodowe);2.0;2
+12;Urząd Wojewódzki (Muzeum Narodowe);GALERIA DOMINIKAŃSKA;4.0;2
+13;GALERIA DOMINIKAŃSKA;Wzgórze Partyzantów;2.0;2
+14;Wzgórze Partyzantów;DWORZEC GŁÓWNY;2.0;2
+15;DWORZEC GŁÓWNY;Arkady (Capitol);3.0;2
+16;Arkady (Capitol);Zaolziańska;2.0;2
+17;Zaolziańska;Wielka;1.0;2
+18;Wielka;Rondo;2.0;2
+19;Rondo;Sztabowa;1.0;2
+20;Sztabowa;Hallera;2.0;2
+21;Hallera;Jastrzębia;1.0;2
+22;Jastrzębia;Orla;1.0;2
+23;Orla;KRZYKI;3.0;2
+1;OPORÓW;GRABISZYŃSKA (Cmentarz II);1.0;20
+2;GRABISZYŃSKA (Cmentarz II);GRABISZYŃSKA (Cmentarz);1.0;20
+3;GRABISZYŃSKA (Cmentarz);Fiołkowa;1.0;20
+4;Fiołkowa;FAT;2.0;20
+5;FAT;Aleja Pracy;2.0;20
+6;Aleja Pracy;Ojca Beyzyma;1.0;20
+7;Ojca Beyzyma;Mielecka;2.0;20
+8;Mielecka;Gajowicka;1.0;20
+9;Gajowicka;Hallera;2.0;20
+10;Hallera;Sztabowa;1.0;20
+11;Sztabowa;Rondo;1.0;20
+12;Rondo;Wielka;2.0;20
+13;Wielka;Zaolziańska;1.0;20
+14;Zaolziańska;Arkady (Capitol);3.0;20
+15;Arkady (Capitol);Renoma;2.0;20
+16;Renoma;pl. Orląt Lwowskich;4.0;20
+17;pl. Orląt Lwowskich;Dworzec Świebodzki;2.0;20
+18;Dworzec Świebodzki;Smolecka;2.0;20
+19;Smolecka;Śrubowa;1.0;20
+20;Śrubowa;Dolmed;1.0;20
+21;Dolmed;ZACHODNIA (Stacja kolejowa);2.0;20
+22;ZACHODNIA (Stacja kolejowa);Niedźwiedzia;2.0;20
+23;Niedźwiedzia;Małopanewska;1.0;20
+24;Małopanewska;Kwiska;2.0;20
+25;Kwiska;DH Astra;2.0;20
+26;DH Astra;Park Zachodni;1.0;20
+27;Park Zachodni;Bajana;1.0;20
+28;Bajana;Metalowców;2.0;20
+29;Metalowców;PILCZYCE;1.0;20
+30;PILCZYCE;Tarczyński Arena (Lotnicza);2.0;20
+31;Tarczyński Arena (Lotnicza);Glinianki;1.0;20
+32;Glinianki;Aleja Architektów;1.0;20
+33;Aleja Architektów;Grabowa;1.0;20
+34;Grabowa;Kosmonautów (Szpital);2.0;20
+35;Kosmonautów (Szpital);Kamiennogórska (Ośrodek dla niewidomych);1.0;20
+36;Kamiennogórska (Ośrodek dla niewidomych);Złotnicka;2.0;20
+37;Złotnicka;Wschowska;1.0;20
+38;Wschowska;Jeleniogórska;1.0;20
+39;Jeleniogórska;LEŚNICA;1.0;20
+1;GRABISZYŃSKA (Cmentarz);Fiołkowa;1.0;11
+2;Fiołkowa;FAT;2.0;11
+3;FAT;Hutmen;1.0;11
+4;Hutmen;Bzowa (Centrum Zajezdnia);1.0;11
+5;Bzowa (Centrum Zajezdnia);pl. Srebrny;1.0;11
+6;pl. Srebrny;Stalowa;1.0;11
+7;Stalowa;Pereca;2.0;11
+8;Pereca;Grabiszyńska;1.0;11
+9;Grabiszyńska;Kolejowa;1.0;11
+10;Kolejowa;pl. Legionów;2.0;11
+11;pl. Legionów;Arkady (Capitol);2.0;11
+12;Arkady (Capitol);DWORZEC GŁÓWNY;3.0;11
+13;DWORZEC GŁÓWNY;Wzgórze Partyzantów;2.0;11
+14;Wzgórze Partyzantów;GALERIA DOMINIKAŃSKA;3.0;11
+15;GALERIA DOMINIKAŃSKA;pl. Nowy Targ;1.0;11
+16;pl. Nowy Targ;Hala Targowa;1.0;11
+17;Hala Targowa;pl. Bema;3.0;11
+18;pl. Bema;Na Szańcach;1.0;11
+19;Na Szańcach;Jedności Narodowej;1.0;11
+20;Jedności Narodowej;Nowowiejska;2.0;11
+21;Nowowiejska;Daszyńskiego;1.0;11
+22;Daszyńskiego;Mosty Warszawskie;2.0;11
+23;Mosty Warszawskie;KROMERA;3.0;11
+24;KROMERA;Kętrzyńska;1.0;11
+25;Kętrzyńska;Kwidzyńska;1.0;11
+26;Kwidzyńska;Gęsia;1.0;11
+27;Gęsia;Bociania;2.0;11
+28;Bociania;KOWALE;1.0;11
+1;ZOO;Hala Stulecia;1.0;16
+2;Hala Stulecia;Kliniki - Politechnika Wrocławska;2.0;16
+3;Kliniki - Politechnika Wrocławska;PL. GRUNWALDZKI;2.0;16
+4;PL. GRUNWALDZKI;most Grunwaldzki;1.0;16
+5;most Grunwaldzki;Urząd Wojewódzki (Impart);2.0;16
+6;Urząd Wojewódzki (Impart);pl. Wróblewskiego;2.0;16
+7;pl. Wróblewskiego;GALERIA DOMINIKAŃSKA;3.0;16
+8;GALERIA DOMINIKAŃSKA;Wzgórze Partyzantów;2.0;16
+9;Wzgórze Partyzantów;DWORZEC GŁÓWNY;2.0;16
+10;DWORZEC GŁÓWNY;DWORZEC GŁÓWNY;2.0;16
+11;DWORZEC GŁÓWNY;DWORZEC AUTOBUSOWY;3.0;16
+12;DWORZEC AUTOBUSOWY;Joannitów;2.0;16
+13;Joannitów;Gajowa;1.0;16
+14;Gajowa;Prudnicka;2.0;16
+15;Prudnicka;Kamienna;2.0;16
+16;Kamienna;Bardzka;1.0;16
+17;Bardzka;Nyska;1.0;16
+18;Nyska;Tarnogajska;1.0;16
+19;Tarnogajska;Klimasa;2.0;16
+20;Klimasa;TARNOGAJ;1.0;16
+1;POŚWIĘTNE;Wołowska;1.0;74
+2;Wołowska;Kępińska;1.0;74
+3;Kępińska;Kamieńskiego;2.0;74
+4;Kamieńskiego;Broniewskiego;2.0;74
+5;Broniewskiego;Trzebnicka;3.0;74
+6;Trzebnicka;DWORZEC NADODRZE;2.0;74
+7;DWORZEC NADODRZE;Paulińska;2.0;74
+8;Paulińska;Dubois;3.0;74
+9;Dubois;Pomorska;2.0;74
+10;Pomorska;Dmowskiego;2.0;74
+11;Dmowskiego;PL. JANA PAWŁA II;2.0;74
+12;PL. JANA PAWŁA II;pl. Orląt Lwowskich;3.0;74
+13;pl. Orląt Lwowskich;pl. Legionów;2.0;74
+14;pl. Legionów;Kolejowa;1.0;74
+15;Kolejowa;Grabiszyńska;1.0;74
+16;Grabiszyńska;Pereca;2.0;74
+17;Pereca;Stalowa;2.0;74
+18;Stalowa;pl. Srebrny;1.0;74
+19;pl. Srebrny;Bzowa (Centrum Zajezdnia);1.0;74
+20;Bzowa (Centrum Zajezdnia);Hutmen;1.0;74
+21;Hutmen;FAT;2.0;74
+22;FAT;FAT;1.0;74
+23;FAT;Aleja Pracy;2.0;74
+24;Aleja Pracy;Ojca Beyzyma;1.0;74
+25;Ojca Beyzyma;Mielecka;2.0;74
+26;Mielecka;Gajowicka;1.0;74
+27;Gajowicka;Hallera;2.0;74
+28;Hallera;Jastrzębia;1.0;74
+29;Jastrzębia;Orla;1.0;74
+30;Orla;KRZYKI;3.0;74
+1;SĘPOLNO;Godebskiego (AWF Wrocław);1.0;17
+2;Godebskiego (AWF Wrocław);8 Maja;1.0;17
+3;8 Maja;Stadion Olimpijski;1.0;17
+4;Stadion Olimpijski;Karłowicza;1.0;17
+5;Karłowicza;Chopina;1.0;17
+6;Chopina;Kochanowskiego;2.0;17
+7;Kochanowskiego;Grunwaldzka;1.0;17
+8;Grunwaldzka;Piastowska;1.0;17
+9;Piastowska;Górnickiego;2.0;17
+10;Górnickiego;Ogród Botaniczny;2.0;17
+11;Ogród Botaniczny;pl. Bema;2.0;17
+12;pl. Bema;Hala Targowa;2.0;17
+13;Hala Targowa;pl. Nowy Targ;1.0;17
+14;pl. Nowy Targ;GALERIA DOMINIKAŃSKA;2.0;17
+15;GALERIA DOMINIKAŃSKA;Park Staromiejski;2.0;17
+16;Park Staromiejski;Opera;2.0;17
+17;Opera;Arkady (Capitol);4.0;17
+18;Arkady (Capitol);Zaolziańska;2.0;17
+19;Zaolziańska;Wielka;1.0;17
+20;Wielka;Rondo;2.0;17
+21;Rondo;Sztabowa;1.0;17
+22;Sztabowa;Hallera;2.0;17
+23;Hallera;Jastrzębia;1.0;17
+24;Jastrzębia;Orla;1.0;17
+25;Orla;KRZYKI;3.0;17
+26;KRZYKI;Radio i Telewizja;1.0;17
+27;Radio i Telewizja;Przyjaźni;2.0;17
+28;Przyjaźni;Braterska;1.0;17
+29;Braterska;Sąsiedzka;1.0;17
+30;Sąsiedzka;KLECINA;1.0;17
+1;BISKUPIN;Spółdzielcza;1.0;10
+2;Spółdzielcza;Piramowicza;1.0;10
+3;Piramowicza;Chełmońskiego;1.0;10
+4;Chełmońskiego;Tramwajowa;1.0;10
+5;Tramwajowa;ZOO;2.0;10
+6;ZOO;Hala Stulecia;1.0;10
+7;Hala Stulecia;Kliniki - Politechnika Wrocławska;2.0;10
+8;Kliniki - Politechnika Wrocławska;PL. GRUNWALDZKI;2.0;10
+9;PL. GRUNWALDZKI;Reja;1.0;10
+10;Reja;Katedra;2.0;10
+11;Katedra;Urząd Wojewódzki (Muzeum Narodowe);2.0;10
+12;Urząd Wojewódzki (Muzeum Narodowe);GALERIA DOMINIKAŃSKA;4.0;10
+13;GALERIA DOMINIKAŃSKA;Świdnicka;2.0;10
+14;Świdnicka;Zamkowa;1.0;10
+15;Zamkowa;Rynek;2.0;10
+16;Rynek;PL. JANA PAWŁA II;3.0;10
+17;PL. JANA PAWŁA II;Młodych Techników;2.0;10
+18;Młodych Techników;pl. Strzegomski (Muzeum Współczesne);1.0;10
+19;pl. Strzegomski (Muzeum Współczesne);ZACHODNIA (Stacja kolejowa);2.0;10
+20;ZACHODNIA (Stacja kolejowa);Niedźwiedzia;2.0;10
+21;Niedźwiedzia;Małopanewska;1.0;10
+22;Małopanewska;Kwiska;2.0;10
+23;Kwiska;DH Astra;2.0;10
+24;DH Astra;Park Zachodni;1.0;10
+25;Park Zachodni;Bajana;1.0;10
+26;Bajana;Metalowców;2.0;10
+27;Metalowców;PILCZYCE;1.0;10
+28;PILCZYCE;Tarczyński Arena (Lotnicza);2.0;10
+29;Tarczyński Arena (Lotnicza);Glinianki;1.0;10
+30;Glinianki;Aleja Architektów;1.0;10
+31;Aleja Architektów;Grabowa;1.0;10
+32;Grabowa;Kosmonautów (Szpital);2.0;10
+33;Kosmonautów (Szpital);Kamiennogórska (Ośrodek dla niewidomych);1.0;10
+34;Kamiennogórska (Ośrodek dla niewidomych);Złotnicka;2.0;10
+35;Złotnicka;Wschowska;1.0;10
+36;Wschowska;Jeleniogórska;1.0;10
+37;Jeleniogórska;LEŚNICA;1.0;10
+1;POŚWIĘTNE;Wołowska;1.0;7
+2;Wołowska;Kępińska;1.0;7
+3;Kępińska;Kamieńskiego;2.0;7
+4;Kamieńskiego;Broniewskiego;2.0;7
+5;Broniewskiego;Trzebnicka;3.0;7
+6;Trzebnicka;DWORZEC NADODRZE;2.0;7
+7;DWORZEC NADODRZE;Paulińska;2.0;7
+8;Paulińska;Dubois;3.0;7
+9;Dubois;Uniwersytet Wrocławski;2.0;7
+10;Uniwersytet Wrocławski;Rynek;3.0;7
+11;Rynek;Narodowe Forum Muzyki;2.0;7
+12;Narodowe Forum Muzyki;Renoma;4.0;7
+13;Renoma;Arkady (Capitol);2.0;7
+14;Arkady (Capitol);Zaolziańska;2.0;7
+15;Zaolziańska;Wielka;1.0;7
+16;Wielka;Rondo;2.0;7
+17;Rondo;Sztabowa;1.0;7
+18;Sztabowa;Hallera;2.0;7
+19;Hallera;Jastrzębia;1.0;7
+20;Jastrzębia;Orla;1.0;7
+21;Orla;KRZYKI;3.0;7
+22;KRZYKI;Radio i Telewizja;1.0;7
+23;Radio i Telewizja;Przyjaźni;2.0;7
+24;Przyjaźni;Braterska;1.0;7
+25;Braterska;Sąsiedzka;1.0;7
+26;Sąsiedzka;KLECINA;1.0;7
+1;PARK POŁUDNIOWY;Pułtuska;1.0;9
+2;Pułtuska;Weigla (Szpital);1.0;9
+3;Weigla (Szpital);Jaworowa;1.0;9
+4;Jaworowa;Wiśniowa;1.0;9
+5;Wiśniowa;Uniwersytet Ekonomiczny;2.0;9
+6;Uniwersytet Ekonomiczny;Sanocka;2.0;9
+7;Sanocka;DWORZEC AUTOBUSOWY;3.0;9
+8;DWORZEC AUTOBUSOWY;DWORZEC GŁÓWNY;3.0;9
+9;DWORZEC GŁÓWNY;Wzgórze Partyzantów;2.0;9
+10;Wzgórze Partyzantów;GALERIA DOMINIKAŃSKA;3.0;9
+11;GALERIA DOMINIKAŃSKA;pl. Nowy Targ;1.0;9
+12;pl. Nowy Targ;Hala Targowa;1.0;9
+13;Hala Targowa;pl. Bema;3.0;9
+14;pl. Bema;Ogród Botaniczny;2.0;9
+15;Ogród Botaniczny;Górnickiego;1.0;9
+16;Górnickiego;Piastowska;1.0;9
+17;Piastowska;Grunwaldzka;2.0;9
+18;Grunwaldzka;Kochanowskiego;2.0;9
+19;Kochanowskiego;Chopina;2.0;9
+20;Chopina;Karłowicza;1.0;9
+21;Karłowicza;Stadion Olimpijski;1.0;9
+22;Stadion Olimpijski;8 Maja;1.0;9
+23;8 Maja;Godebskiego (AWF Wrocław);1.0;9
+24;Godebskiego (AWF Wrocław);SĘPOLNO;2.0;9
+1;TARCZYŃSKI ARENA (Królewiecka);Dworska;1.0;31
+2;Dworska;Górnicza;1.0;31
+3;Górnicza;Modra;1.0;31
+4;Modra;Pilczycka (Anima);1.0;31
+5;Pilczycka (Anima);Kolista;1.0;31
+6;Kolista;Kwiska;4.0;31
+7;Kwiska;Małopanewska;1.0;31
+8;Małopanewska;Niedźwiedzia;2.0;31
+9;Niedźwiedzia;ZACHODNIA (Stacja kolejowa);3.0;31
+10;ZACHODNIA (Stacja kolejowa);pl. Strzegomski (Muzeum Współczesne);2.0;31
+11;pl. Strzegomski (Muzeum Współczesne);Młodych Techników;1.0;31
+12;Młodych Techników;PL. JANA PAWŁA II;2.0;31
+13;PL. JANA PAWŁA II;pl. Orląt Lwowskich;3.0;31
+14;pl. Orląt Lwowskich;pl. Legionów;2.0;31
+15;pl. Legionów;Arkady (Capitol);2.0;31
+16;Arkady (Capitol);DWORZEC AUTOBUSOWY;4.0;31
+17;DWORZEC AUTOBUSOWY;Joannitów;2.0;31
+18;Joannitów;Gajowa;1.0;31
+19;Gajowa;Prudnicka;2.0;31
+20;Prudnicka;Kamienna;2.0;31
+21;Kamienna;Bardzka;1.0;31
+22;Bardzka;Krynicka;1.0;31
+23;Krynicka;Morwowa;1.0;31
+24;Morwowa;Świeradowska;1.0;31
+25;Świeradowska;GAJ;2.0;31
+1;KARŁOWICE;Trzebnicka;3.0;8
+2;Trzebnicka;DWORZEC NADODRZE;2.0;8
+3;DWORZEC NADODRZE;DWORZEC NADODRZE;1.0;8
+4;DWORZEC NADODRZE;Słowiańska;2.0;8
+5;Słowiańska;Nowowiejska;1.0;8
+6;Nowowiejska;Jedności Narodowej;1.0;8
+7;Jedności Narodowej;Na Szańcach;1.0;8
+8;Na Szańcach;pl. Bema;2.0;8
+9;pl. Bema;Hala Targowa;2.0;8
+10;Hala Targowa;pl. Nowy Targ;1.0;8
+11;pl. Nowy Targ;GALERIA DOMINIKAŃSKA;2.0;8
+12;GALERIA DOMINIKAŃSKA;Wzgórze Partyzantów;2.0;8
+13;Wzgórze Partyzantów;DWORZEC GŁÓWNY;2.0;8
+14;DWORZEC GŁÓWNY;DWORZEC GŁÓWNY;2.0;8
+15;DWORZEC GŁÓWNY;DWORZEC AUTOBUSOWY;3.0;8
+16;DWORZEC AUTOBUSOWY;Joannitów;2.0;8
+17;Joannitów;Gajowa;1.0;8
+18;Gajowa;Prudnicka;2.0;8
+19;Prudnicka;Kamienna;2.0;8
+20;Kamienna;Bardzka;1.0;8
+21;Bardzka;Nyska;1.0;8
+22;Nyska;Tarnogajska;1.0;8
+23;Tarnogajska;Klimasa;2.0;8
+24;Klimasa;TARNOGAJ;1.0;8
+1;POŚWIĘTNE;Wołowska;1.0;1
+2;Wołowska;Kępińska;1.0;1
+3;Kępińska;Kamieńskiego;2.0;1
+4;Kamieńskiego;Broniewskiego;2.0;1
+5;Broniewskiego;Trzebnicka;3.0;1
+6;Trzebnicka;DWORZEC NADODRZE;2.0;1
+7;DWORZEC NADODRZE;DWORZEC NADODRZE;1.0;1
+8;DWORZEC NADODRZE;Słowiańska;2.0;1
+9;Słowiańska;Nowowiejska;2.0;1
+10;Nowowiejska;Wyszyńskiego;2.0;1
+11;Wyszyńskiego;Prusa;1.0;1
+12;Prusa;Piastowska;2.0;1
+13;Piastowska;PL. GRUNWALDZKI;3.0;1
+14;PL. GRUNWALDZKI;Kliniki - Politechnika Wrocławska;2.0;1
+15;Kliniki - Politechnika Wrocławska;Hala Stulecia;2.0;1
+16;Hala Stulecia;ZOO;1.0;1
+17;ZOO;Tramwajowa;2.0;1
+18;Tramwajowa;Chełmońskiego;1.0;1
+19;Chełmońskiego;Piramowicza;1.0;1
+20;Piramowicza;Spółdzielcza;1.0;1
+21;Spółdzielcza;BISKUPIN;2.0;1
+1;KROMERA;Mosty Warszawskie;2.0;6
+2;Mosty Warszawskie;Daszyńskiego;1.0;6
+3;Daszyńskiego;Nowowiejska;2.0;6
+4;Nowowiejska;Jedności Narodowej;1.0;6
+5;Jedności Narodowej;Na Szańcach;1.0;6
+6;Na Szańcach;pl. Bema;2.0;6
+7;pl. Bema;Dubois;2.0;6
+8;Dubois;Uniwersytet Wrocławski;2.0;6
+9;Uniwersytet Wrocławski;Rynek;3.0;6
+10;Rynek;Narodowe Forum Muzyki;2.0;6
+11;Narodowe Forum Muzyki;Renoma;4.0;6
+12;Renoma;Arkady (Capitol);2.0;6
+13;Arkady (Capitol);Zaolziańska;2.0;6
+14;Zaolziańska;Wielka;1.0;6
+15;Wielka;Rondo;2.0;6
+16;Rondo;Sztabowa;1.0;6
+17;Sztabowa;Hallera;2.0;6
+18;Hallera;Jastrzębia;1.0;6
+19;Jastrzębia;Orla;1.0;6
+20;Orla;KRZYKI;3.0;6
+1;POŚWIĘTNE;Wołowska;1.0;70
+2;Wołowska;Kępińska;1.0;70
+3;Kępińska;Kamieńskiego;2.0;70
+4;Kamieńskiego;Broniewskiego;2.0;70
+5;Broniewskiego;Trzebnicka;3.0;70
+6;Trzebnicka;DWORZEC NADODRZE;2.0;70
+7;DWORZEC NADODRZE;DWORZEC NADODRZE;1.0;70
+8;DWORZEC NADODRZE;Słowiańska;2.0;70
+9;Słowiańska;Nowowiejska;2.0;70
+10;Nowowiejska;Wyszyńskiego;2.0;70
+11;Wyszyńskiego;Prusa;1.0;70
+12;Prusa;Piastowska;2.0;70
+13;Piastowska;PL. GRUNWALDZKI;4.0;70
+14;PL. GRUNWALDZKI;most Grunwaldzki;1.0;70
+15;most Grunwaldzki;Urząd Wojewódzki (Impart);2.0;70
+16;Urząd Wojewódzki (Impart);pl. Wróblewskiego;2.0;70
+17;pl. Wróblewskiego;GALERIA DOMINIKAŃSKA;3.0;70
+18;GALERIA DOMINIKAŃSKA;Wzgórze Partyzantów;2.0;70
+19;Wzgórze Partyzantów;DWORZEC GŁÓWNY;2.0;70
+20;DWORZEC GŁÓWNY;Arkady (Capitol);3.0;70
+21;Arkady (Capitol);Zaolziańska;2.0;70
+22;Zaolziańska;Wielka;1.0;70
+23;Wielka;Rondo;2.0;70
+24;Rondo;Sztabowa;1.0;70
+25;Sztabowa;Hallera;2.0;70
+26;Hallera;Gajowicka;2.0;70
+27;Gajowicka;Mielecka;2.0;70
+28;Mielecka;Ojca Beyzyma;1.0;70
+1;KROMERA;Mosty Warszawskie;2.0;23
+2;Mosty Warszawskie;Daszyńskiego;1.0;23
+3;Daszyńskiego;Nowowiejska;2.0;23
+4;Nowowiejska;Jedności Narodowej;1.0;23
+5;Jedności Narodowej;Na Szańcach;1.0;23
+6;Na Szańcach;pl. Bema;2.0;23
+7;pl. Bema;Hala Targowa;2.0;23
+8;Hala Targowa;pl. Nowy Targ;1.0;23
+9;pl. Nowy Targ;GALERIA DOMINIKAŃSKA;2.0;23
+10;GALERIA DOMINIKAŃSKA;Park Staromiejski;2.0;23
+11;Park Staromiejski;Opera;2.0;23
+12;Opera;pl. Orląt Lwowskich;4.0;23
+13;pl. Orląt Lwowskich;Dworzec Świebodzki;2.0;23
+14;Dworzec Świebodzki;Smolecka;2.0;23
+15;Smolecka;Śrubowa;1.0;23
+16;Śrubowa;Wrocławski Park Przemysłowy;1.0;23
+17;Wrocławski Park Przemysłowy;Wrocławski Park Przemysłowy;1.0;23
+1;KARŁOWICE;Trzebnicka;3.0;15
+2;Trzebnicka;DWORZEC NADODRZE;2.0;15
+3;DWORZEC NADODRZE;Paulińska;2.0;15
+4;Paulińska;Dubois;3.0;15
+5;Dubois;Pomorska;2.0;15
+6;Pomorska;Dmowskiego;2.0;15
+7;Dmowskiego;PL. JANA PAWŁA II;2.0;15
+8;PL. JANA PAWŁA II;pl. Orląt Lwowskich;3.0;15
+9;pl. Orląt Lwowskich;pl. Legionów;2.0;15
+10;pl. Legionów;Arkady (Capitol);2.0;15
+11;Arkady (Capitol);DWORZEC AUTOBUSOWY;4.0;15
+12;DWORZEC AUTOBUSOWY;Sanocka;3.0;15
+13;Sanocka;Uniwersytet Ekonomiczny;2.0;15
+14;Uniwersytet Ekonomiczny;Wiśniowa;2.0;15
+15;Wiśniowa;Jaworowa;1.0;15
+16;Jaworowa;Weigla (Szpital);2.0;15
+17;Weigla (Szpital);Pułtuska;1.0;15
+18;Pułtuska;PARK POŁUDNIOWY;1.0;15
+1;KROMERA;Mosty Warszawskie;2.0;6
+2;Mosty Warszawskie;Daszyńskiego;1.0;6
+3;Daszyńskiego;Nowowiejska;2.0;6
+4;Nowowiejska;Jedności Narodowej;1.0;6
+5;Jedności Narodowej;Na Szańcach;1.0;6
+6;Na Szańcach;pl. Bema;2.0;6
+7;pl. Bema;Dubois;2.0;6
+8;Dubois;Uniwersytet Wrocławski;2.0;6
+9;Uniwersytet Wrocławski;Rynek;3.0;6
+10;Rynek;Narodowe Forum Muzyki;2.0;6
+11;Narodowe Forum Muzyki;Renoma;4.0;6
+12;Renoma;Arkady (Capitol);2.0;6
+13;Arkady (Capitol);Zaolziańska;2.0;6
+14;Zaolziańska;Wielka;1.0;6
+15;Wielka;Rondo;2.0;6
+16;Rondo;Sztabowa;1.0;6
+17;Sztabowa;Hallera;2.0;6
+18;Hallera;Jastrzębia;1.0;6
+19;Jastrzębia;Orla;1.0;6
+20;Orla;KRZYKI;3.0;6
+1;POŚWIĘTNE;Wołowska;1.0;70
+2;Wołowska;Kępińska;1.0;70
+3;Kępińska;Kamieńskiego;2.0;70
+4;Kamieńskiego;Broniewskiego;2.0;70
+5;Broniewskiego;Trzebnicka;3.0;70
+6;Trzebnicka;DWORZEC NADODRZE;2.0;70
+7;DWORZEC NADODRZE;DWORZEC NADODRZE;1.0;70
+8;DWORZEC NADODRZE;Słowiańska;2.0;70
+9;Słowiańska;Nowowiejska;2.0;70
+10;Nowowiejska;Wyszyńskiego;2.0;70
+11;Wyszyńskiego;Prusa;1.0;70
+12;Prusa;Piastowska;2.0;70
+13;Piastowska;PL. GRUNWALDZKI;4.0;70
+14;PL. GRUNWALDZKI;most Grunwaldzki;1.0;70
+15;most Grunwaldzki;Urząd Wojewódzki (Impart);2.0;70
+16;Urząd Wojewódzki (Impart);pl. Wróblewskiego;2.0;70
+17;pl. Wróblewskiego;GALERIA DOMINIKAŃSKA;3.0;70
+18;GALERIA DOMINIKAŃSKA;Wzgórze Partyzantów;2.0;70
+19;Wzgórze Partyzantów;DWORZEC GŁÓWNY;2.0;70
+20;DWORZEC GŁÓWNY;Arkady (Capitol);3.0;70
+21;Arkady (Capitol);Zaolziańska;2.0;70
+22;Zaolziańska;Wielka;1.0;70
+23;Wielka;Rondo;2.0;70
+24;Rondo;Sztabowa;1.0;70
+25;Sztabowa;Hallera;2.0;70
+26;Hallera;Gajowicka;2.0;70
+27;Gajowicka;Mielecka;2.0;70
+28;Mielecka;Ojca Beyzyma;1.0;70
+1;KROMERA;Mosty Warszawskie;2.0;23
+2;Mosty Warszawskie;Daszyńskiego;1.0;23
+3;Daszyńskiego;Nowowiejska;2.0;23
+4;Nowowiejska;Jedności Narodowej;1.0;23
+5;Jedności Narodowej;Na Szańcach;1.0;23
+6;Na Szańcach;pl. Bema;2.0;23
+7;pl. Bema;Hala Targowa;2.0;23
+8;Hala Targowa;pl. Nowy Targ;1.0;23
+9;pl. Nowy Targ;GALERIA DOMINIKAŃSKA;2.0;23
+10;GALERIA DOMINIKAŃSKA;Park Staromiejski;2.0;23
+11;Park Staromiejski;Opera;2.0;23
+12;Opera;pl. Orląt Lwowskich;4.0;23
+13;pl. Orląt Lwowskich;Dworzec Świebodzki;2.0;23
+14;Dworzec Świebodzki;Smolecka;2.0;23
+15;Smolecka;Śrubowa;1.0;23
+16;Śrubowa;Wrocławski Park Przemysłowy;1.0;23
+17;Wrocławski Park Przemysłowy;Wrocławski Park Przemysłowy;1.0;23
+1;KARŁOWICE;Trzebnicka;3.0;15
+2;Trzebnicka;DWORZEC NADODRZE;2.0;15
+3;DWORZEC NADODRZE;Paulińska;2.0;15
+4;Paulińska;Dubois;3.0;15
+5;Dubois;Pomorska;2.0;15
+6;Pomorska;Dmowskiego;2.0;15
+7;Dmowskiego;PL. JANA PAWŁA II;2.0;15
+8;PL. JANA PAWŁA II;pl. Orląt Lwowskich;3.0;15
+9;pl. Orląt Lwowskich;pl. Legionów;2.0;15
+10;pl. Legionów;Arkady (Capitol);2.0;15
+11;Arkady (Capitol);DWORZEC AUTOBUSOWY;4.0;15
+12;DWORZEC AUTOBUSOWY;Sanocka;3.0;15
+13;Sanocka;Uniwersytet Ekonomiczny;2.0;15
+14;Uniwersytet Ekonomiczny;Wiśniowa;2.0;15
+15;Wiśniowa;Jaworowa;1.0;15
+16;Jaworowa;Weigla (Szpital);2.0;15
+17;Weigla (Szpital);Pułtuska;1.0;15
+18;Pułtuska;PARK POŁUDNIOWY;1.0;15
