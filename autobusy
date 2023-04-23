@@ -1,0 +1,2748 @@
+;source;target;delta_time;line_name
+1;Dworzec Główny (Dworcowa);Wzgórze Partyzantów;4.0;148
+2;Wzgórze Partyzantów;Renoma;2.0;148
+3;Renoma;pl. Orląt Lwowskich;4.0;148
+4;pl. Orląt Lwowskich;Dworzec Świebodzki;2.0;148
+5;Dworzec Świebodzki;Smolecka;2.0;148
+6;Smolecka;Śrubowa;1.0;148
+7;Śrubowa;Wrocławski Park Przemysłowy;1.0;148
+8;Wrocławski Park Przemysłowy;Dolnośląska Szkoła Wyższa;2.0;148
+9;Dolnośląska Szkoła Wyższa;Fabryczna;2.0;148
+10;Fabryczna;Otyńska;2.0;148
+11;Otyńska;Strzegomska 148;2.0;148
+12;Strzegomska 148;Nowodworska;2.0;148
+13;Nowodworska;Nowy Dwór;2.0;148
+14;Nowy Dwór;Chociebuska;3.0;148
+15;Chociebuska;Nowy Dwór (Rogowska);1.0;148
+16;Nowy Dwór (Rogowska);Nowy Dwór (Stacja kolejowa);1.0;148
+17;Nowy Dwór (Stacja kolejowa);Kołobrzeska;2.0;148
+18;Kołobrzeska;Szczecińska;2.0;148
+19;Szczecińska;Żerniki;2.0;148
+20;Żerniki;Strachowicka;1.0;148
+21;Strachowicka;Żernicka (Stacja kolejowa);2.0;148
+22;Żernicka (Stacja kolejowa);Małopolska (Ośrodek dla niewidomych);3.0;148
+23;Małopolska (Ośrodek dla niewidomych);Złotniki;1.0;148
+24;Złotniki;Wielkopolska;1.0;148
+25;Wielkopolska;Złotnicka;1.0;148
+26;Złotnicka;Wschowska;2.0;148
+27;Wschowska;LEŚNICA;4.0;148
+1;Stadion Olimpijski;8 Maja;2.0;345
+2;8 Maja;Godebskiego (AWF Wrocław);1.0;345
+3;Godebskiego (AWF Wrocław);SĘPOLNO;1.0;345
+4;SĘPOLNO;Libelta;2.0;345
+5;Libelta;Bacciarellego;2.0;345
+6;Bacciarellego;BARTOSZOWICE;2.0;345
+7;BARTOSZOWICE;BISKUPIN;1.0;345
+8;BISKUPIN;Spółdzielcza;1.0;345
+9;Spółdzielcza;Piramowicza;1.0;345
+10;Piramowicza;Chełmońskiego;1.0;345
+11;Chełmońskiego;Tramwajowa;2.0;345
+12;Tramwajowa;Hala Stulecia;2.0;345
+13;Hala Stulecia;Witelona;3.0;345
+14;Witelona;Kochanowskiego;1.0;345
+15;Kochanowskiego;Śniadeckich;3.0;345
+16;Śniadeckich;Moniuszki;2.0;345
+17;Moniuszki;Stadion Olimpijski;1.0;345
+1;GAJ - pętla;Morwowa;2.0;146
+2;Morwowa;Krynicka;1.0;146
+3;Krynicka;Bardzka;3.0;146
+4;Bardzka;Orzechowa;2.0;146
+5;Orzechowa;ROD Bajki;3.0;146
+6;ROD Bajki;Śliczna;1.0;146
+7;Śliczna;Borowska;2.0;146
+8;Borowska;DWORZEC AUTOBUSOWY;4.0;146
+9;DWORZEC AUTOBUSOWY;DWORZEC GŁÓWNY;3.0;146
+10;DWORZEC GŁÓWNY;Dworzec Główny (Dworcowa);3.0;146
+11;Dworzec Główny (Dworcowa);skwer Krasińskiego;1.0;146
+12;skwer Krasińskiego;Krasińskiego;1.0;146
+13;Krasińskiego;Urząd Wojewódzki (Impart);3.0;146
+14;Urząd Wojewódzki (Impart);most Grunwaldzki;2.0;146
+15;most Grunwaldzki;PL. GRUNWALDZKI;2.0;146
+16;PL. GRUNWALDZKI;Kliniki - Politechnika Wrocławska;2.0;146
+17;Kliniki - Politechnika Wrocławska;Hala Stulecia;2.0;146
+18;Hala Stulecia;Tramwajowa;2.0;146
+19;Tramwajowa;Partyzantów;2.0;146
+20;Partyzantów;Okrzei;1.0;146
+21;Okrzei;Monte Cassino;1.0;146
+22;Monte Cassino;Bacciarellego;1.0;146
+23;Bacciarellego;BARTOSZOWICE;2.0;146
+1;DWORZEC GŁÓWNY;DWORZEC AUTOBUSOWY;5.0;112
+2;DWORZEC AUTOBUSOWY;Dyrekcyjna;2.0;112
+3;Dyrekcyjna;Borowska;3.0;112
+4;Borowska;Śliczna;2.0;112
+5;Śliczna;ROD Bajki;2.0;112
+6;ROD Bajki;Działkowa;3.0;112
+7;Działkowa;Borowska (Szpital);3.0;112
+8;Borowska (Szpital);Przystankowa;2.0;112
+9;Przystankowa;Wojszyce;1.0;112
+10;Wojszyce;Parafialna;1.0;112
+11;Parafialna;Świt;1.0;112
+12;Świt;Ołtaszyn;3.0;112
+13;Ołtaszyn;Kutrzeby;2.0;112
+14;Kutrzeby;ROD Storczyk;1.0;112
+15;ROD Storczyk;Wysoka;1.0;112
+16;Wysoka;Wysoka - Chabrowa;2.0;112
+17;Wysoka - Chabrowa;Wysoka - Radosna;2.0;112
+18;Wysoka - Radosna;Wysoka - osiedle;2.0;112
+19;Wysoka - osiedle;rondo Św. Ojca Pio;3.0;112
+20;rondo Św. Ojca Pio;rondo Św. Ojca Pio;1.0;112
+21;rondo Św. Ojca Pio;Ożynowa;1.0;112
+22;Ożynowa;Malinowa;1.0;112
+23;Malinowa;Wyścigowa;2.0;112
+24;Wyścigowa;PARK POŁUDNIOWY;2.0;112
+25;PARK POŁUDNIOWY;KRZYKI;2.0;112
+1;PL. GRUNWALDZKI;Kochanowskiego;2.0;911
+2;Kochanowskiego;Śniadeckich;2.0;911
+3;Śniadeckich;Kwidzyńska;4.0;911
+4;Kwidzyńska;Brücknera;2.0;911
+5;Brücknera;C.H. Korona;2.0;911
+6;C.H. Korona;Psie Pole;3.0;911
+7;Psie Pole;Psie Pole (Rondo Lotników Polskich);2.0;911
+8;Psie Pole (Rondo Lotników Polskich);MULICKA;1.0;911
+9;MULICKA;Gorlicka;1.0;911
+10;Gorlicka;Palacha;1.0;911
+11;Palacha;Zgorzelisko;1.0;911
+12;Zgorzelisko;Kurlandzka;0.0;911
+13;Kurlandzka;Mroźna;1.0;911
+14;Mroźna;Wilczyce;0.0;911
+15;Wilczyce;Wilczyce - Wrocławska (na wys. nr 1F);1.0;911
+16;Wilczyce - Wrocławska (na wys. nr 1F);Wilczyce - szkoła;1.0;911
+17;Wilczyce - szkoła;Wilczyce - Dworska;1.0;911
+18;Wilczyce - Dworska;Wilczyce - Dębowa;1.0;911
+19;Wilczyce - Dębowa;Wilczyce - Sosnowa;1.0;911
+20;Wilczyce - Sosnowa;Kiełczów - osiedle;1.0;911
+21;Kiełczów - osiedle;Kiełczów - cmentarz;2.0;911
+22;Kiełczów - cmentarz;Kiełczów - pętla/Wrocławska;1.0;911
+23;Kiełczów - pętla/Wrocławska;Kiełczów - Zgodna;1.0;911
+24;Kiełczów - Zgodna;Piecowice;4.0;911
+25;Piecowice;Bielawa;4.0;911
+1;PL. GRUNWALDZKI;Kliniki - Politechnika Wrocławska;2.0;115
+2;Kliniki - Politechnika Wrocławska;Mickiewicza;2.0;115
+3;Mickiewicza;Park Szczytnicki;1.0;115
+4;Park Szczytnicki;8 Maja;1.0;115
+5;8 Maja;Godebskiego (AWF Wrocław);1.0;115
+6;Godebskiego (AWF Wrocław);SĘPOLNO;1.0;115
+7;SĘPOLNO;Monopolowa;2.0;115
+8;Monopolowa;Kolumba;1.0;115
+9;Kolumba;Magellana;1.0;115
+10;Magellana;Swojczyce;2.0;115
+11;Swojczyce;Mikołowska;2.0;115
+12;Mikołowska;Niedziałkowskiego;1.0;115
+13;Niedziałkowskiego;Zagrodnicza;1.0;115
+14;Zagrodnicza;Kmieca;1.0;115
+15;Kmieca;Smocza;1.0;115
+16;Smocza;Strumykowa;1.0;115
+17;Strumykowa;Wojnów;1.0;115
+18;Wojnów;WOJNÓW (pętla);1.0;115
+1;LEŚNICA;RUBCZAKA (Stacja kolejowa);2.0;123
+2;RUBCZAKA (Stacja kolejowa);Rubczaka;1.0;123
+3;Rubczaka;Średzka;1.0;123
+4;Średzka;Wolska;2.0;123
+5;Wolska;Polkowicka;2.0;123
+6;Polkowicka;Hartmana;1.0;123
+7;Hartmana;Marszowicka;0.0;123
+8;Marszowicka;Bojanowska;1.0;123
+9;Bojanowska;Małomicka;1.0;123
+10;Małomicka;Marszowice;1.0;123
+11;Marszowice;Główna;2.0;123
+12;Główna;Wełniana;2.0;123
+13;Wełniana;Chwałkowska;1.0;123
+14;Chwałkowska;Jędrzejowska;2.0;123
+15;Jędrzejowska;Brodzka;1.0;123
+16;Brodzka;Królewiecka (Staw);2.0;123
+17;Królewiecka (Staw);Suwalska;1.0;123
+18;Suwalska;Królewiecka (Park);1.0;123
+19;Królewiecka (Park);Warmińska;1.0;123
+20;Warmińska;Królewiecka;2.0;123
+21;Królewiecka;TARCZYŃSKI ARENA (Królewiecka);1.0;123
+22;TARCZYŃSKI ARENA (Królewiecka);Dworska;1.0;123
+23;Dworska;Górnicza;2.0;123
+24;Górnicza;Rękodzielnicza;2.0;123
+25;Rękodzielnicza;Metalowców;1.0;123
+26;Metalowców;Metalowców;2.0;123
+1;GALERIA DOMINIKAŃSKA;pl. Wróblewskiego;5.0;920
+2;pl. Wróblewskiego;Na Grobli (Hydropolis);2.0;920
+3;Na Grobli (Hydropolis);Okólna;2.0;920
+4;Okólna;Międzyrzecka;3.0;920
+5;Międzyrzecka;Bierdzany;1.0;920
+6;Bierdzany;Nowy Dom;3.0;920
+7;Nowy Dom;Opatowicka nr 59;2.0;920
+8;Opatowicka nr 59;Opatowicka nr 85;1.0;920
+9;Opatowicka nr 85;OPATOWICE;1.0;920
+10;OPATOWICE;Opatowicka nr 127;1.0;920
+11;Opatowicka nr 127;Zalewowa;1.0;920
+12;Zalewowa;WOJNÓW (pętla);13.0;920
+1;KSIĘŻE WIELKIE;Brochowska;1.0;124
+2;Brochowska;Sosnowiecka;2.0;124
+3;Sosnowiecka;Zagłębiowska;2.0;124
+4;Zagłębiowska;KSIĘŻE MAŁE;3.0;124
+5;KSIĘŻE MAŁE;Karwińska;3.0;124
+6;Karwińska;Gazowa;2.0;124
+7;Gazowa;TARNOGAJ;1.0;124
+8;TARNOGAJ;Klimasa;1.0;124
+9;Klimasa;Tarnogajska;2.0;124
+10;Tarnogajska;Bardzka;3.0;124
+11;Bardzka;Kamienna;2.0;124
+12;Kamienna;Wapienna;1.0;124
+13;Wapienna;Borowska;2.0;124
+14;Borowska;Uniwersytet Ekonomiczny;6.0;124
+15;Uniwersytet Ekonomiczny;Drukarska;2.0;124
+16;Drukarska;Rondo;3.0;124
+17;Rondo;Krucza;3.0;124
+18;Krucza;Grochowa;2.0;124
+19;Grochowa;Stalowa;3.0;124
+20;Stalowa;pl. Srebrny;1.0;124
+21;pl. Srebrny;Bzowa (Centrum Zajezdnia);1.0;124
+22;Bzowa (Centrum Zajezdnia);Hutmen;2.0;124
+23;Hutmen;FAT;3.0;124
+24;FAT;ROD Oświata;2.0;124
+25;ROD Oświata;Wrocławski Park Technologiczny;1.0;124
+26;Wrocławski Park Technologiczny;Szkocka;2.0;124
+27;Szkocka;Nowodworska;4.0;124
+28;Nowodworska;Nowy Dwór;2.0;124
+29;Nowy Dwór;Chociebuska;3.0;124
+30;Chociebuska;Nowy Dwór (Rogowska);1.0;124
+31;Nowy Dwór (Rogowska);Zemska;2.0;124
+32;Zemska;NOWY DWÓR (pętla);2.0;124
+1;NOWY DWÓR (pętla);Chociebuska;5.0;927
+2;Chociebuska;Nowy Dwór;1.0;927
+3;Nowy Dwór;Rogowska;2.0;927
+4;Rogowska;MIŃSKA (Rondo Rotm. Pileckiego);4.0;927
+5;MIŃSKA (Rondo Rotm. Pileckiego);Tyrmanda;2.0;927
+6;Tyrmanda;Zagony;1.0;927
+7;Zagony;Gagarina;4.0;927
+8;Gagarina;Smolec - Chłopska/Wrzosowa;4.0;927
+9;Smolec - Chłopska/Wrzosowa;Smolec - Chłopska/Śliwkowa;1.0;927
+10;Smolec - Chłopska/Śliwkowa;Smolec - Chłopska/Cisowa;2.0;927
+11;Smolec - Chłopska/Cisowa;Smolec - Lipowa/pętla;2.0;927
+12;Smolec - Lipowa/pętla;Smolec - Dębowa (sklep);1.0;927
+13;Smolec - Dębowa (sklep);Krzeptów - skrzy.;2.0;927
+14;Krzeptów - skrzy.;Krzeptów - Boisko;1.0;927
+15;Krzeptów - Boisko;Krzeptów - Dolina Krzeptowa;1.0;927
+16;Krzeptów - Dolina Krzeptowa;Smolec - Wiśniowa;2.0;927
+1;MULICKA;Psie Pole (Rondo Lotników Polskich);1.0;147
+2;Psie Pole (Rondo Lotników Polskich);Zakrzowska;1.0;147
+3;Zakrzowska;Piwnika-Ponurego;1.0;147
+4;Piwnika-Ponurego;ROD Źródło Zdrowia;1.0;147
+5;ROD Źródło Zdrowia;ROD Pod Dębem;1.0;147
+6;ROD Pod Dębem;Białych Goździków;1.0;147
+7;Białych Goździków;KŁOKOCZYCE;0.0;147
+1;ŚLAZOWA;Góra Kapliczna;1.0;140
+2;Góra Kapliczna;Witkowska;1.0;140
+3;Witkowska;Lipska;1.0;140
+4;Lipska;Jarocińska;1.0;140
+5;Jarocińska;OSOBOWICE;2.0;140
+6;OSOBOWICE;most Milenijny;2.0;140
+7;most Milenijny;Hala Orbita;2.0;140
+8;Hala Orbita;Wejherowska;5.0;140
+9;Wejherowska;Kwiska;2.0;140
+1;Sucha;DWORZEC AUTOBUSOWY;1.0;716
+2;DWORZEC AUTOBUSOWY;DWORZEC GŁÓWNY;3.0;716
+3;DWORZEC GŁÓWNY;Kościuszki;2.0;716
+4;Kościuszki;Komuny Paryskiej;1.0;716
+5;Komuny Paryskiej;pl. Wróblewskiego;2.0;716
+6;pl. Wróblewskiego;Urząd Wojewódzki (Impart);2.0;716
+7;Urząd Wojewódzki (Impart);most Grunwaldzki;2.0;716
+8;most Grunwaldzki;PL. GRUNWALDZKI;4.0;716
+1;PL. GRUNWALDZKI;PL. GRUNWALDZKI;4.0;149
+2;PL. GRUNWALDZKI;most Grunwaldzki;2.0;149
+3;most Grunwaldzki;Poczta Główna;3.0;149
+4;Poczta Główna;skwer Krasińskiego;3.0;149
+5;skwer Krasińskiego;Wzgórze Partyzantów;1.0;149
+6;Wzgórze Partyzantów;Renoma;2.0;149
+7;Renoma;pl. Orląt Lwowskich;4.0;149
+8;pl. Orląt Lwowskich;Dworzec Świebodzki;2.0;149
+9;Dworzec Świebodzki;Smolecka;2.0;149
+10;Smolecka;Śrubowa;1.0;149
+11;Śrubowa;Wrocławski Park Przemysłowy;1.0;149
+12;Wrocławski Park Przemysłowy;Dolnośląska Szkoła Wyższa;2.0;149
+13;Dolnośląska Szkoła Wyższa;Fabryczna;2.0;149
+14;Fabryczna;Otyńska;2.0;149
+15;Otyńska;Strzegomska 148;2.0;149
+16;Strzegomska 148;Nowodworska;2.0;149
+17;Nowodworska;Nowy Dwór;2.0;149
+18;Nowy Dwór;Chociebuska;3.0;149
+19;Chociebuska;Nowy Dwór (Rogowska);1.0;149
+20;Nowy Dwór (Rogowska);Zemska;2.0;149
+21;Zemska;Nowy Dwór (Stacja kolejowa);2.0;149
+22;Nowy Dwór (Stacja kolejowa);Kołobrzeska;2.0;149
+23;Kołobrzeska;KUŹNIKI;1.0;149
+1;TYNIECKA (pętla);Jordanowska;2.0;125
+2;Jordanowska;Wiejska;4.0;125
+3;Wiejska;Solskiego;2.0;125
+4;Solskiego;OPORÓW;1.0;125
+5;OPORÓW;GRABISZYŃSKA (Cmentarz);3.0;125
+6;GRABISZYŃSKA (Cmentarz);Fiołkowa;1.0;125
+7;Fiołkowa;FAT;2.0;125
+8;FAT;Aleja Pracy;3.0;125
+9;Aleja Pracy;Inżynierska;2.0;125
+10;Inżynierska;Kolbuszowska (Stadion);1.0;125
+11;Kolbuszowska (Stadion);Krucza (Mielecka);1.0;125
+12;Krucza (Mielecka);Krucza;2.0;125
+13;Krucza;Pl. Hirszfelda;3.0;125
+14;Pl. Hirszfelda;Komandorska;3.0;125
+15;Komandorska;Arena;2.0;125
+16;Arena;EPI;1.0;125
+17;EPI;DWORZEC AUTOBUSOWY;3.0;125
+18;DWORZEC AUTOBUSOWY;Hubska (Dawida);3.0;125
+19;Hubska (Dawida);Prudnicka;2.0;125
+20;Prudnicka;Kamienna;2.0;125
+21;Kamienna;Bardzka;3.0;125
+22;Bardzka;Nyska;1.0;125
+23;Nyska;Tarnogajska;1.0;125
+24;Tarnogajska;Klimasa;2.0;125
+25;Klimasa;TARNOGAJ;1.0;125
+26;TARNOGAJ;Gazowa;1.0;125
+27;Gazowa;Wiaduktowa;1.0;125
+28;Wiaduktowa;Topolowa;2.0;125
+29;Topolowa;BROCHÓW (Stacja kolejowa);2.0;125
+30;BROCHÓW (Stacja kolejowa);Chińska;1.0;125
+31;Chińska;BROCHÓW;1.0;125
+1;DWORZEC AUTOBUSOWY;EPI;2.0;122
+2;EPI;Gwiaździsta;2.0;122
+3;Gwiaździsta;Piłsudskiego;2.0;122
+4;Piłsudskiego;pl. Orląt Lwowskich;3.0;122
+5;pl. Orląt Lwowskich;PL. JANA PAWŁA II;4.0;122
+6;PL. JANA PAWŁA II;Inowrocławska;2.0;122
+7;Inowrocławska;Szczepin;2.0;122
+8;Szczepin;LITOMSKA (ZUS);1.0;122
+9;LITOMSKA (ZUS);Poznańska;2.0;122
+10;Poznańska;DŁUGA (Politechnika);1.0;122
+11;DŁUGA (Politechnika);POPOWICE (Stacja kolejowa);2.0;122
+12;POPOWICE (Stacja kolejowa);Popowice;2.0;122
+13;Popowice;Rysia;2.0;122
+14;Rysia;Wejherowska;3.0;122
+15;Wejherowska;Kwiska;2.0;122
+16;Kwiska;Na Ostatnim Groszu;3.0;122
+17;Na Ostatnim Groszu;Orlińskiego;1.0;122
+18;Orlińskiego;Drzewieckiego;1.0;122
+19;Drzewieckiego;Hynka;2.0;122
+20;Hynka;Bystrzycka;2.0;122
+21;Bystrzycka;KUŹNIKI (Stacja kolejowa);1.0;122
+22;KUŹNIKI (Stacja kolejowa);KUŹNIKI;2.0;122
+23;KUŹNIKI;Hermanowska;1.0;122
+24;Hermanowska;Nowy Dwór;6.0;122
+25;Nowy Dwór;Nowy Dwór;1.0;122
+1;PL. GRUNWALDZKI;Kochanowskiego;2.0;921
+2;Kochanowskiego;Śniadeckich;2.0;921
+3;Śniadeckich;Kwidzyńska;4.0;921
+4;Kwidzyńska;Brücknera;2.0;921
+5;Brücknera;C.H. Korona;2.0;921
+6;C.H. Korona;Psie Pole;3.0;921
+7;Psie Pole;Psie Pole (Rondo Lotników Polskich);2.0;921
+8;Psie Pole (Rondo Lotników Polskich);MULICKA;1.0;921
+9;MULICKA;Gorlicka;1.0;921
+10;Gorlicka;Palacha;1.0;921
+11;Palacha;Zgorzelisko;1.0;921
+12;Zgorzelisko;Kurlandzka;0.0;921
+13;Kurlandzka;Mroźna;1.0;921
+14;Mroźna;Wilczyce;0.0;921
+15;Wilczyce;Wilczyce - Wrocławska (na wys. nr 1F);1.0;921
+16;Wilczyce - Wrocławska (na wys. nr 1F);Wilczyce - szkoła;1.0;921
+17;Wilczyce - szkoła;Wilczyce - Dworska;1.0;921
+18;Wilczyce - Dworska;Wilczyce - Dębowa;1.0;921
+19;Wilczyce - Dębowa;Wilczyce - Sosnowa;1.0;921
+20;Wilczyce - Sosnowa;Kiełczów - osiedle;1.0;921
+21;Kiełczów - osiedle;Kiełczów - cmentarz;2.0;921
+22;Kiełczów - cmentarz;Kiełczów - pętla/Wrocławska;1.0;921
+23;Kiełczów - pętla/Wrocławska;Kiełczów - Zgodna;1.0;921
+24;Kiełczów - Zgodna;Śliwice;4.0;921
+25;Śliwice;Pietrzykowice;2.0;921
+26;Pietrzykowice;Brzezia Łąka - cmentarz;1.0;921
+27;Brzezia Łąka - cmentarz;Brzezia Łąka - Wrocławska;1.0;921
+28;Brzezia Łąka - Wrocławska;Brzezia Łąka - skrzy. Orzechowa;1.0;921
+29;Brzezia Łąka - skrzy. Orzechowa;Brzezia Łąka - skrzy. Główna;1.0;921
+30;Brzezia Łąka - skrzy. Główna;Kątna;3.0;921
+31;Kątna;Oleśniczka;2.0;921
+32;Oleśniczka;Oleśniczka - skrzy.;1.0;921
+33;Oleśniczka - skrzy.;Raków IV;2.0;921
+34;Raków IV;Raków III;1.0;921
+35;Raków III;Raków - skrzy.;2.0;921
+1;GALERIA DOMINIKAŃSKA;skwer Krasińskiego;4.0;114
+2;skwer Krasińskiego;Dworzec Główny (Dworcowa);1.0;114
+3;Dworzec Główny (Dworcowa);Kościuszki;3.0;114
+4;Kościuszki;Świstackiego;2.0;114
+5;Świstackiego;Na Niskich Łąkach;2.0;114
+6;Na Niskich Łąkach;Krakowska;2.0;114
+7;Krakowska;KRAKOWSKA (Centrum handlowe);1.0;114
+8;KRAKOWSKA (Centrum handlowe);Park Wschodni;4.0;114
+9;Park Wschodni;Karwińska;2.0;114
+10;Karwińska;Wiaduktowa;2.0;114
+11;Wiaduktowa;Topolowa;2.0;114
+12;Topolowa;BROCHÓW (Stacja kolejowa);2.0;114
+13;BROCHÓW (Stacja kolejowa);Chińska;1.0;114
+14;Chińska;BROCHÓW;1.0;114
+15;BROCHÓW;Ziemniaczana;2.0;114
+16;Ziemniaczana;Arabska;1.0;114
+17;Arabska;BIEŃKOWICE;1.0;114
+1;KAMIEŃSKIEGO (pętla);Kamieńskiego (Szpital);1.0;319
+2;Kamieńskiego (Szpital);Jutrosińska;1.0;319
+3;Jutrosińska;Gąsiorowskiego;1.0;319
+4;Gąsiorowskiego;Mochnackiego;1.0;319
+5;Mochnackiego;Kamieńskiego;2.0;319
+6;Kamieńskiego;Bałtycka;1.0;319
+7;Bałtycka;Bezpieczna;2.0;319
+8;Bezpieczna;Różanka;1.0;319
+9;Różanka;Łużycka;1.0;319
+10;Łużycka;OSOBOWICKA (Cmentarz II);2.0;319
+11;OSOBOWICKA (Cmentarz II);OSOBOWICKA (Cmentarz);1.0;319
+12;OSOBOWICKA (Cmentarz);most Milenijny;2.0;319
+13;most Milenijny;Hala Orbita;2.0;319
+14;Hala Orbita;Wejherowska;5.0;319
+15;Wejherowska;Kwiska;2.0;319
+16;Kwiska;Na Ostatnim Groszu;3.0;319
+17;Na Ostatnim Groszu;Gądowianka;2.0;319
+18;Gądowianka;Nowodworska;4.0;319
+19;Nowodworska;Nowy Dwór;2.0;319
+20;Nowy Dwór;Rogowska;2.0;319
+21;Rogowska;MIŃSKA (Rondo Rotm. Pileckiego);4.0;319
+22;MIŃSKA (Rondo Rotm. Pileckiego);Tyrmanda;2.0;319
+23;Tyrmanda;Zagony;1.0;319
+24;Zagony;Muchobór Wielki;2.0;319
+25;Muchobór Wielki;Stanisławowska (W.K. Formaty);3.0;319
+26;Stanisławowska (W.K. Formaty);Trawowa;2.0;319
+27;Trawowa;Krzemieniecka;1.0;319
+28;Krzemieniecka;Końcowa;1.0;319
+29;Końcowa;Ostrowskiego;2.0;319
+30;Ostrowskiego;FAT;2.0;319
+31;FAT;GRABISZYŃSKA (Cmentarz);2.0;319
+32;GRABISZYŃSKA (Cmentarz);GRABISZYŃSKA (Cmentarz II);1.0;319
+33;GRABISZYŃSKA (Cmentarz II);OPORÓW;1.0;319
+34;OPORÓW;Solskiego;1.0;319
+35;Solskiego;Wiejska;1.0;319
+36;Wiejska;Adamieckiego;2.0;319
+37;Adamieckiego;Morelowskiego;1.0;319
+38;Morelowskiego;Marchewkowa;1.0;319
+39;Marchewkowa;WAŁBRZYSKA;2.0;319
+40;WAŁBRZYSKA;Kościelna;1.0;319
+41;Kościelna;KLECINA (Stacja kolejowa);2.0;319
+1;LEŚNICA;RUBCZAKA (Stacja kolejowa);1.0;917
+2;RUBCZAKA (Stacja kolejowa);Rubczaka;1.0;917
+3;Rubczaka;Serowarska;2.0;917
+4;Serowarska;Trzmielowicka;1.0;917
+5;Trzmielowicka;Pustecka;1.0;917
+6;Pustecka;Miodowa;2.0;917
+7;Miodowa;Szkolna;1.0;917
+8;Szkolna;Ratyń - skrzyżowanie;1.0;917
+9;Ratyń - skrzyżowanie;Ratyń - skrzyżowanie;0.0;917
+10;Ratyń - skrzyżowanie;Krajobrazowa;1.0;917
+11;Krajobrazowa;Las Ratyński;1.0;917
+12;Las Ratyński;Ferma - stadnina koni;1.0;917
+13;Ferma - stadnina koni;Gałów przy posesji nr 2;2.0;917
+14;Gałów przy posesji nr 2;GAŁÓW (pętla);1.0;917
+1;DWORZEC GŁÓWNY;DWORZEC AUTOBUSOWY;5.0;113
+2;DWORZEC AUTOBUSOWY;Dyrekcyjna;2.0;113
+3;Dyrekcyjna;Borowska;3.0;113
+4;Borowska;Śliczna;2.0;113
+5;Śliczna;ROD Bajki;2.0;113
+6;ROD Bajki;Działkowa;3.0;113
+7;Działkowa;Borowska (Szpital);3.0;113
+8;Borowska (Szpital);Przystankowa;2.0;113
+9;Przystankowa;Wojszyce;1.0;113
+10;Wojszyce;Parafialna;1.0;113
+11;Parafialna;Oboźna;1.0;113
+12;Oboźna;Gałczyńskiego;1.0;113
+13;Gałczyńskiego;Grota-Roweckiego;2.0;113
+14;Grota-Roweckiego;Kurpiów;1.0;113
+15;Kurpiów;Ołtaszyn;2.0;113
+16;Ołtaszyn;Strachowskiego;6.0;113
+17;Strachowskiego;rondo Św. Ojca Pio;6.0;113
+18;rondo Św. Ojca Pio;Husarska;1.0;113
+19;Husarska;Partynice (tor wyścigów konnych);3.0;113
+20;Partynice (tor wyścigów konnych);Przyjaźni;2.0;113
+21;Przyjaźni;KRZYKI;4.0;113
+1;GIEŁDOWA (Centrum Hurtu);Marchewkowa;2.0;000d
+2;Marchewkowa;WAŁBRZYSKA;2.0;000d
+3;WAŁBRZYSKA;Kościelna;2.0;000d
+4;Kościelna;KLECINA;2.0;000d
+5;KLECINA;Skarbowców;1.0;000d
+6;Skarbowców;Os. Przyjaźni;1.0;000d
+7;Os. Przyjaźni;Zimowa;1.0;000d
+8;Zimowa;KRZYKI;4.0;000d
+9;KRZYKI;Orla;2.0;000d
+10;Orla;Hallera;4.0;000d
+11;Hallera;Rondo;3.0;000d
+12;Rondo;Arkady (Capitol);7.0;000d
+13;Arkady (Capitol);GALERIA DOMINIKAŃSKA;6.0;000d
+14;GALERIA DOMINIKAŃSKA;Urząd Wojewódzki (Impart);3.0;000d
+15;Urząd Wojewódzki (Impart);most Grunwaldzki;2.0;000d
+16;most Grunwaldzki;PL. GRUNWALDZKI;3.0;000d
+17;PL. GRUNWALDZKI;Kochanowskiego;4.0;000d
+18;Kochanowskiego;Śniadeckich;2.0;000d
+19;Śniadeckich;Zacisze;2.0;000d
+20;Zacisze;Kwidzyńska;2.0;000d
+21;Kwidzyńska;Brücknera;2.0;000d
+22;Brücknera;Psie Pole;5.0;000d
+23;Psie Pole;Psie Pole (Rondo Lotników Polskich);2.0;000d
+24;Psie Pole (Rondo Lotników Polskich);Kopańskiego;2.0;000d
+25;Kopańskiego;Wallenroda;1.0;000d
+26;Wallenroda;Królewska;2.0;000d
+27;Królewska;OSIEDLE SOBIESKIEGO;2.0;000d
+1;SĘPOLNO;Libelta;2.0;253
+2;Libelta;Bacciarellego;2.0;253
+3;Bacciarellego;BARTOSZOWICE;2.0;253
+4;BARTOSZOWICE;BISKUPIN;1.0;253
+5;BISKUPIN;Spółdzielcza;1.0;253
+6;Spółdzielcza;Piramowicza;1.0;253
+7;Piramowicza;Chełmońskiego;1.0;253
+8;Chełmońskiego;Tramwajowa;2.0;253
+9;Tramwajowa;Hala Stulecia;2.0;253
+10;Hala Stulecia;Kliniki - Politechnika Wrocławska;2.0;253
+11;Kliniki - Politechnika Wrocławska;PL. GRUNWALDZKI;3.0;253
+12;PL. GRUNWALDZKI;Reja;2.0;253
+13;Reja;Katedra;2.0;253
+14;Katedra;Urząd Wojewódzki (Muzeum Narodowe);2.0;253
+15;Urząd Wojewódzki (Muzeum Narodowe);Poczta Główna;2.0;253
+16;Poczta Główna;GALERIA DOMINIKAŃSKA;3.0;253
+17;GALERIA DOMINIKAŃSKA;Wzgórze Partyzantów;2.0;253
+18;Wzgórze Partyzantów;DWORZEC GŁÓWNY;3.0;253
+19;DWORZEC GŁÓWNY;DWORZEC GŁÓWNY;1.0;253
+20;DWORZEC GŁÓWNY;DWORZEC AUTOBUSOWY;3.0;253
+21;DWORZEC AUTOBUSOWY;Dyrekcyjna;2.0;253
+22;Dyrekcyjna;Borowska;3.0;253
+23;Borowska;PETRUSEWICZA;3.0;253
+24;PETRUSEWICZA;DWORZEC AUTOBUSOWY;3.0;253
+25;DWORZEC AUTOBUSOWY;EPI;2.0;253
+26;EPI;Arkady (Capitol);3.0;253
+27;Arkady (Capitol);Renoma;2.0;253
+28;Renoma;Świdnicka;2.0;253
+29;Świdnicka;Rynek;4.0;253
+30;Rynek;PL. JANA PAWŁA II;2.0;253
+31;PL. JANA PAWŁA II;Młodych Techników;2.0;253
+32;Młodych Techników;pl. Strzegomski (Muzeum Współczesne);1.0;253
+33;pl. Strzegomski (Muzeum Współczesne);ZACHODNIA (Stacja kolejowa);2.0;253
+34;ZACHODNIA (Stacja kolejowa);Niedźwiedzia;3.0;253
+35;Niedźwiedzia;Małopanewska;1.0;253
+36;Małopanewska;Kwiska;1.0;253
+37;Kwiska;DH Astra;2.0;253
+38;DH Astra;Park Zachodni;1.0;253
+39;Park Zachodni;Bajana;3.0;253
+40;Bajana;Metalowców;2.0;253
+41;Metalowców;PILCZYCE;3.0;253
+42;PILCZYCE;Tarczyński Arena (Lotnicza);1.0;253
+43;Tarczyński Arena (Lotnicza);Glinianki;1.0;253
+44;Glinianki;Aleja Architektów;1.0;253
+45;Aleja Architektów;Grabowa;2.0;253
+46;Grabowa;Kosmonautów (Szpital);2.0;253
+47;Kosmonautów (Szpital);Kamiennogórska (Ośrodek dla niewidomych);1.0;253
+48;Kamiennogórska (Ośrodek dla niewidomych);Małopolska (Ośrodek dla niewidomych);1.0;253
+49;Małopolska (Ośrodek dla niewidomych);Złotniki;1.0;253
+50;Złotniki;Wielkopolska;1.0;253
+51;Wielkopolska;Złotnicka;1.0;253
+52;Złotnicka;Wschowska;2.0;253
+53;Wschowska;LEŚNICA;3.0;253
+54;LEŚNICA;Średzka;1.0;253
+55;Średzka;LEŚNICA;1.0;253
+1;PL. GRUNWALDZKI;PL. GRUNWALDZKI;3.0;000c
+2;PL. GRUNWALDZKI;Katedra;3.0;000c
+3;Katedra;pl. Bema;3.0;000c
+4;pl. Bema;Dubois;5.0;000c
+5;Dubois;Dmowskiego;3.0;000c
+6;Dmowskiego;Długa;2.0;000c
+7;Długa;Poznańska;1.0;000c
+8;Poznańska;DŁUGA (Politechnika);1.0;000c
+9;DŁUGA (Politechnika);Rysia;3.0;000c
+10;Rysia;Wejherowska;2.0;000c
+11;Wejherowska;Kolista;3.0;000c
+12;Kolista;Wiślańska;2.0;000c
+13;Wiślańska;Dzielna;1.0;000c
+14;Dzielna;KOZANÓW;2.0;000c
+1;KAMIEŃSKIEGO (pętla);Kamieńskiego (Szpital);1.0;000k
+2;Kamieńskiego (Szpital);Jutrosińska;1.0;000k
+3;Jutrosińska;Mochnackiego;1.0;000k
+4;Mochnackiego;Kamieńskiego;2.0;000k
+5;Kamieńskiego;Broniewskiego;3.0;000k
+6;Broniewskiego;Bałtycka;2.0;000k
+7;Bałtycka;Bezpieczna;2.0;000k
+8;Bezpieczna;Różanka;1.0;000k
+9;Różanka;Łużycka;1.0;000k
+10;Łużycka;most Osobowicki;3.0;000k
+11;most Osobowicki;Kleczkowska;3.0;000k
+12;Kleczkowska;pl. Strzelecki;1.0;000k
+13;pl. Strzelecki;Pomorska;2.0;000k
+14;Pomorska;Pomorska;1.0;000k
+15;Pomorska;Mosty Pomorskie;1.0;000k
+16;Mosty Pomorskie;Rynek;2.0;000k
+17;Rynek;Świdnicka;4.0;000k
+18;Świdnicka;GALERIA DOMINIKAŃSKA;3.0;000k
+19;GALERIA DOMINIKAŃSKA;DWORZEC GŁÓWNY;4.0;000k
+20;DWORZEC GŁÓWNY;DWORZEC AUTOBUSOWY;3.0;000k
+21;DWORZEC AUTOBUSOWY;Borowska;4.0;000k
+22;Borowska;Śliczna;2.0;000k
+23;Śliczna;Działkowa;3.0;000k
+24;Działkowa;GAJ;2.0;000k
+25;GAJ;Świeradowska;1.0;000k
+26;Świeradowska;GAJ - pętla;1.0;000k
+1;Kwiska;Wrocławski Park Technologiczny;8.0;607
+2;Wrocławski Park Technologiczny;FAT;7.0;607
+3;FAT;Wiejska;5.0;607
+4;Wiejska;WAŁBRZYSKA;6.0;607
+5;WAŁBRZYSKA;Połabian;2.0;607
+6;Połabian;Biskupice Podg. LG Electronics;25.0;607
+7;Biskupice Podg. LG Electronics;Biskupice Podg. LG Energy Solution Wr. I;4.0;607
+8;Biskupice Podg. LG Energy Solution Wr. I;Biskupice Podg. LG Chem;1.0;607
+9;Biskupice Podg. LG Chem;Biskupice Podg. LG Innotek;1.0;607
+10;Biskupice Podg. LG Innotek;Biskupice Podg. DSC Poland/Dong Yang;2.0;607
+11;Biskupice Podg. DSC Poland/Dong Yang;Biskupice Podg. LG Energy Solution Wr. I;4.0;607
+1;SĘPOLNO;Libelta;2.0;255
+2;Libelta;Monte Cassino;1.0;255
+3;Monte Cassino;Spółdzielcza;1.0;255
+4;Spółdzielcza;Piramowicza;1.0;255
+5;Piramowicza;Chełmońskiego;1.0;255
+6;Chełmońskiego;Tramwajowa;2.0;255
+7;Tramwajowa;Hala Stulecia;2.0;255
+8;Hala Stulecia;Kliniki - Politechnika Wrocławska;2.0;255
+9;Kliniki - Politechnika Wrocławska;PL. GRUNWALDZKI;3.0;255
+10;PL. GRUNWALDZKI;Reja;2.0;255
+11;Reja;Katedra;2.0;255
+12;Katedra;Urząd Wojewódzki (Muzeum Narodowe);2.0;255
+13;Urząd Wojewódzki (Muzeum Narodowe);Poczta Główna;2.0;255
+14;Poczta Główna;GALERIA DOMINIKAŃSKA;3.0;255
+15;GALERIA DOMINIKAŃSKA;Wzgórze Partyzantów;2.0;255
+16;Wzgórze Partyzantów;DWORZEC GŁÓWNY;3.0;255
+17;DWORZEC GŁÓWNY;DWORZEC GŁÓWNY;1.0;255
+18;DWORZEC GŁÓWNY;DWORZEC AUTOBUSOWY;3.0;255
+19;DWORZEC AUTOBUSOWY;Dyrekcyjna;2.0;255
+20;Dyrekcyjna;PETRUSEWICZA;4.0;255
+21;PETRUSEWICZA;Borowska;1.0;255
+22;Borowska;Śliczna;2.0;255
+23;Śliczna;ROD Bajki;2.0;255
+24;ROD Bajki;Działkowa;3.0;255
+25;Działkowa;GAJ;2.0;255
+26;GAJ;Świeradowska;1.0;255
+27;Świeradowska;Morwowa;2.0;255
+28;Morwowa;BARDZKA (Cmentarz);1.0;255
+29;BARDZKA (Cmentarz);Buforowa-Rondo;2.0;255
+30;Buforowa-Rondo;Konduktorska;1.0;255
+31;Konduktorska;Malinowskiego;1.0;255
+32;Malinowskiego;Jagodzińska;1.0;255
+33;Jagodzińska;Kajdasza;1.0;255
+34;Kajdasza;Vivaldiego;2.0;255
+35;Vivaldiego;Iwiny - rondo;2.0;255
+1;DWORZEC AUTOBUSOWY;DWORZEC AUTOBUSOWY;0.0;206
+2;DWORZEC AUTOBUSOWY;DWORZEC GŁÓWNY;3.0;206
+3;DWORZEC GŁÓWNY;Arkady (Capitol);2.0;206
+4;Arkady (Capitol);Renoma;2.0;206
+5;Renoma;pl. Orląt Lwowskich;2.0;206
+6;pl. Orląt Lwowskich;Dworzec Świebodzki;2.0;206
+7;Dworzec Świebodzki;Smolecka;2.0;206
+8;Smolecka;Śrubowa;1.0;206
+9;Śrubowa;Wrocławski Park Przemysłowy;1.0;206
+10;Wrocławski Park Przemysłowy;Dolnośląska Szkoła Wyższa;2.0;206
+11;Dolnośląska Szkoła Wyższa;Fabryczna;2.0;206
+12;Fabryczna;Otyńska;2.0;206
+13;Otyńska;Strzegomska 148;2.0;206
+14;Strzegomska 148;Nowodworska;2.0;206
+15;Nowodworska;Nowy Dwór;2.0;206
+16;Nowy Dwór;Rogowska;2.0;206
+17;Rogowska;MIŃSKA (Rondo Rotm. Pileckiego);3.0;206
+18;MIŃSKA (Rondo Rotm. Pileckiego);Park Tysiąclecia;1.0;206
+19;Park Tysiąclecia;Zagłoby;3.0;206
+20;Zagłoby;Przybyły;2.0;206
+21;Przybyły;Graniczna;1.0;206
+22;Graniczna;Skarżyńskiego;1.0;206
+23;Skarżyńskiego;Graniczna (Strachowicka);1.0;206
+24;Graniczna (Strachowicka);Rdestowa;1.0;206
+25;Rdestowa;PORT LOTNICZY;3.0;206
+1;POŚWIĘCKA (Ośrodek zdrowia);Poświęcka;1.0;248
+2;Poświęcka;Żmigrodzka (Obwodnica);2.0;248
+3;Żmigrodzka (Obwodnica);POŚWIĘTNE;1.0;248
+4;POŚWIĘTNE;Wołowska;1.0;248
+5;Wołowska;Kępińska;1.0;248
+6;Kępińska;Kamieńskiego;2.0;248
+7;Kamieńskiego;Broniewskiego;2.0;248
+8;Broniewskiego;Trzebnicka;3.0;248
+9;Trzebnicka;DWORZEC NADODRZE;2.0;248
+10;DWORZEC NADODRZE;Paulińska;2.0;248
+11;Paulińska;Dubois;3.0;248
+12;Dubois;Uniwersytet Wrocławski;2.0;248
+13;Uniwersytet Wrocławski;Rynek;3.0;248
+14;Rynek;Rynek;2.0;248
+15;Rynek;Narodowe Forum Muzyki;1.0;248
+16;Narodowe Forum Muzyki;Renoma;2.0;248
+17;Renoma;DWORZEC GŁÓWNY;3.0;248
+18;DWORZEC GŁÓWNY;DWORZEC GŁÓWNY;1.0;248
+19;DWORZEC GŁÓWNY;DWORZEC AUTOBUSOWY;3.0;248
+20;DWORZEC AUTOBUSOWY;Dyrekcyjna;2.0;248
+21;Dyrekcyjna;PETRUSEWICZA;1.0;248
+22;PETRUSEWICZA;DWORZEC AUTOBUSOWY;3.0;248
+23;DWORZEC AUTOBUSOWY;EPI;2.0;248
+24;EPI;Zaolziańska;1.0;248
+25;Zaolziańska;Wielka;2.0;248
+26;Wielka;Rondo;1.0;248
+27;Rondo;Sztabowa;1.0;248
+28;Sztabowa;Hallera;1.0;248
+29;Hallera;Jastrzębia;2.0;248
+30;Jastrzębia;Orla;1.0;248
+31;Orla;KRZYKI;2.0;248
+32;KRZYKI;Sowia;1.0;248
+33;Sowia;Chłodna;1.0;248
+34;Chłodna;Wawrzyniaka;1.0;248
+35;Wawrzyniaka;Rymarska;2.0;248
+36;Rymarska;RACŁAWICKA;1.0;248
+1;PAWŁOWICE (Widawska);Przebiśniegowa;1.0;241
+2;Przebiśniegowa;Pawłowicka;1.0;241
+3;Pawłowicka;Malwowa;1.0;241
+4;Malwowa;Azaliowa;1.0;241
+5;Azaliowa;Przedwiośnie (Stacja kolejowa);2.0;241
+6;Przedwiośnie (Stacja kolejowa);ZAKRZÓW;1.0;241
+7;ZAKRZÓW;Przedwiośnie (Stacja kolejowa);1.0;241
+8;Przedwiośnie (Stacja kolejowa);Królewska;2.0;241
+9;Królewska;OSIEDLE SOBIESKIEGO;2.0;241
+10;OSIEDLE SOBIESKIEGO;Królewska;1.0;241
+11;Królewska;Wallenroda;3.0;241
+12;Wallenroda;Zakrzowska;1.0;241
+13;Zakrzowska;Psie Pole (Rondo Lotników Polskich);2.0;241
+14;Psie Pole (Rondo Lotników Polskich);Psie Pole;1.0;241
+15;Psie Pole;Zielna;1.0;241
+16;Zielna;C.H. Korona;2.0;241
+17;C.H. Korona;C.H. Korona;1.0;241
+18;C.H. Korona;Brücknera;2.0;241
+19;Brücknera;Kwidzyńska;2.0;241
+20;Kwidzyńska;Zacisze;1.0;241
+21;Zacisze;Śniadeckich;1.0;241
+22;Śniadeckich;Kochanowskiego;3.0;241
+23;Kochanowskiego;Bujwida;2.0;241
+24;Bujwida;PL. GRUNWALDZKI;2.0;241
+25;PL. GRUNWALDZKI;most Grunwaldzki;2.0;241
+26;most Grunwaldzki;Poczta Główna;3.0;241
+27;Poczta Główna;GALERIA DOMINIKAŃSKA;3.0;241
+28;GALERIA DOMINIKAŃSKA;Wzgórze Partyzantów;2.0;241
+29;Wzgórze Partyzantów;DWORZEC GŁÓWNY;3.0;241
+30;DWORZEC GŁÓWNY;DWORZEC GŁÓWNY;1.0;241
+31;DWORZEC GŁÓWNY;DWORZEC AUTOBUSOWY;3.0;241
+32;DWORZEC AUTOBUSOWY;Dyrekcyjna;2.0;241
+33;Dyrekcyjna;PETRUSEWICZA;2.0;241
+34;PETRUSEWICZA;DWORZEC AUTOBUSOWY;3.0;241
+35;DWORZEC AUTOBUSOWY;EPI;2.0;241
+36;EPI;Gwiaździsta;2.0;241
+37;Gwiaździsta;Zielińskiego;1.0;241
+38;Zielińskiego;Zaporoska;2.0;241
+39;Zaporoska;Krucza;1.0;241
+40;Krucza;Krucza (Mielecka);1.0;241
+41;Krucza (Mielecka);Kolbuszowska (Stadion);1.0;241
+42;Kolbuszowska (Stadion);Inżynierska;1.0;241
+43;Inżynierska;Aleja Pracy;3.0;241
+44;Aleja Pracy;FAT;6.0;241
+45;FAT;Ostrowskiego;1.0;241
+46;Ostrowskiego;Końcowa;2.0;241
+47;Końcowa;Krzemieniecka;2.0;241
+48;Krzemieniecka;Trawowa;1.0;241
+49;Trawowa;Stanisławowska (W.K. Formaty);2.0;241
+50;Stanisławowska (W.K. Formaty);Muchobór Wielki;1.0;241
+51;Muchobór Wielki;Muchobór Wielki (Roślinna);1.0;241
+52;Muchobór Wielki (Roślinna);Tyrmanda;1.0;241
+53;Tyrmanda;MIŃSKA (Rondo Rotm. Pileckiego);2.0;241
+54;MIŃSKA (Rondo Rotm. Pileckiego);Rogowska;3.0;241
+55;Rogowska;Nowy Dwór;2.0;241
+56;Nowy Dwór;Chociebuska;2.0;241
+57;Chociebuska;Nowy Dwór (Rogowska);1.0;241
+58;Nowy Dwór (Rogowska);NOWY DWÓR (pętla);1.0;241
+1;SOŁTYSOWICE;Bagatela;1.0;246
+2;Bagatela;Redycka;1.0;246
+3;Redycka;Poprzeczna;2.0;246
+4;Poprzeczna;Sołtysowicka;1.0;246
+5;Sołtysowicka;Koszarowa;1.0;246
+6;Koszarowa;KOSZAROWA (Szpital);2.0;246
+7;KOSZAROWA (Szpital);pl. Daniłowskiego;3.0;246
+8;pl. Daniłowskiego;Kasprowicza;1.0;246
+9;Kasprowicza;Berenta;2.0;246
+10;Berenta;KROMERA;3.0;246
+11;KROMERA;Mosty Warszawskie;2.0;246
+12;Mosty Warszawskie;Wyszyńskiego;2.0;246
+13;Wyszyńskiego;Ogród Botaniczny;4.0;246
+14;Ogród Botaniczny;Katedra;2.0;246
+15;Katedra;Urząd Wojewódzki (Muzeum Narodowe);2.0;246
+16;Urząd Wojewódzki (Muzeum Narodowe);Poczta Główna;2.0;246
+17;Poczta Główna;GALERIA DOMINIKAŃSKA;3.0;246
+18;GALERIA DOMINIKAŃSKA;Wzgórze Partyzantów;2.0;246
+19;Wzgórze Partyzantów;DWORZEC GŁÓWNY;3.0;246
+20;DWORZEC GŁÓWNY;DWORZEC GŁÓWNY;1.0;246
+21;DWORZEC GŁÓWNY;DWORZEC AUTOBUSOWY;3.0;246
+22;DWORZEC AUTOBUSOWY;Dyrekcyjna;2.0;246
+23;Dyrekcyjna;PETRUSEWICZA;2.0;246
+24;PETRUSEWICZA;DWORZEC AUTOBUSOWY;3.0;246
+25;DWORZEC AUTOBUSOWY;EPI;2.0;246
+26;EPI;Arkady (Capitol);3.0;246
+27;Arkady (Capitol);pl. Legionów;3.0;246
+28;pl. Legionów;Grabiszyńska;2.0;246
+29;Grabiszyńska;Pereca;3.0;246
+30;Pereca;Stalowa;2.0;246
+31;Stalowa;pl. Srebrny;1.0;246
+32;pl. Srebrny;Bzowa (Centrum Zajezdnia);1.0;246
+33;Bzowa (Centrum Zajezdnia);Hutmen;2.0;246
+34;Hutmen;FAT;3.0;246
+35;FAT;ROD Oświata;2.0;246
+36;ROD Oświata;Wrocławski Park Technologiczny;1.0;246
+37;Wrocławski Park Technologiczny;Szkocka;2.0;246
+38;Szkocka;Nowodworska;4.0;246
+39;Nowodworska;Nowy Dwór;2.0;246
+40;Nowy Dwór;Nowy Dwór;1.0;246
+41;Nowy Dwór;Chociebuska;2.0;246
+42;Chociebuska;Hermanowska;2.0;246
+43;Hermanowska;KUŹNIKI;1.0;246
+44;KUŹNIKI;KUŹNIKI (Stacja kolejowa);2.0;246
+45;KUŹNIKI (Stacja kolejowa);Bystrzycka;1.0;246
+46;Bystrzycka;Bulwar Dedala;1.0;246
+47;Bulwar Dedala;Szybowcowa;2.0;246
+48;Szybowcowa;Bajana;1.0;246
+49;Bajana;Metalowców;2.0;246
+50;Metalowców;Rękodzielnicza;1.0;246
+51;Rękodzielnicza;Górnicza;2.0;246
+52;Górnicza;KOZANÓW (Dokerska);1.0;246
+53;KOZANÓW (Dokerska);KOZANÓW;2.0;246
+1;Starościńska;Ługowa;1.0;247
+2;Ługowa;Kątowa;1.0;247
+3;Kątowa;Milicka;1.0;247
+4;Milicka;Kamieńskiego (Szpital);1.0;247
+5;Kamieńskiego (Szpital);Jutrosińska;1.0;247
+6;Jutrosińska;Gąsiorowskiego;1.0;247
+7;Gąsiorowskiego;Mochnackiego;1.0;247
+8;Mochnackiego;Kamieńskiego;2.0;247
+9;Kamieńskiego;Broniewskiego;2.0;247
+10;Broniewskiego;Trzebnicka;3.0;247
+11;Trzebnicka;DWORZEC NADODRZE;2.0;247
+12;DWORZEC NADODRZE;Paulińska;2.0;247
+13;Paulińska;Dubois;3.0;247
+14;Dubois;Uniwersytet Wrocławski;2.0;247
+15;Uniwersytet Wrocławski;Rynek;3.0;247
+16;Rynek;Rynek;2.0;247
+17;Rynek;Narodowe Forum Muzyki;1.0;247
+18;Narodowe Forum Muzyki;Renoma;2.0;247
+19;Renoma;DWORZEC GŁÓWNY;3.0;247
+20;DWORZEC GŁÓWNY;DWORZEC GŁÓWNY;1.0;247
+21;DWORZEC GŁÓWNY;DWORZEC AUTOBUSOWY;3.0;247
+22;DWORZEC AUTOBUSOWY;Dyrekcyjna;2.0;247
+23;Dyrekcyjna;PETRUSEWICZA;1.0;247
+24;PETRUSEWICZA;DWORZEC AUTOBUSOWY;3.0;247
+25;DWORZEC AUTOBUSOWY;EPI;2.0;247
+26;EPI;Zaolziańska;1.0;247
+27;Zaolziańska;Wielka;2.0;247
+28;Wielka;Rondo;1.0;247
+29;Rondo;Sztabowa;1.0;247
+30;Sztabowa;Hallera;1.0;247
+31;Hallera;Jastrzębia;2.0;247
+32;Jastrzębia;Orla;1.0;247
+33;Orla;KRZYKI;1.0;247
+34;KRZYKI;Radio i Telewizja;1.0;247
+35;Radio i Telewizja;Przyjaźni;1.0;247
+36;Przyjaźni;Zimowa;1.0;247
+37;Zimowa;Os. Przyjaźni;1.0;247
+38;Os. Przyjaźni;Skarbowców;2.0;247
+39;Skarbowców;KLECINA;1.0;247
+40;KLECINA;Kościelna;1.0;247
+41;Kościelna;WAŁBRZYSKA;2.0;247
+42;WAŁBRZYSKA;Marchewkowa;1.0;247
+43;Marchewkowa;GIEŁDOWA (Centrum Hurtu);1.0;247
+1;DWORZEC AUTOBUSOWY;DWORZEC AUTOBUSOWY;0.0;240
+2;DWORZEC AUTOBUSOWY;EPI;2.0;240
+3;EPI;Arkady (Capitol);3.0;240
+4;Arkady (Capitol);pl. Orląt Lwowskich;3.0;240
+5;pl. Orląt Lwowskich;PL. JANA PAWŁA II;4.0;240
+6;PL. JANA PAWŁA II;Dmowskiego;2.0;240
+7;Dmowskiego;Pomorska;2.0;240
+8;Pomorska;Dubois;3.0;240
+9;Dubois;Paulińska;2.0;240
+10;Paulińska;DWORZEC NADODRZE;3.0;240
+11;DWORZEC NADODRZE;Słowiańska;2.0;240
+12;Słowiańska;Nowowiejska;2.0;240
+13;Nowowiejska;Wyszyńskiego;2.0;240
+14;Wyszyńskiego;Prusa;1.0;240
+15;Prusa;Piastowska;2.0;240
+16;Piastowska;PL. GRUNWALDZKI;2.0;240
+17;PL. GRUNWALDZKI;most Grunwaldzki;2.0;240
+18;most Grunwaldzki;Urząd Wojewódzki (Muzeum Narodowe);2.0;240
+19;Urząd Wojewódzki (Muzeum Narodowe);pl. Wróblewskiego;3.0;240
+20;pl. Wróblewskiego;Komuny Paryskiej;1.0;240
+21;Komuny Paryskiej;Kościuszki;2.0;240
+22;Kościuszki;Pułaskiego;1.0;240
+23;Pułaskiego;DWORZEC GŁÓWNY;3.0;240
+24;DWORZEC GŁÓWNY;DWORZEC AUTOBUSOWY;5.0;240
+25;DWORZEC AUTOBUSOWY;DWORZEC AUTOBUSOWY;4.0;240
+1;Sucha;DWORZEC AUTOBUSOWY;1.0;612
+2;DWORZEC AUTOBUSOWY;DWORZEC AUTOBUSOWY;2.0;612
+3;DWORZEC AUTOBUSOWY;Dyrekcyjna;2.0;612
+4;Dyrekcyjna;Borowska;3.0;612
+5;Borowska;Śliczna;2.0;612
+6;Śliczna;ROD Bajki;2.0;612
+7;ROD Bajki;Działkowa;3.0;612
+8;Działkowa;Borowska (Szpital);3.0;612
+9;Borowska (Szpital);Przystankowa;2.0;612
+10;Przystankowa;Wojszyce;1.0;612
+11;Wojszyce;Parafialna;1.0;612
+12;Parafialna;Świt;1.0;612
+13;Świt;Ołtaszyn;3.0;612
+14;Ołtaszyn;Kutrzeby;2.0;612
+15;Kutrzeby;ROD Storczyk;1.0;612
+16;ROD Storczyk;Wysoka;1.0;612
+17;Wysoka;Wysoka - Chabrowa;2.0;612
+18;Wysoka - Chabrowa;Wysoka - Radosna;2.0;612
+19;Wysoka - Radosna;Ślęza - autostrada;2.0;612
+20;Ślęza - autostrada;Ślęza - Szyszkowa;1.0;612
+21;Ślęza - Szyszkowa;Ślęza - skrzyżowanie;1.0;612
+22;Ślęza - skrzyżowanie;Bielany Wrocławskie - PKP;2.0;612
+23;Bielany Wrocławskie - PKP;Bielany Wrocławskie - skrzyżowanie;1.0;612
+24;Bielany Wrocławskie - skrzyżowanie;Bielany Wrocławskie - Boczna;3.0;612
+25;Bielany Wrocławskie - Boczna;Bielany Wrocławskie - Kwiatowa;1.0;612
+26;Bielany Wrocławskie - Kwiatowa;Bielany Wrocławskie - Boczna;2.0;612
+27;Bielany Wrocławskie - Boczna;Bielany Wrocławskie - Kościół;1.0;612
+28;Bielany Wrocławskie - Kościół;Bielany Wrocławskie - Makro;1.0;612
+29;Bielany Wrocławskie - Makro;Partynice (tor wyścigów konnych);8.0;612
+30;Partynice (tor wyścigów konnych);Hippiczna;2.0;612
+31;Hippiczna;PARK POŁUDNIOWY;2.0;612
+32;PARK POŁUDNIOWY;KRZYKI;2.0;612
+1;KRZYKI;PARK POŁUDNIOWY;3.0;249
+2;PARK POŁUDNIOWY;Hippiczna;2.0;249
+3;Hippiczna;Partynice (tor wyścigów konnych);3.0;249
+4;Partynice (tor wyścigów konnych);Husarska;1.0;249
+5;Husarska;rondo Św. Ojca Pio;3.0;249
+6;rondo Św. Ojca Pio;Strachowskiego;3.0;249
+7;Strachowskiego;Ołtaszyn;2.0;249
+8;Ołtaszyn;Kurpiów;1.0;249
+9;Kurpiów;Grota-Roweckiego;1.0;249
+10;Grota-Roweckiego;Gałczyńskiego;2.0;249
+11;Gałczyńskiego;Oboźna;1.0;249
+12;Oboźna;Parafialna;3.0;249
+13;Parafialna;Wojszyce;2.0;249
+14;Wojszyce;Przystankowa;4.0;249
+15;Przystankowa;Borowska (Szpital);2.0;249
+16;Borowska (Szpital);Działkowa;2.0;249
+17;Działkowa;ROD Bajki;3.0;249
+18;ROD Bajki;Śliczna;1.0;249
+19;Śliczna;Borowska;2.0;249
+20;Borowska;PETRUSEWICZA;1.0;249
+21;PETRUSEWICZA;DWORZEC AUTOBUSOWY;4.0;249
+22;DWORZEC AUTOBUSOWY;DWORZEC GŁÓWNY;3.0;249
+23;DWORZEC GŁÓWNY;Arkady (Capitol);2.0;249
+24;Arkady (Capitol);Renoma;2.0;249
+25;Renoma;pl. Orląt Lwowskich;2.0;249
+26;pl. Orląt Lwowskich;Dworzec Świebodzki;2.0;249
+27;Dworzec Świebodzki;Smolecka;2.0;249
+28;Smolecka;Śrubowa;1.0;249
+29;Śrubowa;Wrocławski Park Przemysłowy;1.0;249
+30;Wrocławski Park Przemysłowy;Dolnośląska Szkoła Wyższa;2.0;249
+31;Dolnośląska Szkoła Wyższa;Fabryczna;2.0;249
+32;Fabryczna;Otyńska;2.0;249
+33;Otyńska;Strzegomska 148;2.0;249
+34;Strzegomska 148;Nowodworska;2.0;249
+35;Nowodworska;Nowy Dwór;2.0;249
+36;Nowy Dwór;Chociebuska;3.0;249
+37;Chociebuska;Nowy Dwór (Rogowska);1.0;249
+38;Nowy Dwór (Rogowska);Zemska;2.0;249
+39;Zemska;Nowy Dwór (Stacja kolejowa);2.0;249
+40;Nowy Dwór (Stacja kolejowa);Kołobrzeska;2.0;249
+41;Kołobrzeska;Szczecińska;2.0;249
+42;Szczecińska;Żerniki;2.0;249
+43;Żerniki;Strachowicka;1.0;249
+44;Strachowicka;Żernicka;1.0;249
+45;Żernicka;Jerzmanowska nr 9;1.0;249
+46;Jerzmanowska nr 9;Jerzmanowska nr 17;1.0;249
+47;Jerzmanowska nr 17;Jerzmanowo (Cmentarz I);3.0;249
+48;Jerzmanowo (Cmentarz I);Piołunowa;1.0;249
+49;Piołunowa;Jasińskiej;1.0;249
+50;Jasińskiej;Adamczewskich;1.0;249
+51;Adamczewskich;Kośnego;1.0;249
+52;Kośnego;Krzeptowska;2.0;249
+53;Krzeptowska;Jarnołtowska (Samotworska);1.0;249
+54;Jarnołtowska (Samotworska);JARNOŁTÓW;2.0;249
+1;PL. GRUNWALDZKI;Bujwida;2.0;131
+2;Bujwida;Kochanowskiego;2.0;131
+3;Kochanowskiego;Śniadeckich;2.0;131
+4;Śniadeckich;Zacisze;2.0;131
+5;Zacisze;Kwidzyńska;2.0;131
+6;Kwidzyńska;Brücknera;2.0;131
+7;Brücknera;C.H. Korona;2.0;131
+8;C.H. Korona;Zielna;2.0;131
+9;Zielna;Psie Pole;1.0;131
+10;Psie Pole;Psie Pole (Rondo Lotników Polskich);2.0;131
+11;Psie Pole (Rondo Lotników Polskich);KIEŁCZOWSKA (LZN);2.0;131
+12;KIEŁCZOWSKA (LZN);Poleska;1.0;131
+13;Poleska;Kiełczowska;1.0;131
+14;Kiełczowska;Żmudzka;1.0;131
+15;Żmudzka;Kowieńska;1.0;131
+16;Kowieńska;Inflancka;1.0;131
+17;Inflancka;LITEWSKA;1.0;131
+1;PL. SOLIDARNOŚCI;PL. JANA PAWŁA II;4.0;109
+2;PL. JANA PAWŁA II;Młodych Techników;2.0;109
+3;Młodych Techników;Strzegomska (Muzeum Współczesne);2.0;109
+4;Strzegomska (Muzeum Współczesne);Śrubowa;2.0;109
+5;Śrubowa;Wrocławski Park Przemysłowy;1.0;109
+6;Wrocławski Park Przemysłowy;Dolnośląska Szkoła Wyższa;2.0;109
+7;Dolnośląska Szkoła Wyższa;Fabryczna;2.0;109
+8;Fabryczna;Otyńska;2.0;109
+9;Otyńska;Strzegomska 148;2.0;109
+10;Strzegomska 148;Nowodworska;2.0;109
+11;Nowodworska;Nowy Dwór;2.0;109
+12;Nowy Dwór;Chociebuska;3.0;109
+13;Chociebuska;Nowy Dwór (Rogowska);1.0;109
+14;Nowy Dwór (Rogowska);Nowy Dwór (Stacja kolejowa);1.0;109
+15;Nowy Dwór (Stacja kolejowa);Kołobrzeska;2.0;109
+16;Kołobrzeska;Szczecińska;2.0;109
+17;Szczecińska;Żerniki;2.0;109
+18;Żerniki;Strachowicka;1.0;109
+19;Strachowicka;Żernicka;1.0;109
+20;Żernicka;Jerzmanowska nr 9;1.0;109
+21;Jerzmanowska nr 9;Jerzmanowska nr 17;1.0;109
+22;Jerzmanowska nr 17;Jerzmanowo (Cmentarz I);3.0;109
+23;Jerzmanowo (Cmentarz I);Piołunowa;1.0;109
+24;Piołunowa;Jasińskiej;1.0;109
+25;Jasińskiej;Adamczewskich;1.0;109
+26;Adamczewskich;Kośnego;1.0;109
+27;Kośnego;Krzeptowska;2.0;109
+28;Krzeptowska;Jarnołtowska (Samotworska);1.0;109
+29;Jarnołtowska (Samotworska);JARNOŁTÓW;2.0;109
+1;KOZANÓW;KOZANÓW (Dokerska);2.0;136
+2;KOZANÓW (Dokerska);Górnicza;2.0;136
+3;Górnicza;Rękodzielnicza;2.0;136
+4;Rękodzielnicza;Metalowców;1.0;136
+5;Metalowców;Szybowcowa;3.0;136
+6;Szybowcowa;Bulwar Dedala;1.0;136
+7;Bulwar Dedala;Bystrzycka;2.0;136
+8;Bystrzycka;Hynka;1.0;136
+9;Hynka;Drzewieckiego;1.0;136
+10;Drzewieckiego;Orlińskiego;1.0;136
+11;Orlińskiego;Na Ostatnim Groszu;1.0;136
+12;Na Ostatnim Groszu;Gądowianka;2.0;136
+13;Gądowianka;Szkocka;2.0;136
+14;Szkocka;Wrocławski Park Technologiczny;2.0;136
+15;Wrocławski Park Technologiczny;ROD Oświata;3.0;136
+16;ROD Oświata;FAT;7.0;136
+17;FAT;Aleja Pracy;2.0;136
+18;Aleja Pracy;Ojca Beyzyma;1.0;136
+19;Ojca Beyzyma;Mielecka;2.0;136
+20;Mielecka;Gajowicka;3.0;136
+21;Gajowicka;Hallera;4.0;136
+22;Hallera;Sudecka;1.0;136
+23;Sudecka;Wiśniowa;4.0;136
+24;Wiśniowa;SPISKA (Ośrodek sportu);2.0;136
+25;SPISKA (Ośrodek sportu);ROD Bajki;2.0;136
+26;ROD Bajki;Działkowa;3.0;136
+27;Działkowa;GAJ;2.0;136
+28;GAJ;Świeradowska;1.0;136
+29;Świeradowska;Morwowa;2.0;136
+30;Morwowa;Złotostocka;1.0;136
+31;Złotostocka;TARNOGAJ;1.0;136
+1;TARNOGAJ;Złotostocka;1.0;903
+2;Złotostocka;GAJ - pętla;3.0;903
+3;GAJ - pętla;Świeradowska;2.0;903
+4;Świeradowska;GAJ;2.0;903
+5;GAJ;Borowska (Szpital);3.0;903
+6;Borowska (Szpital);Przystankowa;2.0;903
+7;Przystankowa;Wojszyce;1.0;903
+8;Wojszyce;Parafialna;1.0;903
+9;Parafialna;Oboźna;1.0;903
+10;Oboźna;Gałczyńskiego;1.0;903
+11;Gałczyńskiego;Biestrzyków - Wrocławska;6.0;903
+12;Biestrzyków - Wrocławska;Suchy Dwór - skrzy. (Wrocławska/Główna);3.0;903
+13;Suchy Dwór - skrzy. (Wrocławska/Główna);Suchy Dwór - skrzy. Mędłów;2.0;903
+14;Suchy Dwór - skrzy. Mędłów;Rzeplin - Al. Lipowa ;4.0;903
+15;Rzeplin - Al. Lipowa ;Szukalice;2.0;903
+16;Szukalice;Żórawina - osiedle;2.0;903
+17;Żórawina - osiedle;Żórawina - Orange;1.0;903
+18;Żórawina - Orange;Żórawina - skrzy.;2.0;903
+19;Żórawina - skrzy.;Żórawina - Niepodległości (Mostek);1.0;903
+1;GAJ - pętla;Morwowa;1.0;100
+2;Morwowa;Złotostocka;1.0;100
+3;Złotostocka;TARNOGAJ;1.0;100
+4;TARNOGAJ;Gazowa;1.0;100
+5;Gazowa;Karwińska;4.0;100
+6;Karwińska;KSIĘŻE MAŁE;2.0;100
+7;KSIĘŻE MAŁE;Księska;1.0;100
+8;Księska;Blizanowicka;1.0;100
+9;Blizanowicka;Starodworska;3.0;100
+10;Starodworska;Mokry Dwór - Starodworska;1.0;100
+11;Mokry Dwór - Starodworska;MOKRY DWÓR;1.0;100
+1;LEŚNICA;RUBCZAKA (Stacja kolejowa);2.0;138
+2;RUBCZAKA (Stacja kolejowa);Rubczaka;1.0;138
+3;Rubczaka;Średzka;1.0;138
+4;Średzka;Eluarda;2.0;138
+5;Eluarda;Zajazdowa;1.0;138
+6;Zajazdowa;Krępicka - szkoła;1.0;138
+7;Krępicka - szkoła;Krępicka;1.0;138
+8;Krępicka;Krępicka;0.0;138
+9;Krępicka;Mokrzańska;1.0;138
+10;Mokrzańska;ŻAR;3.0;138
+1;GALERIA DOMINIKAŃSKA;Ogród Botaniczny;7.0;904
+2;Ogród Botaniczny;Wyszyńskiego;2.0;904
+3;Wyszyńskiego;KROMERA;4.0;904
+4;KROMERA;Grudziądzka;3.0;904
+5;Grudziądzka;Brücknera;3.0;904
+6;Brücknera;C.H. Korona;2.0;904
+7;C.H. Korona;Psie Pole;3.0;904
+8;Psie Pole;Psie Pole (Rondo Lotników Polskich);2.0;904
+9;Psie Pole (Rondo Lotników Polskich);PSIE POLE (Stacja kolejowa);1.0;904
+10;PSIE POLE (Stacja kolejowa);Dobroszycka;1.0;904
+11;Dobroszycka;Bierutowska 65;1.0;904
+12;Bierutowska 65;Bierutowska;1.0;904
+13;Bierutowska;Bierutowska 75;1.0;904
+14;Bierutowska 75;BIERUTOWSKA (Wiadukt);1.0;904
+15;BIERUTOWSKA (Wiadukt);Mirków - Sportowa;2.0;904
+16;Mirków - Sportowa;Mirków - Jagiellońska;2.0;904
+17;Mirków - Jagiellońska;Długołęka - Wiejska;5.0;904
+18;Długołęka - Wiejska;Długołęka - Kasztanowa;2.0;904
+19;Długołęka - Kasztanowa;Długołęka - Parkowa/skrzy.;2.0;904
+20;Długołęka - Parkowa/skrzy.;Szczodre - Trzebnicka (na wys. nr 3a);1.0;904
+21;Szczodre - Trzebnicka (na wys. nr 3a);Szczodre - Trzebnicka;1.0;904
+22;Szczodre - Trzebnicka;Szczodre - pętla;2.0;904
+23;Szczodre - pętla;Szczodre - Szkoła;1.0;904
+24;Szczodre - Szkoła;Szczodre - stawy;2.0;904
+25;Szczodre - stawy;Łosice - plac zabaw;2.0;904
+26;Łosice - plac zabaw;Budziwojowice;2.0;904
+27;Budziwojowice;Łozina - Cmentarz;1.0;904
+28;Łozina - Cmentarz;Łozina - Kościół;1.0;904
+29;Łozina - Kościół;Łozina - skrzy.;2.0;904
+1;PL. SOLIDARNOŚCI;PL. JANA PAWŁA II;4.0;107
+2;PL. JANA PAWŁA II;Młodych Techników;2.0;107
+3;Młodych Techników;Strzegomska (Muzeum Współczesne);2.0;107
+4;Strzegomska (Muzeum Współczesne);Śrubowa;2.0;107
+5;Śrubowa;Wrocławski Park Przemysłowy;1.0;107
+6;Wrocławski Park Przemysłowy;Dolnośląska Szkoła Wyższa;2.0;107
+7;Dolnośląska Szkoła Wyższa;Fabryczna;2.0;107
+8;Fabryczna;Otyńska;2.0;107
+9;Otyńska;Strzegomska 148;2.0;107
+10;Strzegomska 148;Nowodworska;2.0;107
+11;Nowodworska;Nowy Dwór;2.0;107
+12;Nowy Dwór;Rogowska;2.0;107
+13;Rogowska;MIŃSKA (Rondo Rotm. Pileckiego);4.0;107
+14;MIŃSKA (Rondo Rotm. Pileckiego);Tyrmanda;2.0;107
+15;Tyrmanda;Zagony;1.0;107
+16;Zagony;Muchobór Wielki;2.0;107
+17;Muchobór Wielki;Stanisławowska (W.K. Formaty);3.0;107
+18;Stanisławowska (W.K. Formaty);Trawowa;2.0;107
+19;Trawowa;Krzemieniecka;1.0;107
+20;Krzemieniecka;Końcowa;1.0;107
+21;Końcowa;Ostrowskiego;2.0;107
+22;Ostrowskiego;FAT;2.0;107
+23;FAT;GRABISZYŃSKA (Cmentarz);2.0;107
+24;GRABISZYŃSKA (Cmentarz);GRABISZYŃSKA (Cmentarz II);1.0;107
+25;GRABISZYŃSKA (Cmentarz II);OPORÓW;1.0;107
+26;OPORÓW;Solskiego;1.0;107
+27;Solskiego;Wiejska;1.0;107
+28;Wiejska;Adamieckiego;2.0;107
+29;Adamieckiego;Morelowskiego;1.0;107
+30;Morelowskiego;GIEŁDOWA (Centrum Hurtu);1.0;107
+31;GIEŁDOWA (Centrum Hurtu);Marchewkowa;2.0;107
+32;Marchewkowa;WAŁBRZYSKA;2.0;107
+33;WAŁBRZYSKA;Kościelna;2.0;107
+34;Kościelna;KLECINA;2.0;107
+35;KLECINA;Skarbowców;1.0;107
+36;Skarbowców;Os. Przyjaźni;1.0;107
+37;Os. Przyjaźni;Zimowa;1.0;107
+38;Zimowa;KRZYKI;2.0;107
+1;Dworzec Główny (Dworcowa);Wzgórze Partyzantów;4.0;106
+2;Wzgórze Partyzantów;Renoma;2.0;106
+3;Renoma;pl. Orląt Lwowskich;4.0;106
+4;pl. Orląt Lwowskich;Dworzec Świebodzki;2.0;106
+5;Dworzec Świebodzki;Smolecka;2.0;106
+6;Smolecka;Śrubowa;1.0;106
+7;Śrubowa;Wrocławski Park Przemysłowy;1.0;106
+8;Wrocławski Park Przemysłowy;Dolnośląska Szkoła Wyższa;2.0;106
+9;Dolnośląska Szkoła Wyższa;Fabryczna;2.0;106
+10;Fabryczna;Otyńska;2.0;106
+11;Otyńska;Strzegomska 148;2.0;106
+12;Strzegomska 148;Nowodworska;2.0;106
+13;Nowodworska;Nowy Dwór;2.0;106
+14;Nowy Dwór;Rogowska;2.0;106
+15;Rogowska;MIŃSKA (Rondo Rotm. Pileckiego);3.0;106
+16;MIŃSKA (Rondo Rotm. Pileckiego);Park Tysiąclecia;1.0;106
+17;Park Tysiąclecia;Zagłoby;3.0;106
+18;Zagłoby;Przybyły;2.0;106
+19;Przybyły;Graniczna;1.0;106
+20;Graniczna;Skarżyńskiego;1.0;106
+21;Skarżyńskiego;Zarembowicza;1.0;106
+22;Zarembowicza;Strachowice General Aviation;1.0;106
+23;Strachowice General Aviation;Graniczna (Strachowicka);2.0;106
+24;Graniczna (Strachowicka);Rdestowa;1.0;106
+25;Rdestowa;PORT LOTNICZY;3.0;106
+1;Kwiska;Kolista;6.0;101
+2;Kolista;Modra;2.0;101
+3;Modra;Górnicza;3.0;101
+4;Górnicza;Dworska;1.0;101
+5;Dworska;TARCZYŃSKI ARENA (Królewiecka);2.0;101
+6;TARCZYŃSKI ARENA (Królewiecka);Królewiecka;1.0;101
+7;Królewiecka;Warmińska;1.0;101
+8;Warmińska;Królewiecka (Park);1.0;101
+9;Królewiecka (Park);Suwalska;1.0;101
+10;Suwalska;Brodzka;1.0;101
+11;Brodzka;Lubelska;2.0;101
+12;Lubelska;Zbożowa;2.0;101
+13;Zbożowa;PRACZE ODRZAŃSKIE;2.0;101
+14;PRACZE ODRZAŃSKIE;PRACZE ODRZAŃSKIE (Stacja kolejowa);1.0;101
+15;PRACZE ODRZAŃSKIE (Stacja kolejowa);STABŁOWICKA (Ośrodek zdrowia);1.0;101
+16;STABŁOWICKA (Ośrodek zdrowia);Główna;1.0;101
+17;Główna;Park Stabłowicki;1.0;101
+18;Park Stabłowicki;Stabłowice;1.0;101
+19;Stabłowice;Ciechocińska;1.0;101
+20;Ciechocińska;Śnieżna;1.0;101
+21;Śnieżna;Jeleniogórska;1.0;101
+22;Jeleniogórska;LEŚNICA;1.0;101
+1;MULICKA;Psie Pole (Rondo Lotników Polskich);1.0;934
+2;Psie Pole (Rondo Lotników Polskich);Kopańskiego;2.0;934
+3;Kopańskiego;Wallenroda;1.0;934
+4;Wallenroda;Przedwiośnie (Stacja kolejowa);1.0;934
+5;Przedwiośnie (Stacja kolejowa);ZAKRZÓW;1.0;934
+6;ZAKRZÓW;Odrodzenia Polski;1.0;934
+7;Odrodzenia Polski;Odolanowska;0.0;934
+8;Odolanowska;Pruszowice - las;4.0;934
+9;Pruszowice - las;Domaszczyn - Stawowa;1.0;934
+10;Domaszczyn - Stawowa;Pruszowice;2.0;934
+11;Pruszowice;Domaszczyn - Stawowa;2.0;934
+12;Domaszczyn - Stawowa;Domaszczyn - skrzy.;0.0;934
+13;Domaszczyn - skrzy.;Domaszczyn - Trzebnicka;1.0;934
+14;Domaszczyn - Trzebnicka;Bukowina - skrzy.;1.0;934
+15;Bukowina - skrzy.;Bąków;1.0;934
+16;Bąków;Łozina - Wrocławska (na wys. nr 18);3.0;934
+17;Łozina - Wrocławska (na wys. nr 18);Łozina - skrzy.;1.0;934
+18;Łozina - skrzy.;Łozina - Milicka/poczta;1.0;934
+19;Łozina - Milicka/poczta;Łozina - Milicka/szkoła;0.0;934
+20;Łozina - Milicka/szkoła;Bierzyce;1.0;934
+21;Bierzyce;Bierzyce - wieś;1.0;934
+22;Bierzyce - wieś;Zaprężyn;3.0;934
+23;Zaprężyn;Krakowiany - skrzy.;3.0;934
+24;Krakowiany - skrzy.;Węgrów (na wys. nr 7);3.0;934
+25;Węgrów (na wys. nr 7);Węgrów (na wys. nr 27);1.0;934
+26;Węgrów (na wys. nr 27);Skała - wieś;2.0;934
+27;Skała - wieś;Jaksonowice - skrzy.;3.0;934
+1;DWORZEC NADODRZE;DWORZEC NADODRZE;1.0;108
+2;DWORZEC NADODRZE;Trzebnicka;2.0;108
+3;Trzebnicka;Broniewskiego;3.0;108
+4;Broniewskiego;Bałtycka;2.0;108
+5;Bałtycka;Bezpieczna;2.0;108
+6;Bezpieczna;Paprotna;2.0;108
+7;Paprotna;Irysowa;1.0;108
+8;Irysowa;Obornicka (Obwodnica);2.0;108
+9;Obornicka (Obwodnica);Ostowa (Muzeum Militarne);2.0;108
+10;Ostowa (Muzeum Militarne);Pełczyńska (Stacja kolejowa);1.0;108
+11;Pełczyńska (Stacja kolejowa);Kominiarska;1.0;108
+12;Kominiarska;Lawendowa;1.0;108
+13;Lawendowa;Rzemieślnicza;1.0;108
+14;Rzemieślnicza;Kominiarska (plac sportowy);1.0;108
+15;Kominiarska (plac sportowy);PRACZE WIDAWSKIE;1.0;108
+1;LEŚNICA;RUBCZAKA (Stacja kolejowa);2.0;137
+2;RUBCZAKA (Stacja kolejowa);Rubczaka;1.0;137
+3;Rubczaka;Średzka;1.0;137
+4;Średzka;Eluarda;2.0;137
+5;Eluarda;Brzezińska;1.0;137
+6;Brzezińska;Owczarska;1.0;137
+7;Owczarska;Dolnobrzeska;1.0;137
+8;Dolnobrzeska;Mokra;3.0;137
+9;Mokra;Las Mokrzański;1.0;137
+1;KRZYKI;Zimowa;2.0;933
+2;Zimowa;Os. Przyjaźni;1.0;933
+3;Os. Przyjaźni;Skarbowców;2.0;933
+4;Skarbowców;KLECINA;1.0;933
+5;KLECINA;Kościelna;1.0;933
+6;Kościelna;WAŁBRZYSKA;2.0;933
+7;WAŁBRZYSKA;Marcepanowa;1.0;933
+8;Marcepanowa;Słoneczna;1.0;933
+9;Słoneczna;Połabian;1.0;933
+10;Połabian;Kwiatkowskiego;3.0;933
+11;Kwiatkowskiego;Zabrodzie - pętla;1.0;933
+1;Starościńska;Ługowa;1.0;130
+2;Ługowa;Kątowa;1.0;130
+3;Kątowa;Milicka;1.0;130
+4;Milicka;Kamieńskiego (Szpital);1.0;130
+5;Kamieńskiego (Szpital);Jutrosińska;1.0;130
+6;Jutrosińska;Gąsiorowskiego;1.0;130
+7;Gąsiorowskiego;Mochnackiego;1.0;130
+8;Mochnackiego;Kamieńskiego;2.0;130
+9;Kamieńskiego;Broniewskiego;4.0;130
+10;Broniewskiego;Pola;2.0;130
+11;Pola;Syrokomli;1.0;130
+12;Syrokomli;Kasprowicza;1.0;130
+13;Kasprowicza;pl. Daniłowskiego;2.0;130
+14;pl. Daniłowskiego;Berenta;1.0;130
+15;Berenta;KROMERA;6.0;130
+16;KROMERA;Kromera (Czajkowskiego);2.0;130
+17;Kromera (Czajkowskiego);Grudziądzka;1.0;130
+18;Grudziądzka;Brücknera;3.0;130
+19;Brücknera;C.H. Korona;2.0;130
+20;C.H. Korona;Zielna;2.0;130
+21;Zielna;Psie Pole;1.0;130
+22;Psie Pole;Psie Pole (Rondo Lotników Polskich);2.0;130
+23;Psie Pole (Rondo Lotników Polskich);Zakrzowska;1.0;130
+24;Zakrzowska;Kopańskiego;1.0;130
+25;Kopańskiego;Wallenroda;1.0;130
+26;Wallenroda;Królewska;2.0;130
+27;Królewska;OSIEDLE SOBIESKIEGO;2.0;130
+1;Księginice P&R;Księginice ul. Sportowa;1.0;958
+2;Księginice ul. Sportowa;Gąsiorów;2.0;958
+3;Gąsiorów;Głoska - ul. Średzka;3.0;958
+4;Głoska - ul. Średzka;Lubiatów;5.0;958
+5;Lubiatów;Zabór Mały;2.0;958
+6;Zabór Mały;Zabór Wielki;2.0;958
+7;Zabór Wielki;Klęka;2.0;958
+8;Klęka;Miękinia - Urząd Gminy;5.0;958
+9;Miękinia - Urząd Gminy;Miękinia - stacja PKP;1.0;958
+10;Miękinia - stacja PKP;Miękinia - Urząd Gminy;1.0;958
+11;Miękinia - Urząd Gminy;Mrozów - Wyzwolenia;8.0;958
+12;Mrozów - Wyzwolenia;Mrozów - Świetlica;2.0;958
+13;Mrozów - Świetlica;Żurawiniec;3.0;958
+14;Żurawiniec;Krępice - Wrocławska;2.0;958
+15;Krępice - Wrocławska;Krępice;3.0;958
+16;Krępice;ŻAR;3.0;958
+17;ŻAR;Mokrzańska;3.0;958
+18;Mokrzańska;Krępicka;1.0;958
+19;Krępicka;Krępicka - szkoła;1.0;958
+20;Krępicka - szkoła;Zajazdowa;1.0;958
+21;Zajazdowa;Eluarda;1.0;958
+22;Eluarda;Średzka;2.0;958
+23;Średzka;Rubczaka;1.0;958
+24;Rubczaka;RUBCZAKA (Stacja kolejowa);1.0;958
+25;RUBCZAKA (Stacja kolejowa);LEŚNICA;1.0;958
+1;Fiołkowa;FAT;3.0;967
+2;FAT;Ostrowskiego;1.0;967
+3;Ostrowskiego;Końcowa;2.0;967
+4;Końcowa;Krzemieniecka;2.0;967
+5;Krzemieniecka;Trawowa;1.0;967
+6;Trawowa;Stanisławowska (W.K. Formaty);2.0;967
+7;Stanisławowska (W.K. Formaty);Muchobór Wielki;1.0;967
+8;Muchobór Wielki;Gagarina;2.0;967
+9;Gagarina;Smolec - Chłopska/Wrzosowa;4.0;967
+10;Smolec - Chłopska/Wrzosowa;Smolec - Chłopska/Śliwkowa;1.0;967
+11;Smolec - Chłopska/Śliwkowa;Smolec - Chłopska/Cisowa;2.0;967
+12;Smolec - Chłopska/Cisowa;Smolec - Lipowa/pętla;2.0;967
+13;Smolec - Lipowa/pętla;Smolec - Dębowa (sklep);1.0;967
+14;Smolec - Dębowa (sklep);Krzeptów - skrzy.;2.0;967
+15;Krzeptów - skrzy.;Krzeptów - Boisko;1.0;967
+16;Krzeptów - Boisko;Krzeptów - Dolina Krzeptowa;1.0;967
+17;Krzeptów - Dolina Krzeptowa;Smolec - Wiśniowa;2.0;967
+1;PL. GRUNWALDZKI;Kochanowskiego;4.0;116
+2;Kochanowskiego;Śniadeckich;2.0;116
+3;Śniadeckich;Zacisze;2.0;116
+4;Zacisze;Kwidzyńska;3.0;116
+5;Kwidzyńska;KROMERA;6.0;116
+6;KROMERA;Berenta;2.0;116
+7;Berenta;Kasprowicza;2.0;116
+8;Kasprowicza;pl. Daniłowskiego;1.0;116
+9;pl. Daniłowskiego;Przybyszewskiego;1.0;116
+10;Przybyszewskiego;Czajkowskiego;1.0;116
+11;Czajkowskiego;Koszarowa;2.0;116
+12;Koszarowa;Sołtysowicka;1.0;116
+13;Sołtysowicka;Poprzeczna;1.0;116
+14;Poprzeczna;Redycka;1.0;116
+15;Redycka;Bagatela;1.0;116
+16;Bagatela;SOŁTYSOWICE;2.0;116
+1;POŚWIĘCKA (Ośrodek zdrowia);Poświęcka;1.0;129
+2;Poświęcka;Żmigrodzka (Obwodnica);2.0;129
+3;Żmigrodzka (Obwodnica);POŚWIĘTNE;1.0;129
+4;POŚWIĘTNE;Wołowska;1.0;129
+5;Wołowska;Kępińska;1.0;129
+6;Kępińska;Kamieńskiego;2.0;129
+7;Kamieńskiego;Broniewskiego;3.0;129
+8;Broniewskiego;Bałtycka;2.0;129
+9;Bałtycka;most Osobowicki;2.0;129
+10;most Osobowicki;Serbska (C.K. Agora);1.0;129
+11;Serbska (C.K. Agora);OSOBOWICKA (Cmentarz II);1.0;129
+12;OSOBOWICKA (Cmentarz II);OSOBOWICKA (Cmentarz);1.0;129
+13;OSOBOWICKA (Cmentarz);most Milenijny;2.0;129
+14;most Milenijny;Hala Orbita;2.0;129
+15;Hala Orbita;Wejherowska;5.0;129
+16;Wejherowska;Kwiska;2.0;129
+17;Kwiska;Na Ostatnim Groszu;3.0;129
+18;Na Ostatnim Groszu;Orlińskiego;1.0;129
+19;Orlińskiego;Drzewieckiego;1.0;129
+20;Drzewieckiego;Hynka;2.0;129
+21;Hynka;Bystrzycka;2.0;129
+22;Bystrzycka;KUŹNIKI (Stacja kolejowa);1.0;129
+23;KUŹNIKI (Stacja kolejowa);KUŹNIKI;2.0;129
+24;KUŹNIKI;Kołobrzeska;1.0;129
+25;Kołobrzeska;Kołobrzeska;1.0;129
+26;Kołobrzeska;Szczecińska;2.0;129
+27;Szczecińska;Żerniki;2.0;129
+28;Żerniki;Strachowicka;1.0;129
+29;Strachowicka;Żernicka;1.0;129
+30;Żernicka;Jerzmanowska nr 9;1.0;129
+31;Jerzmanowska nr 9;Jerzmanowska nr 17;1.0;129
+32;Jerzmanowska nr 17;Jerzmanowo (Cmentarz I);3.0;129
+33;Jerzmanowo (Cmentarz I);Piołunowa;1.0;129
+34;Piołunowa;Kaczorowskiego;1.0;129
+35;Kaczorowskiego;Jerzmanowo (Cmentarz);1.0;129
+36;Jerzmanowo (Cmentarz);Osiniecka;2.0;129
+37;Osiniecka;PORT LOTNICZY;4.0;129
+1;KMINKOWA;Waniliowa;2.0;111
+2;Waniliowa;Cynamonowa;1.0;111
+3;Cynamonowa;Tymiankowa;1.0;111
+4;Tymiankowa;Lipa Piotrowska;1.0;111
+5;Lipa Piotrowska;Kominiarska;2.0;111
+6;Kominiarska;Pełczyńska (Stacja kolejowa);1.0;111
+7;Pełczyńska (Stacja kolejowa);Ostowa (Muzeum Militarne);1.0;111
+8;Ostowa (Muzeum Militarne);Ćwiczebna;2.0;111
+9;Ćwiczebna;Obornicka (Obwodnica);1.0;111
+10;Obornicka (Obwodnica);Irysowa;1.0;111
+11;Irysowa;Paprotna;1.0;111
+12;Paprotna;Obornicka (Wołowska);1.0;111
+13;Obornicka (Wołowska);Bezpieczna;1.0;111
+14;Bezpieczna;Bałtycka (szkoła);2.0;111
+15;Bałtycka (szkoła);Bałtycka;2.0;111
+16;Bałtycka;Broniewskiego;2.0;111
+17;Broniewskiego;Zakładowa;3.0;111
+18;Zakładowa;Słonimskiego;2.0;111
+19;Słonimskiego;Daszyńskiego;3.0;111
+20;Daszyńskiego;Nowowiejska;2.0;111
+21;Nowowiejska;Jedności Narodowej;1.0;111
+22;Jedności Narodowej;Na Szańcach;1.0;111
+23;Na Szańcach;pl. Bema;3.0;111
+24;pl. Bema;Ogród Botaniczny;3.0;111
+25;Ogród Botaniczny;Katedra;2.0;111
+26;Katedra;Reja;1.0;111
+27;Reja;PL. GRUNWALDZKI;2.0;111
+28;PL. GRUNWALDZKI;Bujwida;2.0;111
+29;Bujwida;Kochanowskiego;2.0;111
+30;Kochanowskiego;Śniadeckich;2.0;111
+31;Śniadeckich;Zacisze;2.0;111
+32;Zacisze;Kwidzyńska;2.0;111
+33;Kwidzyńska;Brücknera;2.0;111
+34;Brücknera;C.H. Korona;2.0;111
+35;C.H. Korona;Zielna;2.0;111
+36;Zielna;Psie Pole;1.0;111
+37;Psie Pole;Psie Pole (Rondo Lotników Polskich);2.0;111
+38;Psie Pole (Rondo Lotników Polskich);Zakrzowska;1.0;111
+39;Zakrzowska;Kopańskiego;1.0;111
+40;Kopańskiego;Wallenroda;1.0;111
+41;Wallenroda;Królewska;2.0;111
+42;Królewska;OSIEDLE SOBIESKIEGO;2.0;111
+1;PL. GRUNWALDZKI;Kliniki - Politechnika Wrocławska;2.0;315
+2;Kliniki - Politechnika Wrocławska;Hala Stulecia;2.0;315
+3;Hala Stulecia;Tramwajowa;2.0;315
+4;Tramwajowa;Partyzantów;2.0;315
+5;Partyzantów;Okrzei;1.0;315
+6;Okrzei;Monte Cassino;1.0;315
+7;Monte Cassino;Libelta;1.0;315
+8;Libelta;SĘPOLNO;2.0;315
+9;SĘPOLNO;Monopolowa;2.0;315
+10;Monopolowa;Ceglana;3.0;315
+11;Ceglana;Gospodarska;1.0;315
+12;Gospodarska;Miłoszycka;1.0;315
+13;Miłoszycka;Swojczyce;1.0;315
+1;Kozia;Północna;1.0;127
+2;Północna;Maślicka (Staw);1.0;127
+3;Maślicka (Staw);Maślice Małe (Brodnicka);1.0;127
+4;Maślice Małe (Brodnicka);Rędzińska (Cmentarz);1.0;127
+5;Rędzińska (Cmentarz);Maślicka (Osiedle);1.0;127
+6;Maślicka (Osiedle);TARCZYŃSKI ARENA (Królewiecka);3.0;127
+7;TARCZYŃSKI ARENA (Królewiecka);Dworska;1.0;127
+8;Dworska;Górnicza;2.0;127
+9;Górnicza;KOZANÓW (Dokerska);1.0;127
+10;KOZANÓW (Dokerska);KOZANÓW;2.0;127
+11;KOZANÓW;Dzielna;1.0;127
+12;Dzielna;Wiślańska;1.0;127
+13;Wiślańska;Kolista;2.0;127
+14;Kolista;Wejherowska;4.0;127
+15;Wejherowska;Rysia;2.0;127
+16;Rysia;Popowice;2.0;127
+17;Popowice;POPOWICE (Stacja kolejowa);1.0;127
+18;POPOWICE (Stacja kolejowa);DŁUGA (Politechnika);1.0;127
+19;DŁUGA (Politechnika);Poznańska;1.0;127
+20;Poznańska;Szczepin;2.0;127
+21;Szczepin;Inowrocławska;1.0;127
+22;Inowrocławska;PL. SOLIDARNOŚCI;2.0;127
+23;PL. SOLIDARNOŚCI;PL. JANA PAWŁA II;3.0;127
+24;PL. JANA PAWŁA II;pl. Orląt Lwowskich;3.0;127
+25;pl. Orląt Lwowskich;Tęczowa;1.0;127
+26;Tęczowa;Grabiszyńska;4.0;127
+27;Grabiszyńska;Zaporoska;3.0;127
+28;Zaporoska;Krucza;1.0;127
+29;Krucza;Gajowicka;2.0;127
+30;Gajowicka;Hallera;4.0;127
+31;Hallera;Sudecka;1.0;127
+32;Sudecka;Wiśniowa;3.0;127
+33;Wiśniowa;Jaworowa;1.0;127
+34;Jaworowa;Weigla (Szpital);1.0;127
+35;Weigla (Szpital);Pułtuska;1.0;127
+36;Pułtuska;Wyścigowa;3.0;127
+37;Wyścigowa;Malinowa;1.0;127
+38;Malinowa;Ożynowa;1.0;127
+39;Ożynowa;rondo Św. Ojca Pio;3.0;127
+40;rondo Św. Ojca Pio;ZWYCIĘSKA;1.0;127
+1;GALERIA DOMINIKAŃSKA;Ogród Botaniczny;7.0;924
+2;Ogród Botaniczny;Wyszyńskiego;2.0;924
+3;Wyszyńskiego;KROMERA;4.0;924
+4;KROMERA;Grudziądzka;3.0;924
+5;Grudziądzka;Brücknera;3.0;924
+6;Brücknera;C.H. Korona;2.0;924
+7;C.H. Korona;Psie Pole;3.0;924
+8;Psie Pole;Psie Pole (Rondo Lotników Polskich);2.0;924
+9;Psie Pole (Rondo Lotników Polskich);PSIE POLE (Stacja kolejowa);1.0;924
+10;PSIE POLE (Stacja kolejowa);Dobroszycka;1.0;924
+11;Dobroszycka;Bierutowska 65;1.0;924
+12;Bierutowska 65;Bierutowska;1.0;924
+13;Bierutowska;Bierutowska 75;1.0;924
+14;Bierutowska 75;BIERUTOWSKA (Wiadukt);1.0;924
+15;BIERUTOWSKA (Wiadukt);Mirków - Sportowa;2.0;924
+16;Mirków - Sportowa;Mirków - Jagiellońska;2.0;924
+17;Mirków - Jagiellońska;Długołęka - Wiejska;5.0;924
+18;Długołęka - Wiejska;Długołęka - Kasztanowa;2.0;924
+19;Długołęka - Kasztanowa;Długołęka - Kościół;4.0;924
+20;Długołęka - Kościół;Długołęka - Nowy Urząd;1.0;924
+21;Długołęka - Nowy Urząd;Kamień - Bursztynowa;2.0;924
+22;Kamień - Bursztynowa;Kamień - skrzy.;1.0;924
+23;Kamień - skrzy.;Kamień - skrzy. Kryształowa;1.0;924
+24;Kamień - skrzy. Kryształowa;Piecowice;4.0;924
+25;Piecowice;Bielawa;4.0;924
+26;Bielawa;Raków - osiedle;2.0;924
+27;Raków - osiedle;Raków - skrzy.;1.0;924
+28;Raków - skrzy.;Raków II;0.0;924
+29;Raków II;Raków I;1.0;924
+30;Raków I;Borowa - stacja kolejowa;3.0;924
+31;Borowa - stacja kolejowa;Borowa - szkoła;1.0;924
+32;Borowa - szkoła;Borowa - skrzy.;2.0;924
+33;Borowa - skrzy.;Stępin;2.0;924
+34;Stępin;Stępin - Kościół;1.0;924
+1;RĘDZIN;Las Osobowicki;4.0;118
+2;Las Osobowicki;Lipska;2.0;118
+3;Lipska;Jarocińska;1.0;118
+4;Jarocińska;OSOBOWICE;2.0;118
+5;OSOBOWICE;OSOBOWICKA (Cmentarz);2.0;118
+6;OSOBOWICKA (Cmentarz);OSOBOWICKA (Cmentarz II);1.0;118
+7;OSOBOWICKA (Cmentarz II);Łużycka;2.0;118
+8;Łużycka;Różanka;2.0;118
+9;Różanka;Bezpieczna;2.0;118
+10;Bezpieczna;Bałtycka (szkoła);2.0;118
+11;Bałtycka (szkoła);Bałtycka;2.0;118
+12;Bałtycka;Broniewskiego;3.0;118
+13;Broniewskiego;Pola;2.0;118
+14;Pola;Syrokomli;1.0;118
+15;Syrokomli;Kasprowicza;1.0;118
+16;Kasprowicza;pl. Daniłowskiego;2.0;118
+17;pl. Daniłowskiego;Berenta;1.0;118
+18;Berenta;KROMERA;5.0;118
+19;KROMERA;Kwidzyńska;4.0;118
+20;Kwidzyńska;Brücknera;2.0;118
+21;Brücknera;Olsztyńska;2.0;118
+22;Olsztyńska;Kowalska 56;1.0;118
+23;Kowalska 56;Kowale (Stacja kolejowa);1.0;118
+24;Kowale (Stacja kolejowa);Działdowska;1.0;118
+25;Działdowska;Tczewska;1.0;118
+26;Tczewska;Kowalska;1.0;118
+27;Kowalska;Ceglana;1.0;118
+28;Ceglana;Gospodarska;1.0;118
+29;Gospodarska;Miłoszycka;1.0;118
+30;Miłoszycka;Swojczyce;1.0;118
+31;Swojczyce;Magellana;2.0;118
+32;Magellana;Kolumba;1.0;118
+33;Kolumba;Monopolowa;1.0;118
+34;Monopolowa;SĘPOLNO;2.0;118
+1;GALERIA DOMINIKAŃSKA;skwer Krasińskiego;4.0;120
+2;skwer Krasińskiego;Dworzec Główny (Dworcowa);1.0;120
+3;Dworzec Główny (Dworcowa);Kościuszki;3.0;120
+4;Kościuszki;Świstackiego;2.0;120
+5;Świstackiego;Na Niskich Łąkach;2.0;120
+6;Na Niskich Łąkach;Rakowiecka;2.0;120
+7;Rakowiecka;Międzyrzecka;2.0;120
+8;Międzyrzecka;Bierdzany;1.0;120
+9;Bierdzany;Nowy Dom;3.0;120
+10;Nowy Dom;Opatowicka nr 59;2.0;120
+11;Opatowicka nr 59;Opatowicka nr 85;1.0;120
+12;Opatowicka nr 85;OPATOWICE;1.0;120
+13;OPATOWICE;Opatowicka nr 127;1.0;120
+14;Opatowicka nr 127;Zalewowa;1.0;120
+15;Zalewowa;Trestno - świetlica;1.0;120
+16;Trestno - świetlica;Trestno - kościół;1.0;120
+17;Trestno - kościół;TRESTNO (pętla);1.0;120
+1;LEŚNICA;Jeleniogórska;1.0;923
+2;Jeleniogórska;Śnieżna;1.0;923
+3;Śnieżna;Ciechocińska;1.0;923
+4;Ciechocińska;Stabłowice;1.0;923
+5;Stabłowice;Park Stabłowicki;1.0;923
+6;Park Stabłowicki;Główna;1.0;923
+7;Główna;Marszowice;2.0;923
+8;Marszowice;Wilkszyńska;2.0;923
+9;Wilkszyńska;Łososiowicka;1.0;923
+10;Łososiowicka;Krzelowska;1.0;923
+11;Krzelowska;Wilkszyn - Miłoszyn;1.0;923
+12;Wilkszyn - Miłoszyn;Wilkszyn - Polna;1.0;923
+13;Wilkszyn - Polna;Wilkszyn (pętla);1.0;923
+14;Wilkszyn (pętla);Pisarzowice - Graniczna;2.0;923
+15;Pisarzowice - Graniczna;Pisarzowice - Odrzańska;2.0;923
+16;Pisarzowice - Odrzańska;Pisarzowice - Szkolna;1.0;923
+17;Pisarzowice - Szkolna;Pisarzowice - Kolejowa;1.0;923
+18;Pisarzowice - Kolejowa;Brzezinka Średzka - ul. Kolejowa;2.0;923
+19;Brzezinka Średzka - ul. Kolejowa;Brzezinka Średzka - ul. Główna;1.0;923
+20;Brzezinka Średzka - ul. Główna;Brzezina - Kościół;3.0;923
+21;Brzezina - Kościół;BRZEZINA (pętla);1.0;923
+1;LEŚNICA;RUBCZAKA (Stacja kolejowa);2.0;948
+2;RUBCZAKA (Stacja kolejowa);Rubczaka;1.0;948
+3;Rubczaka;Średzka;1.0;948
+4;Średzka;Eluarda;2.0;948
+5;Eluarda;Zajazdowa;1.0;948
+6;Zajazdowa;Krępicka - szkoła;1.0;948
+7;Krępicka - szkoła;Krępicka;1.0;948
+8;Krępicka;Krępicka;0.0;948
+9;Krępicka;Mokrzańska;1.0;948
+10;Mokrzańska;ŻAR;3.0;948
+11;ŻAR;Krępice;2.0;948
+12;Krępice;Wróblowice;2.0;948
+13;Wróblowice;Błonie;3.0;948
+14;Błonie;Źródła;2.0;948
+15;Źródła;Kadłub wieś;4.0;948
+16;Kadłub wieś;Kadłub NŻ;1.0;948
+17;Kadłub NŻ;Miękinia Cegielnia;2.0;948
+18;Miękinia Cegielnia;Miękinia - stacja PKP;1.0;948
+19;Miękinia - stacja PKP;Miękinia - pętla;3.0;948
+1;SĘPOLNO;Libelta;2.0;145
+2;Libelta;Monte Cassino;1.0;145
+3;Monte Cassino;Okrzei;1.0;145
+4;Okrzei;Partyzantów;1.0;145
+5;Partyzantów;Tramwajowa;2.0;145
+6;Tramwajowa;Hala Stulecia;2.0;145
+7;Hala Stulecia;Kliniki - Politechnika Wrocławska;2.0;145
+8;Kliniki - Politechnika Wrocławska;PL. GRUNWALDZKI;3.0;145
+9;PL. GRUNWALDZKI;most Grunwaldzki;2.0;145
+10;most Grunwaldzki;Poczta Główna;3.0;145
+11;Poczta Główna;skwer Krasińskiego;3.0;145
+12;skwer Krasińskiego;DWORZEC GŁÓWNY;2.0;145
+13;DWORZEC GŁÓWNY;DWORZEC GŁÓWNY;3.0;145
+14;DWORZEC GŁÓWNY;DWORZEC AUTOBUSOWY;3.0;145
+15;DWORZEC AUTOBUSOWY;Dyrekcyjna;2.0;145
+16;Dyrekcyjna;Borowska;3.0;145
+17;Borowska;Śliczna;2.0;145
+18;Śliczna;ROD Bajki;2.0;145
+19;ROD Bajki;Działkowa;3.0;145
+20;Działkowa;GAJ;2.0;145
+21;GAJ;Świeradowska;1.0;145
+22;Świeradowska;Morwowa;2.0;145
+23;Morwowa;BARDZKA (Cmentarz);1.0;145
+24;BARDZKA (Cmentarz);Buforowa-Rondo;2.0;145
+25;Buforowa-Rondo;Konduktorska;1.0;145
+26;Konduktorska;Malinowskiego;1.0;145
+27;Malinowskiego;Jagodzińska;1.0;145
+28;Jagodzińska;Kajdasza;1.0;145
+29;Kajdasza;Vivaldiego;2.0;145
+30;Vivaldiego;Iwiny - rondo;2.0;145
+1;Stadion Olimpijski;8 Maja;2.0;941
+2;8 Maja;Godebskiego (AWF Wrocław);1.0;941
+3;Godebskiego (AWF Wrocław);SĘPOLNO;1.0;941
+4;SĘPOLNO;Monopolowa;2.0;941
+5;Monopolowa;Kolumba;1.0;941
+6;Kolumba;Magellana;1.0;941
+7;Magellana;Swojczyce;2.0;941
+8;Swojczyce;Wilczyce - Wilczycka (Stary Młyn);7.0;941
+9;Wilczyce - Wilczycka (Stary Młyn);Wilczyce - Wilczycka (Clarena);2.0;941
+10;Wilczyce - Wilczycka (Clarena);Kiełczówek;2.0;941
+11;Kiełczówek;Kiełczówek - pętla;1.0;941
+12;Kiełczówek - pętla;Kiełczówek - skrzy. Imbirowa;1.0;941
+13;Kiełczówek - skrzy. Imbirowa;Kiełczówek - Sielska Zagroda;1.0;941
+14;Kiełczówek - Sielska Zagroda;Kiełczów - Rzeczna;1.0;941
+15;Kiełczów - Rzeczna;Kiełczów - cmentarz;2.0;941
+16;Kiełczów - cmentarz;Kiełczów - pętla/Wrocławska;1.0;941
+17;Kiełczów - pętla/Wrocławska;Kiełczów - Zgodna;1.0;941
+18;Kiełczów - Zgodna;Piecowice;4.0;941
+19;Piecowice;Kamień - skrzy. Rubinowa;4.0;941
+20;Kamień - skrzy. Rubinowa;Kamień - skrzy. Diamentowa;0.0;941
+21;Kamień - skrzy. Diamentowa;Kamień - skrzy.;1.0;941
+22;Kamień - skrzy.;Kamień - Bursztynowa;2.0;941
+23;Kamień - Bursztynowa;Długołęka - Nowy Urząd;2.0;941
+24;Długołęka - Nowy Urząd;Długołęka - Kościół;1.0;941
+25;Długołęka - Kościół;Długołęka - Broniewskiego (na wys. nr 11);1.0;941
+26;Długołęka - Broniewskiego (na wys. nr 11);Długołęka - Parkowa/skrzy.;3.0;941
+27;Długołęka - Parkowa/skrzy.;Szczodre - Trzebnicka (na wys. nr 3a);1.0;941
+28;Szczodre - Trzebnicka (na wys. nr 3a);Szczodre - Trzebnicka;1.0;941
+29;Szczodre - Trzebnicka;Szczodre - pętla;2.0;941
+1;KARŁOWICE;Broniewskiego;2.0;142
+2;Broniewskiego;Bałtycka;2.0;142
+3;Bałtycka;Bezpieczna;2.0;142
+4;Bezpieczna;Różanka;1.0;142
+5;Różanka;Łużycka;1.0;142
+6;Łużycka;Serbska (C.K. Agora);1.0;142
+7;Serbska (C.K. Agora);most Osobowicki;2.0;142
+8;most Osobowicki;Kleczkowska;3.0;142
+9;Kleczkowska;pl. Strzelecki;1.0;142
+10;pl. Strzelecki;Pomorska;2.0;142
+11;Pomorska;Pomorska;1.0;142
+12;Pomorska;Mosty Pomorskie;1.0;142
+13;Mosty Pomorskie;Rynek;2.0;142
+14;Rynek;PL. JANA PAWŁA II;3.0;142
+15;PL. JANA PAWŁA II;Młodych Techników;2.0;142
+16;Młodych Techników;Strzegomska (Muzeum Współczesne);2.0;142
+17;Strzegomska (Muzeum Współczesne);Śrubowa;2.0;142
+18;Śrubowa;Wrocławski Park Przemysłowy;1.0;142
+19;Wrocławski Park Przemysłowy;Dolnośląska Szkoła Wyższa;2.0;142
+20;Dolnośląska Szkoła Wyższa;Fabryczna;2.0;142
+21;Fabryczna;Otyńska;2.0;142
+22;Otyńska;Strzegomska 148;2.0;142
+23;Strzegomska 148;Nowodworska;2.0;142
+24;Nowodworska;Nowy Dwór;2.0;142
+25;Nowy Dwór;Chociebuska;3.0;142
+26;Chociebuska;Nowy Dwór (Rogowska);1.0;142
+27;Nowy Dwór (Rogowska);Zemska;2.0;142
+28;Zemska;Nowy Dwór (Stacja kolejowa);2.0;142
+29;Nowy Dwór (Stacja kolejowa);Hermanowska;2.0;142
+30;Hermanowska;KUŹNIKI;1.0;142
+1;OSOBOWICE;OSOBOWICKA (Cmentarz);2.0;714
+2;OSOBOWICKA (Cmentarz);OSOBOWICKA (Cmentarz II);1.0;714
+3;OSOBOWICKA (Cmentarz II);Serbska (C.K. Agora);2.0;714
+4;Serbska (C.K. Agora);most Osobowicki;2.0;714
+5;most Osobowicki;Kleczkowska;3.0;714
+6;Kleczkowska;pl. Strzelecki;1.0;714
+7;pl. Strzelecki;PL. STASZICA;2.0;714
+8;PL. STASZICA;DWORZEC NADODRZE;1.0;714
+1;PL. GRUNWALDZKI;Bujwida;2.0;121
+2;Bujwida;Kochanowskiego;2.0;121
+3;Kochanowskiego;Śniadeckich;2.0;121
+4;Śniadeckich;Zacisze;2.0;121
+5;Zacisze;Kwidzyńska;2.0;121
+6;Kwidzyńska;Brücknera;2.0;121
+7;Brücknera;C.H. Korona;2.0;121
+8;C.H. Korona;Zielna;2.0;121
+9;Zielna;Psie Pole;1.0;121
+10;Psie Pole;Psie Pole (Rondo Lotników Polskich);2.0;121
+11;Psie Pole (Rondo Lotników Polskich);MULICKA;1.0;121
+12;MULICKA;Gorlicka;1.0;121
+13;Gorlicka;Szewczenki;1.0;121
+14;Szewczenki;Inflancka;1.0;121
+15;Inflancka;Kowieńska;1.0;121
+16;Kowieńska;Żmudzka;1.0;121
+17;Żmudzka;Żmudzka;1.0;121
+18;Żmudzka;Kiełczowska (Cmentarz);1.0;121
+1;KOZANÓW;Dzielna;1.0;126
+2;Dzielna;Wiślańska;1.0;126
+3;Wiślańska;Kolista;2.0;126
+4;Kolista;DH Astra;6.0;126
+5;DH Astra;Park Zachodni;1.0;126
+6;Park Zachodni;Szybowcowa;2.0;126
+7;Szybowcowa;Bulwar Dedala;1.0;126
+8;Bulwar Dedala;Bystrzycka;1.0;126
+9;Bystrzycka;KUŹNIKI (Stacja kolejowa);1.0;126
+10;KUŹNIKI (Stacja kolejowa);KUŹNIKI;2.0;126
+11;KUŹNIKI;Hermanowska;1.0;126
+12;Hermanowska;Chociebuska;3.0;126
+13;Chociebuska;Nowy Dwór;1.0;126
+14;Nowy Dwór;Nowodworska;2.0;126
+15;Nowodworska;Szkocka;2.0;126
+16;Szkocka;Wrocławski Park Technologiczny;2.0;126
+17;Wrocławski Park Technologiczny;ROD Oświata;3.0;126
+18;ROD Oświata;FAT;6.0;126
+19;FAT;Hutmen;1.0;126
+20;Hutmen;Bzowa (Centrum Zajezdnia);2.0;126
+21;Bzowa (Centrum Zajezdnia);pl. Srebrny;1.0;126
+22;pl. Srebrny;Stalowa;1.0;126
+23;Stalowa;Pereca;1.0;126
+24;Pereca;Grabiszyńska;2.0;126
+25;Grabiszyńska;Zaporoska;2.0;126
+26;Zaporoska;Rondo;2.0;126
+27;Rondo;Hallera;4.0;126
+28;Hallera;Racławicka (szkoła);2.0;126
+29;Racławicka (szkoła);Modlińska;2.0;126
+30;Modlińska;Wawrzyniaka;3.0;126
+31;Wawrzyniaka;Chłodna;1.0;126
+32;Chłodna;Sowia;1.0;126
+33;Sowia;KRZYKI;3.0;126
+34;KRZYKI;PARK POŁUDNIOWY;3.0;126
+35;PARK POŁUDNIOWY;Wyścigowa;2.0;126
+36;Wyścigowa;Wojszycka;1.0;126
+1;SOŁTYSOWICE;Bagatela;1.0;119
+2;Bagatela;Redycka;1.0;119
+3;Redycka;Poprzeczna;2.0;119
+4;Poprzeczna;Sołtysowicka;1.0;119
+5;Sołtysowicka;Koszarowa;1.0;119
+6;Koszarowa;KOSZAROWA (Szpital);2.0;119
+7;KOSZAROWA (Szpital);pl. Daniłowskiego;3.0;119
+8;pl. Daniłowskiego;Kasprowicza;1.0;119
+9;Kasprowicza;Syrokomli;2.0;119
+10;Syrokomli;Pola;1.0;119
+11;Pola;Broniewskiego;4.0;119
+12;Broniewskiego;Bałtycka;2.0;119
+13;Bałtycka;Bezpieczna;2.0;119
+14;Bezpieczna;Różanka;1.0;119
+15;Różanka;Łużycka;1.0;119
+16;Łużycka;OSOBOWICKA (Cmentarz II);2.0;119
+17;OSOBOWICKA (Cmentarz II);OSOBOWICKA (Cmentarz);1.0;119
+18;OSOBOWICKA (Cmentarz);most Milenijny;2.0;119
+19;most Milenijny;Hala Orbita;2.0;119
+20;Hala Orbita;Wejherowska;5.0;119
+21;Wejherowska;Kwiska;2.0;119
+22;Kwiska;Na Ostatnim Groszu;3.0;119
+23;Na Ostatnim Groszu;Gądowianka;2.0;119
+24;Gądowianka;Nowodworska;4.0;119
+25;Nowodworska;Nowy Dwór;2.0;119
+26;Nowy Dwór;Rogowska;2.0;119
+27;Rogowska;MIŃSKA (Rondo Rotm. Pileckiego);4.0;119
+28;MIŃSKA (Rondo Rotm. Pileckiego);Tyrmanda;2.0;119
+29;Tyrmanda;Zagony;1.0;119
+30;Zagony;Muchobór Wielki;2.0;119
+31;Muchobór Wielki;Stanisławowska (W.K. Formaty);3.0;119
+32;Stanisławowska (W.K. Formaty);Trawowa;2.0;119
+33;Trawowa;Krzemieniecka;1.0;119
+34;Krzemieniecka;Końcowa;1.0;119
+35;Końcowa;Ostrowskiego;2.0;119
+36;Ostrowskiego;FAT;4.0;119
+37;FAT;Aleja Pracy;2.0;119
+38;Aleja Pracy;Ojca Beyzyma;1.0;119
+39;Ojca Beyzyma;Aleja Wędrowców;1.0;119
+40;Aleja Wędrowców;Ślusarska;1.0;119
+41;Ślusarska;BLACHARSKA;2.0;119
+1;GALERIA DOMINIKAŃSKA;GALERIA DOMINIKAŃSKA;4.0;110
+2;GALERIA DOMINIKAŃSKA;Wzgórze Partyzantów;2.0;110
+3;Wzgórze Partyzantów;DWORZEC GŁÓWNY;3.0;110
+4;DWORZEC GŁÓWNY;DWORZEC GŁÓWNY;1.0;110
+5;DWORZEC GŁÓWNY;DWORZEC AUTOBUSOWY;5.0;110
+6;DWORZEC AUTOBUSOWY;Hubska (Dawida);3.0;110
+7;Hubska (Dawida);Prudnicka;2.0;110
+8;Prudnicka;Kamienna;2.0;110
+9;Kamienna;Bardzka;2.0;110
+10;Bardzka;Krynicka;1.0;110
+11;Krynicka;Morwowa;2.0;110
+12;Morwowa;BARDZKA (Cmentarz);1.0;110
+13;BARDZKA (Cmentarz);Buforowa-Rondo;2.0;110
+14;Buforowa-Rondo;Konduktorska;1.0;110
+15;Konduktorska;Malinowskiego;1.0;110
+16;Malinowskiego;Jagodzińska;1.0;110
+17;Jagodzińska;Kajdasza;1.0;110
+18;Kajdasza;Vivaldiego;2.0;110
+19;Vivaldiego;Iwiny - rondo;2.0;110
+1;KRZYKI;PARK POŁUDNIOWY;3.0;913
+2;PARK POŁUDNIOWY;Wyścigowa;2.0;913
+3;Wyścigowa;Malinowa;1.0;913
+4;Malinowa;Ożynowa;1.0;913
+5;Ożynowa;rondo Św. Ojca Pio;2.0;913
+6;rondo Św. Ojca Pio;Wysoka - osiedle;2.0;913
+7;Wysoka - osiedle;Wysoka - Radosna;1.0;913
+8;Wysoka - Radosna;Wysoka - Chabrowa;1.0;913
+9;Wysoka - Chabrowa;Wysoka;1.0;913
+10;Wysoka;Wysoka - Lipowa;0.0;913
+11;Wysoka - Lipowa;Karwiany - skrzy. (Wrocławska/Majowa);4.0;913
+12;Karwiany - skrzy. (Wrocławska/Majowa);Komorowice;2.0;913
+13;Komorowice;Szukalice;3.0;913
+14;Szukalice;Szukalice;0.0;913
+15;Szukalice;Rzeplin - Al. Lipowa ;2.0;913
+16;Rzeplin - Al. Lipowa ;Żórawina - Wrocławska;5.0;913
+17;Żórawina - Wrocławska;Żórawina - skrzy. Niepodległości;2.0;913
+18;Żórawina - skrzy. Niepodległości;Żórawina - Niepodległości (Mostek);1.0;913
+1;LEŚNICA;RUBCZAKA (Stacja kolejowa);1.0;117
+2;RUBCZAKA (Stacja kolejowa);Rubczaka;1.0;117
+3;Rubczaka;Serowarska;2.0;117
+4;Serowarska;Trzmielowicka;1.0;117
+5;Trzmielowicka;Pustecka;1.0;117
+6;Pustecka;Miodowa;2.0;117
+7;Miodowa;Szkolna;1.0;117
+8;Szkolna;Ratyń - skrzyżowanie;1.0;117
+9;Ratyń - skrzyżowanie;Ratyń - skrzyżowanie;0.0;117
+10;Ratyń - skrzyżowanie;Gromadzka;1.0;117
+11;Gromadzka;RATYŃ;1.0;117
+1;ZAKRZÓW;Przedwiośnie (Stacja kolejowa);1.0;128
+2;Przedwiośnie (Stacja kolejowa);Wallenroda;1.0;128
+3;Wallenroda;Zakrzowska;1.0;128
+4;Zakrzowska;Psie Pole (Rondo Lotników Polskich);2.0;128
+5;Psie Pole (Rondo Lotników Polskich);Psie Pole;1.0;128
+6;Psie Pole;Zielna;1.0;128
+7;Zielna;C.H. Korona;2.0;128
+8;C.H. Korona;C.H. Korona;1.0;128
+9;C.H. Korona;Brücknera;2.0;128
+10;Brücknera;Grudziądzka;1.0;128
+11;Grudziądzka;Kromera (Czajkowskiego);2.0;128
+12;Kromera (Czajkowskiego);KROMERA;3.0;128
+13;KROMERA;Mosty Warszawskie;2.0;128
+14;Mosty Warszawskie;Wyszyńskiego;2.0;128
+15;Wyszyńskiego;Ogród Botaniczny;3.0;128
+16;Ogród Botaniczny;Świętokrzyska;2.0;128
+17;Świętokrzyska;pl. Bema;2.0;128
+18;pl. Bema;Dubois;5.0;128
+19;Dubois;Pomorska;2.0;128
+20;Pomorska;Dmowskiego;2.0;128
+21;Dmowskiego;Długa;2.0;128
+22;Długa;Poznańska;1.0;128
+23;Poznańska;DŁUGA (Politechnika);1.0;128
+24;DŁUGA (Politechnika);POPOWICE (Stacja kolejowa);2.0;128
+25;POPOWICE (Stacja kolejowa);Popowice;2.0;128
+26;Popowice;Rysia;2.0;128
+27;Rysia;Wejherowska;3.0;128
+28;Wejherowska;Kwiska;2.0;128
+29;Kwiska;Na Ostatnim Groszu;3.0;128
+30;Na Ostatnim Groszu;Orlińskiego;1.0;128
+31;Orlińskiego;Drzewieckiego;1.0;128
+32;Drzewieckiego;Hynka;2.0;128
+33;Hynka;Bystrzycka;2.0;128
+34;Bystrzycka;KUŹNIKI (Stacja kolejowa);1.0;128
+35;KUŹNIKI (Stacja kolejowa);METALOWCÓW (Ośrodek sportu);1.0;128
+36;METALOWCÓW (Ośrodek sportu);Metalowców;1.0;128
+37;Metalowców;PILCZYCE;3.0;128
+38;PILCZYCE;PILCZYCE;1.0;128
+1;GALERIA DOMINIKAŃSKA;Ogród Botaniczny;7.0;914
+2;Ogród Botaniczny;Wyszyńskiego;2.0;914
+3;Wyszyńskiego;KROMERA;4.0;914
+4;KROMERA;Grudziądzka;3.0;914
+5;Grudziądzka;Brücknera;3.0;914
+6;Brücknera;C.H. Korona;2.0;914
+7;C.H. Korona;Psie Pole;3.0;914
+8;Psie Pole;Psie Pole (Rondo Lotników Polskich);2.0;914
+9;Psie Pole (Rondo Lotników Polskich);PSIE POLE (Stacja kolejowa);1.0;914
+10;PSIE POLE (Stacja kolejowa);Dobroszycka;1.0;914
+11;Dobroszycka;Bierutowska 65;1.0;914
+12;Bierutowska 65;Bierutowska;1.0;914
+13;Bierutowska;Bierutowska 75;1.0;914
+14;Bierutowska 75;BIERUTOWSKA (Wiadukt);1.0;914
+15;BIERUTOWSKA (Wiadukt);Mirków - Sportowa;2.0;914
+16;Mirków - Sportowa;Mirków - Jagiellońska;2.0;914
+17;Mirków - Jagiellońska;Długołęka - Wiejska;5.0;914
+18;Długołęka - Wiejska;Długołęka - Kasztanowa;2.0;914
+19;Długołęka - Kasztanowa;Długołęka - Parkowa/skrzy.;2.0;914
+20;Długołęka - Parkowa/skrzy.;Szczodre - Trzebnicka (na wys. nr 3a);1.0;914
+21;Szczodre - Trzebnicka (na wys. nr 3a);Szczodre - Trzebnicka;1.0;914
+22;Szczodre - Trzebnicka;Szczodre - pętla;2.0;914
+23;Szczodre - pętla;Domaszczyn - Wrocławska sklep;2.0;914
+24;Domaszczyn - Wrocławska sklep;Domaszczyn - Kościół;1.0;914
+25;Domaszczyn - Kościół;Domaszczyn - Wrocławska Skrzyżowanie;2.0;914
+26;Domaszczyn - Wrocławska Skrzyżowanie;Domaszczyn - Stawowa;1.0;914
+27;Domaszczyn - Stawowa;Pruszowice;2.0;914
+1;Brzezinka Średzka - PKP;Gosławice - przejazd PKP;2.0;940
+2;Gosławice - przejazd PKP;Prężyce przy posesji nr 22;3.0;940
+3;Prężyce przy posesji nr 22;Lenartowice przy posesji nr 11a;3.0;940
+4;Lenartowice przy posesji nr 11a;Księginice - skrzyż. Warzyna;5.0;940
+5;Księginice - skrzyż. Warzyna;Białków;6.0;940
+6;Białków;Klęka;3.0;940
+7;Klęka;Miękinia - Urząd Gminy;5.0;940
+8;Miękinia - Urząd Gminy;Miękinia - stacja PKP;2.0;940
+9;Miękinia - stacja PKP;Miękinia - Urząd Gminy;2.0;940
+10;Miękinia - Urząd Gminy;Mrozów - Wyzwolenia;8.0;940
+11;Mrozów - Wyzwolenia;Wojnowice - Główna;3.0;940
+12;Wojnowice - Główna;Wilkostów;3.0;940
+13;Wilkostów;Czerna;3.0;940
+1;TARNOGAJ;Złotostocka;1.0;143
+2;Złotostocka;GAJ - pętla;3.0;143
+3;GAJ - pętla;Świeradowska;2.0;143
+4;Świeradowska;GAJ;2.0;143
+5;GAJ;Działkowa;2.0;143
+6;Działkowa;ROD Bajki;3.0;143
+7;ROD Bajki;Śliczna;1.0;143
+8;Śliczna;Uniwersytet Ekonomiczny;4.0;143
+9;Uniwersytet Ekonomiczny;Drukarska;2.0;143
+10;Drukarska;Hallera;7.0;143
+11;Hallera;Racławicka (szkoła);2.0;143
+12;Racławicka (szkoła);Modlińska;2.0;143
+13;Modlińska;Rymarska;1.0;143
+14;Rymarska;RACŁAWICKA;1.0;143
+15;RACŁAWICKA;Bukowskiego;1.0;143
+16;Bukowskiego;Stanki;1.0;143
+17;Stanki;Kadłubka;1.0;143
+18;Kadłubka;Wiejska;1.0;143
+19;Wiejska;Solskiego;2.0;143
+20;Solskiego;OPORÓW;1.0;143
+21;OPORÓW;GRABISZYŃSKA (Cmentarz);3.0;143
+22;GRABISZYŃSKA (Cmentarz);Fiołkowa;1.0;143
+23;Fiołkowa;FAT;3.0;143
+24;FAT;ROD Oświata;2.0;143
+25;ROD Oświata;Wrocławski Park Technologiczny;1.0;143
+26;Wrocławski Park Technologiczny;Szkocka;2.0;143
+27;Szkocka;Gądowianka;2.0;143
+28;Gądowianka;Na Ostatnim Groszu;2.0;143
+29;Na Ostatnim Groszu;Kwiska;3.0;143
+30;Kwiska;Wejherowska;3.0;143
+31;Wejherowska;Hala Orbita;2.0;143
+32;Hala Orbita;most Milenijny;1.0;143
+33;most Milenijny;Obornicka (Obwodnica);4.0;143
+34;Obornicka (Obwodnica);Ostowa (Muzeum Militarne);2.0;143
+35;Ostowa (Muzeum Militarne);Pełczyńska (Stacja kolejowa);1.0;143
+36;Pełczyńska (Stacja kolejowa);Kominiarska;1.0;143
+37;Kominiarska;Lipa Piotrowska;1.0;143
+38;Lipa Piotrowska;Tymiankowa;1.0;143
+39;Tymiankowa;Cynamonowa;1.0;143
+40;Cynamonowa;Waniliowa;1.0;143
+41;Waniliowa;KMINKOWA;2.0;143
+1;OPORÓW;OPORÓW;1.0;947
+2;OPORÓW;Solskiego;1.0;947
+3;Solskiego;Wiejska;1.0;947
+4;Wiejska;Jordanowska;2.0;947
+5;Jordanowska;Mokronos Dolny - Parkowa/Stawowa;3.0;947
+6;Mokronos Dolny - Parkowa/Stawowa;Mokronos Dolny - Stawowa/Szczęśliwa;1.0;947
+7;Mokronos Dolny - Stawowa/Szczęśliwa;Mokronos Górny - Wrocławska/Gwarna;3.0;947
+8;Mokronos Górny - Wrocławska/Gwarna;Smolec - Wrocławska;3.0;947
+9;Smolec - Wrocławska;Smolec - Lipowa/pętla;1.0;947
+1;Starościńska;Ługowa;1.0;144
+2;Ługowa;Kątowa;1.0;144
+3;Kątowa;Milicka;1.0;144
+4;Milicka;Kamieńskiego (Szpital);1.0;144
+5;Kamieńskiego (Szpital);Jutrosińska;1.0;144
+6;Jutrosińska;Gąsiorowskiego;1.0;144
+7;Gąsiorowskiego;Mochnackiego;1.0;144
+8;Mochnackiego;Kamieńskiego;2.0;144
+9;Kamieńskiego;Broniewskiego;2.0;144
+10;Broniewskiego;Trzebnicka;3.0;144
+11;Trzebnicka;DWORZEC NADODRZE;2.0;144
+12;DWORZEC NADODRZE;Paulińska;2.0;144
+13;Paulińska;Dubois;3.0;144
+14;Dubois;Pomorska;2.0;144
+15;Pomorska;Dmowskiego;2.0;144
+16;Dmowskiego;PL. JANA PAWŁA II;3.0;144
+17;PL. JANA PAWŁA II;pl. Orląt Lwowskich;2.0;144
+18;pl. Orląt Lwowskich;pl. Legionów;2.0;144
+19;pl. Legionów;Piłsudskiego;2.0;144
+20;Piłsudskiego;Zielińskiego;3.0;144
+21;Zielińskiego;Zaporoska;2.0;144
+22;Zaporoska;Krucza;1.0;144
+23;Krucza;Gajowicka;2.0;144
+24;Gajowicka;Hallera;4.0;144
+25;Hallera;Sudecka;2.0;144
+26;Sudecka;Jarzębinowa;1.0;144
+27;Jarzębinowa;Skierniewicka;1.0;144
+28;Skierniewicka;Wyścigowa;3.0;144
+29;Wyścigowa;Malinowa;1.0;144
+30;Malinowa;Ożynowa;1.0;144
+31;Ożynowa;rondo Św. Ojca Pio;3.0;144
+32;rondo Św. Ojca Pio;ZWYCIĘSKA;1.0;144
+1;RĘDZIN;Las Osobowicki;4.0;257
+2;Las Osobowicki;Lipska;2.0;257
+3;Lipska;Jarocińska;1.0;257
+4;Jarocińska;OSOBOWICE;2.0;257
+5;OSOBOWICE;OSOBOWICKA (Cmentarz);2.0;257
+6;OSOBOWICKA (Cmentarz);OSOBOWICKA (Cmentarz II);1.0;257
+7;OSOBOWICKA (Cmentarz II);Łużycka;2.0;257
+8;Łużycka;Różanka;2.0;257
+9;Różanka;Bezpieczna;2.0;257
+10;Bezpieczna;Bałtycka (szkoła);2.0;257
+11;Bałtycka (szkoła);Bałtycka;1.0;257
+12;Bałtycka;Kleczkowska;3.0;257
+13;Kleczkowska;pl. Strzelecki;1.0;257
+14;pl. Strzelecki;Pomorska;2.0;257
+15;Pomorska;Pomorska;1.0;257
+16;Pomorska;Mosty Pomorskie;1.0;257
+17;Mosty Pomorskie;Rynek;2.0;257
+18;Rynek;Rynek;2.0;257
+19;Rynek;Narodowe Forum Muzyki;1.0;257
+20;Narodowe Forum Muzyki;Renoma;2.0;257
+21;Renoma;DWORZEC GŁÓWNY;3.0;257
+22;DWORZEC GŁÓWNY;DWORZEC GŁÓWNY;1.0;257
+23;DWORZEC GŁÓWNY;DWORZEC AUTOBUSOWY;3.0;257
+24;DWORZEC AUTOBUSOWY;Dyrekcyjna;2.0;257
+25;Dyrekcyjna;PETRUSEWICZA;1.0;257
+26;PETRUSEWICZA;DWORZEC AUTOBUSOWY;3.0;257
+27;DWORZEC AUTOBUSOWY;EPI;2.0;257
+28;EPI;Zaolziańska;1.0;257
+29;Zaolziańska;Wielka;2.0;257
+30;Wielka;Rondo;1.0;257
+31;Rondo;Sztabowa;1.0;257
+32;Sztabowa;Hallera;1.0;257
+33;Hallera;Gajowicka;2.0;257
+34;Gajowicka;Mielecka;1.0;257
+35;Mielecka;Ojca Beyzyma;2.0;257
+36;Ojca Beyzyma;Aleja Pracy;2.0;257
+37;Aleja Pracy;FAT;6.0;257
+38;FAT;GRABISZYŃSKA (Cmentarz);2.0;257
+39;GRABISZYŃSKA (Cmentarz);GRABISZYŃSKA (Cmentarz II);1.0;257
+40;GRABISZYŃSKA (Cmentarz II);OPORÓW;1.0;257
+1;DWORZEC GŁÓWNY;Kościuszki;3.0;250
+2;Kościuszki;Komuny Paryskiej;1.0;250
+3;Komuny Paryskiej;pl. Wróblewskiego;2.0;250
+4;pl. Wróblewskiego;Urząd Wojewódzki (Impart);2.0;250
+5;Urząd Wojewódzki (Impart);PL. GRUNWALDZKI;3.0;250
+6;PL. GRUNWALDZKI;Piastowska;1.0;250
+7;Piastowska;Prusa;2.0;250
+8;Prusa;Wyszyńskiego;1.0;250
+9;Wyszyńskiego;Nowowiejska;2.0;250
+10;Nowowiejska;Słowiańska;2.0;250
+11;Słowiańska;DWORZEC NADODRZE;2.0;250
+12;DWORZEC NADODRZE;Paulińska;2.0;250
+13;Paulińska;Dubois;3.0;250
+14;Dubois;Pomorska;2.0;250
+15;Pomorska;Dmowskiego;2.0;250
+16;Dmowskiego;PL. JANA PAWŁA II;3.0;250
+17;PL. JANA PAWŁA II;pl. Orląt Lwowskich;2.0;250
+18;pl. Orląt Lwowskich;pl. Legionów;2.0;250
+19;pl. Legionów;Arkady (Capitol);2.0;250
+20;Arkady (Capitol);EPI;2.0;250
+21;EPI;DWORZEC GŁÓWNY;3.0;250
+1;PETRUSEWICZA;DWORZEC AUTOBUSOWY;4.0;000n
+2;DWORZEC AUTOBUSOWY;DWORZEC GŁÓWNY;3.0;000n
+3;DWORZEC GŁÓWNY;GALERIA DOMINIKAŃSKA;5.0;000n
+4;GALERIA DOMINIKAŃSKA;Urząd Wojewódzki (Muzeum Narodowe);4.0;000n
+5;Urząd Wojewódzki (Muzeum Narodowe);Katedra;2.0;000n
+6;Katedra;Ogród Botaniczny;2.0;000n
+7;Ogród Botaniczny;Wyszyńskiego;2.0;000n
+8;Wyszyńskiego;Damrota;1.0;000n
+9;Damrota;KROMERA;4.0;000n
+10;KROMERA;Kromera (Czajkowskiego);2.0;000n
+11;Kromera (Czajkowskiego);Grudziądzka;1.0;000n
+12;Grudziądzka;Brücknera;3.0;000n
+13;Brücknera;Psie Pole;5.0;000n
+14;Psie Pole;Psie Pole (Rondo Lotników Polskich);2.0;000n
+15;Psie Pole (Rondo Lotników Polskich);KIEŁCZOWSKA (LZN);2.0;000n
+16;KIEŁCZOWSKA (LZN);Poleska;1.0;000n
+17;Poleska;Kiełczowska;1.0;000n
+18;Kiełczowska;Żmudzka;1.0;000n
+19;Żmudzka;Kowieńska;1.0;000n
+20;Kowieńska;Inflancka;1.0;000n
+21;Inflancka;LITEWSKA;1.0;000n
+1;ZWYCIĘSKA;rondo Św. Ojca Pio;4.0;259
+2;rondo Św. Ojca Pio;Ożynowa;1.0;259
+3;Ożynowa;Malinowa;1.0;259
+4;Malinowa;Wyścigowa;2.0;259
+5;Wyścigowa;Pułtuska;2.0;259
+6;Pułtuska;Weigla (Szpital);1.0;259
+7;Weigla (Szpital);Jaworowa;2.0;259
+8;Jaworowa;Wiśniowa;1.0;259
+9;Wiśniowa;Uniwersytet Ekonomiczny;2.0;259
+10;Uniwersytet Ekonomiczny;PETRUSEWICZA;1.0;259
+11;PETRUSEWICZA;DWORZEC AUTOBUSOWY;4.0;259
+12;DWORZEC AUTOBUSOWY;DWORZEC GŁÓWNY;3.0;259
+13;DWORZEC GŁÓWNY;Wzgórze Partyzantów;2.0;259
+14;Wzgórze Partyzantów;GALERIA DOMINIKAŃSKA;2.0;259
+15;GALERIA DOMINIKAŃSKA;Hala Targowa;2.0;259
+16;Hala Targowa;Dubois;3.0;259
+17;Dubois;pl. Bema;3.0;259
+18;pl. Bema;Ogród Botaniczny;2.0;259
+19;Ogród Botaniczny;Górnickiego;1.0;259
+20;Górnickiego;Piastowska;1.0;259
+21;Piastowska;PL. GRUNWALDZKI;3.0;259
+22;PL. GRUNWALDZKI;Kochanowskiego;3.0;259
+23;Kochanowskiego;Śniadeckich;2.0;259
+24;Śniadeckich;Moniuszki;2.0;259
+25;Moniuszki;Stadion Olimpijski;1.0;259
+26;Stadion Olimpijski;8 Maja;2.0;259
+27;8 Maja;Godebskiego (AWF Wrocław);1.0;259
+28;Godebskiego (AWF Wrocław);SĘPOLNO;1.0;259
+29;SĘPOLNO;Monopolowa;2.0;259
+30;Monopolowa;Kolumba;1.0;259
+31;Kolumba;Magellana;1.0;259
+32;Magellana;Swojczyce;2.0;259
+33;Swojczyce;Mikołowska;2.0;259
+34;Mikołowska;Niedziałkowskiego;1.0;259
+35;Niedziałkowskiego;Zagrodnicza;1.0;259
+36;Zagrodnicza;Kmieca;1.0;259
+37;Kmieca;Smocza;1.0;259
+38;Smocza;Strumykowa;1.0;259
+39;Strumykowa;Wojnów;1.0;259
+40;Wojnów;WOJNÓW (pętla);1.0;259
+1;Dworzec Główny (Stawowa);Hallera;9.0;602
+2;Hallera;KRZYKI;3.0;602
+3;KRZYKI;Partynice (tor wyścigów konnych);4.0;602
+4;Partynice (tor wyścigów konnych);Biskupice Podg. LG Electronics;17.0;602
+5;Biskupice Podg. LG Electronics;Biskupice Podg. LG Energy Solution Wr. I;4.0;602
+6;Biskupice Podg. LG Energy Solution Wr. I;Biskupice Podg. LG Chem;1.0;602
+7;Biskupice Podg. LG Chem;Biskupice Podg. LG Innotek;1.0;602
+8;Biskupice Podg. LG Innotek;Biskupice Podg. DSC Poland/Dong Yang;2.0;602
+9;Biskupice Podg. DSC Poland/Dong Yang;Biskupice Podg. LG Energy Solution Wr. I;4.0;602
+1;LITEWSKA;Inflancka;1.0;251
+2;Inflancka;Kowieńska;1.0;251
+3;Kowieńska;Żmudzka;1.0;251
+4;Żmudzka;Kiełczowska;2.0;251
+5;Kiełczowska;Poleska;1.0;251
+6;Poleska;Szewczenki;2.0;251
+7;Szewczenki;Gorlicka;1.0;251
+8;Gorlicka;MULICKA;1.0;251
+9;MULICKA;Psie Pole (Rondo Lotników Polskich);1.0;251
+10;Psie Pole (Rondo Lotników Polskich);Psie Pole;1.0;251
+11;Psie Pole;Zielna;1.0;251
+12;Zielna;C.H. Korona;2.0;251
+13;C.H. Korona;C.H. Korona;1.0;251
+14;C.H. Korona;Brücknera;2.0;251
+15;Brücknera;Grudziądzka;1.0;251
+16;Grudziądzka;Kromera (Czajkowskiego);2.0;251
+17;Kromera (Czajkowskiego);KROMERA;3.0;251
+18;KROMERA;Mosty Warszawskie;2.0;251
+19;Mosty Warszawskie;Daszyńskiego;1.0;251
+20;Daszyńskiego;Nowowiejska;1.0;251
+21;Nowowiejska;Jedności Narodowej;1.0;251
+22;Jedności Narodowej;Na Szańcach;1.0;251
+23;Na Szańcach;pl. Bema;1.0;251
+24;pl. Bema;Dubois;4.0;251
+25;Dubois;Hala Targowa;4.0;251
+26;Hala Targowa;GALERIA DOMINIKAŃSKA;2.0;251
+27;GALERIA DOMINIKAŃSKA;Wzgórze Partyzantów;2.0;251
+28;Wzgórze Partyzantów;DWORZEC GŁÓWNY;3.0;251
+29;DWORZEC GŁÓWNY;DWORZEC GŁÓWNY;1.0;251
+30;DWORZEC GŁÓWNY;DWORZEC AUTOBUSOWY;3.0;251
+31;DWORZEC AUTOBUSOWY;Dyrekcyjna;2.0;251
+32;Dyrekcyjna;Borowska;3.0;251
+33;Borowska;PETRUSEWICZA;3.0;251
+34;PETRUSEWICZA;DWORZEC AUTOBUSOWY;3.0;251
+35;DWORZEC AUTOBUSOWY;EPI;2.0;251
+36;EPI;Arkady (Capitol);3.0;251
+37;Arkady (Capitol);pl. Legionów;3.0;251
+38;pl. Legionów;Grabiszyńska;2.0;251
+39;Grabiszyńska;Pereca;3.0;251
+40;Pereca;Stalowa;2.0;251
+41;Stalowa;pl. Srebrny;1.0;251
+42;pl. Srebrny;Bzowa (Centrum Zajezdnia);1.0;251
+43;Bzowa (Centrum Zajezdnia);Hutmen;2.0;251
+44;Hutmen;FAT;2.0;251
+45;FAT;GRABISZYŃSKA (Cmentarz);2.0;251
+46;GRABISZYŃSKA (Cmentarz);GRABISZYŃSKA (Cmentarz II);1.0;251
+47;GRABISZYŃSKA (Cmentarz II);OPORÓW;1.0;251
+48;OPORÓW;Solskiego;1.0;251
+49;Solskiego;Wiejska;3.0;251
+50;Wiejska;Kadłubka;1.0;251
+51;Kadłubka;Stanki;1.0;251
+52;Stanki;Bukowskiego;1.0;251
+53;Bukowskiego;RACŁAWICKA;1.0;251
+54;RACŁAWICKA;Rymarska;1.0;251
+55;Rymarska;Wawrzyniaka;2.0;251
+56;Wawrzyniaka;Chłodna;1.0;251
+57;Chłodna;Sowia;1.0;251
+58;Sowia;KRZYKI;2.0;251
+1;KRZYKI;Sowia;1.0;000a
+2;Sowia;Chłodna;1.0;000a
+3;Chłodna;Wawrzyniaka;1.0;000a
+4;Wawrzyniaka;Rymarska;2.0;000a
+5;Rymarska;RACŁAWICKA;1.0;000a
+6;RACŁAWICKA;Bukowskiego;1.0;000a
+7;Bukowskiego;Stanki;1.0;000a
+8;Stanki;Kadłubka;1.0;000a
+9;Kadłubka;Wiejska;1.0;000a
+10;Wiejska;Solskiego;2.0;000a
+11;Solskiego;GRABISZYŃSKA (Cmentarz);3.0;000a
+12;GRABISZYŃSKA (Cmentarz);FAT;3.0;000a
+13;FAT;Aleja Pracy;3.0;000a
+14;Aleja Pracy;Inżynierska;2.0;000a
+15;Inżynierska;Krucza (Mielecka);2.0;000a
+16;Krucza (Mielecka);Krucza;2.0;000a
+17;Krucza;Pl. Hirszfelda;3.0;000a
+18;Pl. Hirszfelda;Arkady (Capitol);9.0;000a
+19;Arkady (Capitol);Dworzec Główny (Dworcowa);4.0;000a
+20;Dworzec Główny (Dworcowa);skwer Krasińskiego;1.0;000a
+21;skwer Krasińskiego;Krasińskiego;1.0;000a
+22;Krasińskiego;Urząd Wojewódzki (Muzeum Narodowe);3.0;000a
+23;Urząd Wojewódzki (Muzeum Narodowe);Katedra;2.0;000a
+24;Katedra;Ogród Botaniczny;2.0;000a
+25;Ogród Botaniczny;Wyszyńskiego;2.0;000a
+26;Wyszyńskiego;Damrota;1.0;000a
+27;Damrota;KROMERA;5.0;000a
+28;KROMERA;Berenta;3.0;000a
+29;Berenta;pl. Daniłowskiego;2.0;000a
+30;pl. Daniłowskiego;Przybyszewskiego;1.0;000a
+31;Przybyszewskiego;Czajkowskiego;1.0;000a
+32;Czajkowskiego;KOSZAROWA (Uniwersytet);2.0;000a
+33;KOSZAROWA (Uniwersytet);KOSZAROWA (Szpital);1.0;000a
+1;PRACZE ODRZAŃSKIE;PRACZE ODRZAŃSKIE;0.0;245
+2;PRACZE ODRZAŃSKIE;PRACZE ODRZAŃSKIE (Stacja kolejowa);1.0;245
+3;PRACZE ODRZAŃSKIE (Stacja kolejowa);STABŁOWICKA (Ośrodek zdrowia);1.0;245
+4;STABŁOWICKA (Ośrodek zdrowia);Główna;1.0;245
+5;Główna;Wełniana;2.0;245
+6;Wełniana;Chwałkowska;1.0;245
+7;Chwałkowska;Jędrzejowska;2.0;245
+8;Jędrzejowska;Brodzka;1.0;245
+9;Brodzka;Kozia;1.0;245
+10;Kozia;Północna;1.0;245
+11;Północna;Maślicka (Staw);1.0;245
+12;Maślicka (Staw);Maślice Małe (Brodnicka);1.0;245
+13;Maślice Małe (Brodnicka);Rędzińska (Cmentarz);1.0;245
+14;Rędzińska (Cmentarz);Maślicka (Osiedle);1.0;245
+15;Maślicka (Osiedle);TARCZYŃSKI ARENA (Królewiecka);3.0;245
+16;TARCZYŃSKI ARENA (Królewiecka);Dworska;1.0;245
+17;Dworska;Górnicza;2.0;245
+18;Górnicza;KOZANÓW (Dokerska);1.0;245
+19;KOZANÓW (Dokerska);KOZANÓW;2.0;245
+20;KOZANÓW;Dzielna;1.0;245
+21;Dzielna;Wiślańska;1.0;245
+22;Wiślańska;Kolista;2.0;245
+23;Kolista;Wejherowska;4.0;245
+24;Wejherowska;Rysia;2.0;245
+25;Rysia;Popowice;2.0;245
+26;Popowice;POPOWICE (Stacja kolejowa);1.0;245
+27;POPOWICE (Stacja kolejowa);DŁUGA (Politechnika);1.0;245
+28;DŁUGA (Politechnika);Poznańska;1.0;245
+29;Poznańska;Szczepin;2.0;245
+30;Szczepin;Inowrocławska;1.0;245
+31;Inowrocławska;PL. SOLIDARNOŚCI;2.0;245
+32;PL. SOLIDARNOŚCI;PL. JANA PAWŁA II;3.0;245
+33;PL. JANA PAWŁA II;Rynek;2.0;245
+34;Rynek;Świdnicka;2.0;245
+35;Świdnicka;GALERIA DOMINIKAŃSKA;3.0;245
+36;GALERIA DOMINIKAŃSKA;Wzgórze Partyzantów;2.0;245
+37;Wzgórze Partyzantów;DWORZEC GŁÓWNY;3.0;245
+38;DWORZEC GŁÓWNY;DWORZEC GŁÓWNY;1.0;245
+39;DWORZEC GŁÓWNY;DWORZEC AUTOBUSOWY;3.0;245
+40;DWORZEC AUTOBUSOWY;Dyrekcyjna;2.0;245
+41;Dyrekcyjna;Borowska;3.0;245
+42;Borowska;PETRUSEWICZA;3.0;245
+43;PETRUSEWICZA;Joannitów;2.0;245
+44;Joannitów;Gajowa;1.0;245
+45;Gajowa;Prudnicka;2.0;245
+46;Prudnicka;Kamienna;2.0;245
+47;Kamienna;Bardzka;3.0;245
+48;Bardzka;Nyska;1.0;245
+49;Nyska;Tarnogajska;1.0;245
+50;Tarnogajska;Klimasa;2.0;245
+51;Klimasa;TARNOGAJ;1.0;245
+52;TARNOGAJ;Gazowa;1.0;245
+53;Gazowa;Wiaduktowa;1.0;245
+54;Wiaduktowa;Topolowa;2.0;245
+55;Topolowa;BROCHÓW (Stacja kolejowa);2.0;245
+56;BROCHÓW (Stacja kolejowa);Chińska;1.0;245
+57;Chińska;BROCHÓW;1.0;245
+58;BROCHÓW;Ziemniaczana;2.0;245
+59;Ziemniaczana;Arabska;1.0;245
+60;Arabska;BIEŃKOWICE;1.0;245
+1;PETRUSEWICZA;DWORZEC AUTOBUSOWY;3.0;242
+2;DWORZEC AUTOBUSOWY;DWORZEC GŁÓWNY;3.0;242
+3;DWORZEC GŁÓWNY;Wzgórze Partyzantów;2.0;242
+4;Wzgórze Partyzantów;GALERIA DOMINIKAŃSKA;2.0;242
+5;GALERIA DOMINIKAŃSKA;Hala Targowa;2.0;242
+6;Hala Targowa;Dubois;3.0;242
+7;Dubois;pl. Bema;3.0;242
+8;pl. Bema;Na Szańcach;1.0;242
+9;Na Szańcach;Jedności Narodowej;1.0;242
+10;Jedności Narodowej;Nowowiejska;2.0;242
+11;Nowowiejska;Daszyńskiego;1.0;242
+12;Daszyńskiego;Mosty Warszawskie;1.0;242
+13;Mosty Warszawskie;KROMERA;3.0;242
+14;KROMERA;Kromera (Czajkowskiego);2.0;242
+15;Kromera (Czajkowskiego);Grudziądzka;1.0;242
+16;Grudziądzka;Brücknera;3.0;242
+17;Brücknera;Olsztyńska;2.0;242
+18;Olsztyńska;Kowalska 56;1.0;242
+19;Kowalska 56;Kowale (Stacja kolejowa);1.0;242
+20;Kowale (Stacja kolejowa);Działdowska;1.0;242
+21;Działdowska;KOWALE;2.0;242
+22;KOWALE;KOWALE;1.0;242
+1;LEŚNICA;Jeleniogórska;1.0;243
+2;Jeleniogórska;Śnieżna;1.0;243
+3;Śnieżna;Ciechocińska;1.0;243
+4;Ciechocińska;Wojanowska;1.0;243
+5;Wojanowska;Arachidowa;1.0;243
+6;Arachidowa;Olbrachtowska;1.0;243
+7;Olbrachtowska;Stoszowska;1.0;243
+8;Stoszowska;Fieldorfa;1.0;243
+9;Fieldorfa;Fieldorfa (Szpital);1.0;243
+10;Fieldorfa (Szpital);Kosmonautów (Szpital);4.0;243
+11;Kosmonautów (Szpital);Grabowa;1.0;243
+12;Grabowa;Aleja Architektów;1.0;243
+13;Aleja Architektów;Glinianki;2.0;243
+14;Glinianki;Tarczyński Arena (Lotnicza);2.0;243
+15;Tarczyński Arena (Lotnicza);PILCZYCE;1.0;243
+16;PILCZYCE;Metalowców;2.0;243
+17;Metalowców;Szybowcowa;1.0;243
+18;Szybowcowa;Bulwar Dedala;1.0;243
+19;Bulwar Dedala;Bystrzycka;2.0;243
+20;Bystrzycka;Hynka;1.0;243
+21;Hynka;Drzewieckiego;1.0;243
+22;Drzewieckiego;Orlińskiego;1.0;243
+23;Orlińskiego;Na Ostatnim Groszu;2.0;243
+24;Na Ostatnim Groszu;Kwiska;3.0;243
+25;Kwiska;Małopanewska;1.0;243
+26;Małopanewska;Niedźwiedzia;1.0;243
+27;Niedźwiedzia;ZACHODNIA (Stacja kolejowa);2.0;243
+28;ZACHODNIA (Stacja kolejowa);pl. Strzegomski (Muzeum Współczesne);1.0;243
+29;pl. Strzegomski (Muzeum Współczesne);Młodych Techników;1.0;243
+30;Młodych Techników;PL. JANA PAWŁA II;3.0;243
+31;PL. JANA PAWŁA II;Rynek;2.0;243
+32;Rynek;Narodowe Forum Muzyki;1.0;243
+33;Narodowe Forum Muzyki;Renoma;2.0;243
+34;Renoma;Arkady (Capitol);2.0;243
+35;Arkady (Capitol);EPI;2.0;243
+36;EPI;DWORZEC AUTOBUSOWY;1.0;243
+37;DWORZEC AUTOBUSOWY;Dyrekcyjna;3.0;243
+38;Dyrekcyjna;PETRUSEWICZA;1.0;243
+39;PETRUSEWICZA;DWORZEC AUTOBUSOWY;4.0;243
+40;DWORZEC AUTOBUSOWY;DWORZEC GŁÓWNY;3.0;243
+41;DWORZEC GŁÓWNY;Wzgórze Partyzantów;2.0;243
+42;Wzgórze Partyzantów;GALERIA DOMINIKAŃSKA;2.0;243
+43;GALERIA DOMINIKAŃSKA;pl. Wróblewskiego;4.0;243
+44;pl. Wróblewskiego;pl. Zgody (Muzeum Etnograficzne);5.0;243
+45;pl. Zgody (Muzeum Etnograficzne);Na Niskich Łąkach;2.0;243
+46;Na Niskich Łąkach;Krakowska;2.0;243
+47;Krakowska;KRAKOWSKA (Centrum handlowe);1.0;243
+48;KRAKOWSKA (Centrum handlowe);Armii Krajowej;1.0;243
+49;Armii Krajowej;Park Wschodni;2.0;243
+50;Park Wschodni;Karwińska;2.0;243
+51;Karwińska;KSIĘŻE MAŁE;2.0;243
+52;KSIĘŻE MAŁE;Zagłębiowska;1.0;243
+53;Zagłębiowska;Sosnowiecka;1.0;243
+54;Sosnowiecka;Brochowska;1.0;243
+55;Brochowska;KSIĘŻE WIELKIE;1.0;243
+1;PETRUSEWICZA;DWORZEC AUTOBUSOWY;3.0;244
+2;DWORZEC AUTOBUSOWY;DWORZEC GŁÓWNY;3.0;244
+3;DWORZEC GŁÓWNY;Wzgórze Partyzantów;2.0;244
+4;Wzgórze Partyzantów;GALERIA DOMINIKAŃSKA;2.0;244
+5;GALERIA DOMINIKAŃSKA;Hala Targowa;2.0;244
+6;Hala Targowa;Dubois;3.0;244
+7;Dubois;pl. Bema;3.0;244
+8;pl. Bema;Na Szańcach;1.0;244
+9;Na Szańcach;Jedności Narodowej;1.0;244
+10;Jedności Narodowej;Nowowiejska;2.0;244
+11;Nowowiejska;Daszyńskiego;2.0;244
+12;Daszyńskiego;Słonimskiego;2.0;244
+13;Słonimskiego;Zakładowa;2.0;244
+14;Zakładowa;Broniewskiego;4.0;244
+15;Broniewskiego;Bałtycka;2.0;244
+16;Bałtycka;Bezpieczna;2.0;244
+17;Bezpieczna;Paprotna;2.0;244
+18;Paprotna;Irysowa;1.0;244
+19;Irysowa;Obornicka (Obwodnica);2.0;244
+20;Obornicka (Obwodnica);Ostowa (Muzeum Militarne);2.0;244
+21;Ostowa (Muzeum Militarne);Pełczyńska (Stacja kolejowa);1.0;244
+22;Pełczyńska (Stacja kolejowa);Kominiarska;1.0;244
+23;Kominiarska;Lipa Piotrowska;1.0;244
+24;Lipa Piotrowska;Tymiankowa;1.0;244
+25;Tymiankowa;Cynamonowa;1.0;244
+26;Cynamonowa;Waniliowa;1.0;244
+27;Waniliowa;KMINKOWA;2.0;244
+1;OSIEDLE SOBIESKIEGO;Królewska;1.0;150
+2;Królewska;PSIE POLE (Stacja kolejowa);3.0;150
+3;PSIE POLE (Stacja kolejowa);BIERUTOWSKA (Ośrodek zdrowia);2.0;150
+4;BIERUTOWSKA (Ośrodek zdrowia);Dobroszycka;1.0;150
+5;Dobroszycka;PSIE POLE (Stacja kolejowa);1.0;150
+6;PSIE POLE (Stacja kolejowa);Psie Pole (Rondo Lotników Polskich);1.0;150
+7;Psie Pole (Rondo Lotników Polskich);MULICKA;1.0;150
+8;MULICKA;Gorlicka;1.0;150
+9;Gorlicka;Szewczenki;1.0;150
+10;Szewczenki;Poleska;1.0;150
+11;Poleska;Kiełczowska;1.0;150
+12;Kiełczowska;Żmudzka;1.0;150
+13;Żmudzka;Kowieńska;1.0;150
+14;Kowieńska;Inflancka;1.0;150
+15;Inflancka;LITEWSKA;1.0;150
+1;Mirków - skrzy. Polna;Mirków - Kiełczowska (na wys. nr 14);1.0;936
+2;Mirków - Kiełczowska (na wys. nr 14);Mirków - Sportowa;4.0;936
+3;Mirków - Sportowa;BIERUTOWSKA (Wiadukt);3.0;936
+4;BIERUTOWSKA (Wiadukt);Bierutowska 75;1.0;936
+5;Bierutowska 75;Bierutowska;1.0;936
+6;Bierutowska;Bierutowska 65;0.0;936
+7;Bierutowska 65;Dobroszycka;1.0;936
+8;Dobroszycka;PSIE POLE (Stacja kolejowa);1.0;936
+9;PSIE POLE (Stacja kolejowa);Psie Pole (Rondo Lotników Polskich);1.0;936
+10;Psie Pole (Rondo Lotników Polskich);Kopańskiego;2.0;936
+11;Kopańskiego;Wallenroda;1.0;936
+12;Wallenroda;Przedwiośnie (Stacja kolejowa);1.0;936
+13;Przedwiośnie (Stacja kolejowa);Azaliowa;2.0;936
+14;Azaliowa;Pawłowice;1.0;936
+15;Pawłowice;Starodębowa;1.0;936
+16;Starodębowa;Pawłowicka;2.0;936
+17;Pawłowicka;Przebiśniegowa;1.0;936
+18;Przebiśniegowa;Ramiszów;4.0;936
+19;Ramiszów;Pasikurowice - cmentarz;3.0;936
+20;Pasikurowice - cmentarz;Pasikurowice - skrzy. Malinowa;2.0;936
+21;Pasikurowice - skrzy. Malinowa;Pasikurowice - Energetyczna;1.0;936
+22;Pasikurowice - Energetyczna;Pasikurowice - n/ż;1.0;936
+23;Pasikurowice - n/ż;Bukowina;2.0;936
+24;Bukowina;Bukowina - skrzy.;2.0;936
+25;Bukowina - skrzy.;Bąków;1.0;936
+26;Bąków;Łozina - Wrocławska (na wys. nr 18);3.0;936
+27;Łozina - Wrocławska (na wys. nr 18);Łozina - Nowego Osiedla I;2.0;936
+28;Łozina - Nowego Osiedla I;Łozina - Nowego Osiedla II;1.0;936
+29;Łozina - Nowego Osiedla II;Tokary - centrum;3.0;936
+30;Tokary - centrum;Tokary - osiedle;1.0;936
+31;Tokary - osiedle;Siedlec - skrzy. Osiedlowa;2.0;936
+32;Siedlec - skrzy. Osiedlowa;Siedlec - stacja;0.0;936
+33;Siedlec - stacja;Godzieszowa (na wys. nr 8);1.0;936
+34;Godzieszowa (na wys. nr 8);Godzieszowa - transformator;1.0;936
+1;Nowy Dwór;Chociebuska;2.0;909
+2;Chociebuska;Nowy Dwór (Rogowska);1.0;909
+3;Nowy Dwór (Rogowska);Nowy Dwór (Stacja kolejowa);1.0;909
+4;Nowy Dwór (Stacja kolejowa);Kołobrzeska;2.0;909
+5;Kołobrzeska;Szczecińska;2.0;909
+6;Szczecińska;Żerniki;2.0;909
+7;Żerniki;Strachowicka;1.0;909
+8;Strachowicka;Żernicka;1.0;909
+9;Żernicka;Jerzmanowska nr 9;1.0;909
+10;Jerzmanowska nr 9;Jerzmanowska nr 17;1.0;909
+11;Jerzmanowska nr 17;Jerzmanowo (Cmentarz I);3.0;909
+12;Jerzmanowo (Cmentarz I);Piołunowa;1.0;909
+13;Piołunowa;Jasińskiej;1.0;909
+14;Jasińskiej;Adamczewskich;1.0;909
+15;Adamczewskich;Kośnego;1.0;909
+16;Kośnego;Krzeptowska;2.0;909
+17;Krzeptowska;Jarnołtowska (Samotworska);1.0;909
+18;Jarnołtowska (Samotworska);Samotworska;1.0;909
+19;Samotworska;Gałowska;1.0;909
+20;Gałowska;Samotwór - Dębowa;1.0;909
+21;Samotwór - Dębowa;Samotwór - Leśna;2.0;909
+1;MULICKA;Psie Pole (Rondo Lotników Polskich);1.0;931
+2;Psie Pole (Rondo Lotników Polskich);KIEŁCZOWSKA (LZN);2.0;931
+3;KIEŁCZOWSKA (LZN);Poleska;1.0;931
+4;Poleska;Kiełczowska;1.0;931
+5;Kiełczowska;Żmudzka;1.0;931
+6;Żmudzka;Kiełczowska (Cmentarz);1.0;931
+7;Kiełczowska (Cmentarz);Kiełczów - Sosnowa;1.0;931
+8;Kiełczów - Sosnowa;Kiełczów - Biedronka;1.0;931
+9;Kiełczów - Biedronka;Kiełczów - Wrocławska;1.0;931
+10;Kiełczów - Wrocławska;Kiełczów - pętla (Plac Jana Gdaka);1.0;931
+11;Kiełczów - pętla (Plac Jana Gdaka);Kiełczów - WODROL;2.0;931
+12;Kiełczów - WODROL;Kiełczów - Rzeczna;1.0;931
+13;Kiełczów - Rzeczna;Kiełczówek - Sielska Zagroda;1.0;931
+14;Kiełczówek - Sielska Zagroda;Kiełczówek;1.0;931
+15;Kiełczówek;Kiełczówek - pętla;1.0;931
+1;KROMERA;KROMERA;2.0;132
+2;KROMERA;Berenta;3.0;132
+3;Berenta;pl. Daniłowskiego;2.0;132
+4;pl. Daniłowskiego;Kasprowicza;1.0;132
+5;Kasprowicza;Syrokomli;2.0;132
+6;Syrokomli;Pola;1.0;132
+7;Pola;Broniewskiego;4.0;132
+8;Broniewskiego;Trzebnicka;3.0;132
+9;Trzebnicka;DWORZEC NADODRZE;2.0;132
+10;DWORZEC NADODRZE;Paulińska;2.0;132
+11;Paulińska;Dubois;3.0;132
+12;Dubois;Rynek;5.0;132
+13;Rynek;PL. JANA PAWŁA II;3.0;132
+14;PL. JANA PAWŁA II;Młodych Techników;2.0;132
+15;Młodych Techników;Strzegomska (Muzeum Współczesne);2.0;132
+16;Strzegomska (Muzeum Współczesne);Śrubowa;2.0;132
+17;Śrubowa;Wrocławski Park Przemysłowy;1.0;132
+18;Wrocławski Park Przemysłowy;Dolnośląska Szkoła Wyższa;2.0;132
+19;Dolnośląska Szkoła Wyższa;Fabryczna;2.0;132
+20;Fabryczna;Otyńska;2.0;132
+21;Otyńska;Strzegomska 148;2.0;132
+22;Strzegomska 148;Nowodworska;2.0;132
+23;Nowodworska;Nowy Dwór;2.0;132
+24;Nowy Dwór;Rogowska;2.0;132
+25;Rogowska;MIŃSKA (Rondo Rotm. Pileckiego);4.0;132
+26;MIŃSKA (Rondo Rotm. Pileckiego);Tyrmanda;2.0;132
+27;Tyrmanda;Zagony;1.0;132
+28;Zagony;Muchobór Wielki;2.0;132
+29;Muchobór Wielki;Stanisławowska (W.K. Formaty);3.0;132
+30;Stanisławowska (W.K. Formaty);Awicenny (Stacja kolejowa);3.0;132
+31;Awicenny (Stacja kolejowa);Awicenny;1.0;132
+32;Awicenny;Chachaja;3.0;132
+33;Chachaja;Jordanowska;3.0;132
+34;Jordanowska;Wiejska;4.0;132
+35;Wiejska;Solskiego;2.0;132
+36;Solskiego;OPORÓW;1.0;132
+1;OPORÓW;OPORÓW;1.0;907
+2;OPORÓW;Solskiego;1.0;907
+3;Solskiego;Wiejska;1.0;907
+4;Wiejska;Jordanowska;2.0;907
+5;Jordanowska;Mokronos Dolny - Parkowa/Stawowa;3.0;907
+6;Mokronos Dolny - Parkowa/Stawowa;Cesarzowice skrz.;2.0;907
+7;Cesarzowice skrz.;Jaszkotle - kościół;2.0;907
+8;Jaszkotle - kościół;Pietrzykowice - Wrocławska/Stawowa;2.0;907
+9;Pietrzykowice - Wrocławska/Stawowa;Pietrzykowice - Sportowa/Główna;1.0;907
+10;Pietrzykowice - Sportowa/Główna;Pietrzykowice - Sportowa/pętla;1.0;907
+1;PL. JANA PAWŁA II;Inowrocławska;2.0;104
+2;Inowrocławska;Szczepin;2.0;104
+3;Szczepin;LITOMSKA (ZUS);1.0;104
+4;LITOMSKA (ZUS);Poznańska;2.0;104
+5;Poznańska;DŁUGA (Politechnika);1.0;104
+6;DŁUGA (Politechnika);POPOWICE (Stacja kolejowa);2.0;104
+7;POPOWICE (Stacja kolejowa);Popowice;2.0;104
+8;Popowice;Rysia;2.0;104
+9;Rysia;Wejherowska;2.0;104
+10;Wejherowska;Kolista;3.0;104
+11;Kolista;Wiślańska;2.0;104
+12;Wiślańska;Dzielna;1.0;104
+13;Dzielna;KOZANÓW;1.0;104
+14;KOZANÓW;Modra;1.0;104
+15;Modra;Górnicza;3.0;104
+16;Górnicza;Dworska;1.0;104
+17;Dworska;TARCZYŃSKI ARENA (Królewiecka);1.0;104
+18;TARCZYŃSKI ARENA (Królewiecka);Maślicka (Osiedle);1.0;104
+19;Maślicka (Osiedle);Rędzińska (Cmentarz);1.0;104
+20;Rędzińska (Cmentarz);Turoszowska;2.0;104
+21;Turoszowska;RĘDZIŃSKA;1.0;104
+1;LEŚNICA;RUBCZAKA (Stacja kolejowa);2.0;938
+2;RUBCZAKA (Stacja kolejowa);Rubczaka;1.0;938
+3;Rubczaka;Średzka;1.0;938
+4;Średzka;Eluarda;2.0;938
+5;Eluarda;Zajazdowa;1.0;938
+6;Zajazdowa;Krępicka - szkoła;1.0;938
+7;Krępicka - szkoła;Krępicka;1.0;938
+8;Krępicka;Krępicka;0.0;938
+9;Krępicka;Mokrzańska;1.0;938
+10;Mokrzańska;ŻAR;3.0;938
+11;ŻAR;Wróblowice Innowacyjna;3.0;938
+12;Wróblowice Innowacyjna;Lutynia Rondo;1.0;938
+13;Lutynia Rondo;Lutynia Osiedle ul. Wschodnia;3.0;938
+14;Lutynia Osiedle ul. Wschodnia;Lutynia Centrum;4.0;938
+1;PL. JANA PAWŁA II;PL. JANA PAWŁA II;5.0;103
+2;PL. JANA PAWŁA II;Inowrocławska;2.0;103
+3;Inowrocławska;Szczepin;2.0;103
+4;Szczepin;LITOMSKA (ZUS);1.0;103
+5;LITOMSKA (ZUS);Poznańska;2.0;103
+6;Poznańska;DŁUGA (Politechnika);1.0;103
+7;DŁUGA (Politechnika);POPOWICE (Stacja kolejowa);2.0;103
+8;POPOWICE (Stacja kolejowa);Popowice;2.0;103
+9;Popowice;Rysia;2.0;103
+10;Rysia;Wejherowska;2.0;103
+11;Wejherowska;Kolista;4.0;103
+12;Kolista;Modra;2.0;103
+13;Modra;Górnicza;3.0;103
+14;Górnicza;Dworska;1.0;103
+15;Dworska;TARCZYŃSKI ARENA (Królewiecka);1.0;103
+16;TARCZYŃSKI ARENA (Królewiecka);Maślicka (Osiedle);1.0;103
+17;Maślicka (Osiedle);Rędzińska (Cmentarz);1.0;103
+18;Rędzińska (Cmentarz);Maślice Małe (Brodnicka);1.0;103
+19;Maślice Małe (Brodnicka);Śliwowa;1.0;103
+20;Śliwowa;Maślicka (Staw);1.0;103
+21;Maślicka (Staw);Północna;1.0;103
+22;Północna;Kozia;1.0;103
+23;Kozia;Brodzka;1.0;103
+24;Brodzka;Jędrzejowska;2.0;103
+25;Jędrzejowska;Chwałkowska;1.0;103
+26;Chwałkowska;Wełniana;1.0;103
+27;Wełniana;Główna;3.0;103
+28;Główna;STABŁOWICKA (Ośrodek zdrowia);1.0;103
+29;STABŁOWICKA (Ośrodek zdrowia);Stabłowicka;1.0;103
+30;Stabłowicka;PRACZE ODRZAŃSKIE (Stacja kolejowa);0.0;103
+31;PRACZE ODRZAŃSKIE (Stacja kolejowa);PRACZE ODRZAŃSKIE;1.0;103
+1;PL. GRUNWALDZKI;Bujwida;2.0;151
+2;Bujwida;Kochanowskiego;2.0;151
+3;Kochanowskiego;Śniadeckich;2.0;151
+4;Śniadeckich;Zacisze;2.0;151
+5;Zacisze;Kwidzyńska;2.0;151
+6;Kwidzyńska;Brücknera;2.0;151
+7;Brücknera;C.H. Korona;2.0;151
+8;C.H. Korona;Zielna;2.0;151
+9;Zielna;Psie Pole;1.0;151
+10;Psie Pole;Psie Pole (Rondo Lotników Polskich);2.0;151
+11;Psie Pole (Rondo Lotników Polskich);Zakrzowska;1.0;151
+12;Zakrzowska;Kopańskiego;1.0;151
+13;Kopańskiego;Wallenroda;1.0;151
+14;Wallenroda;Przedwiośnie (Stacja kolejowa);1.0;151
+15;Przedwiośnie (Stacja kolejowa);Azaliowa;2.0;151
+16;Azaliowa;Pawłowice;1.0;151
+17;Pawłowice;Starodębowa;1.0;151
+18;Starodębowa;Pawłowicka;1.0;151
+19;Pawłowicka;Przebiśniegowa;1.0;151
+20;Przebiśniegowa;PAWŁOWICE (Widawska);1.0;151
+1;PL. JANA PAWŁA II;PL. JANA PAWŁA II;5.0;102
+2;PL. JANA PAWŁA II;Inowrocławska;2.0;102
+3;Inowrocławska;Szczepin;2.0;102
+4;Szczepin;Głogowska;1.0;102
+5;Głogowska;Niedźwiedzia;3.0;102
+6;Niedźwiedzia;Kwiska;5.0;102
+7;Kwiska;Kolista;6.0;102
+8;Kolista;Modra;2.0;102
+9;Modra;Górnicza;3.0;102
+10;Górnicza;Dworska;1.0;102
+11;Dworska;TARCZYŃSKI ARENA (Królewiecka);1.0;102
+12;TARCZYŃSKI ARENA (Królewiecka);Maślicka (Osiedle);1.0;102
+13;Maślicka (Osiedle);Rędzińska (Cmentarz);1.0;102
+14;Rędzińska (Cmentarz);Maślice Małe (Brodnicka);1.0;102
+15;Maślice Małe (Brodnicka);Śliwowa;1.0;102
+16;Śliwowa;Maślicka (Staw);1.0;102
+17;Maślicka (Staw);Północna;1.0;102
+18;Północna;Kozia;1.0;102
+19;Kozia;Brodzka;1.0;102
+20;Brodzka;Jędrzejowska;2.0;102
+21;Jędrzejowska;Chwałkowska;1.0;102
+22;Chwałkowska;Wełniana;1.0;102
+23;Wełniana;Główna;3.0;102
+24;Główna;Park Stabłowicki;1.0;102
+25;Park Stabłowicki;Stabłowice;1.0;102
+26;Stabłowice;Wojanowska;1.0;102
+27;Wojanowska;Arachidowa;1.0;102
+28;Arachidowa;Olbrachtowska;1.0;102
+29;Olbrachtowska;Stoszowska;1.0;102
+30;Stoszowska;Fieldorfa;1.0;102
+31;Fieldorfa;Fieldorfa (Szpital);1.0;102
+32;Fieldorfa (Szpital);Kosmonautów (Szpital);4.0;102
+1;KROMERA;KROMERA;2.0;105
+2;KROMERA;Berenta;3.0;105
+3;Berenta;pl. Daniłowskiego;2.0;105
+4;pl. Daniłowskiego;Kasprowicza;1.0;105
+5;Kasprowicza;Syrokomli;2.0;105
+6;Syrokomli;Pola;1.0;105
+7;Pola;Broniewskiego;4.0;105
+8;Broniewskiego;Bałtycka;2.0;105
+9;Bałtycka;Bezpieczna;2.0;105
+10;Bezpieczna;Paprotna;2.0;105
+11;Paprotna;Irysowa;1.0;105
+12;Irysowa;Obornicka (Obwodnica);2.0;105
+13;Obornicka (Obwodnica);Ostowa (Muzeum Militarne);2.0;105
+14;Ostowa (Muzeum Militarne);Pełczyńska (Stacja kolejowa);1.0;105
+15;Pełczyńska (Stacja kolejowa);Kominiarska;1.0;105
+16;Kominiarska;Lipa Piotrowska;1.0;105
+17;Lipa Piotrowska;Perzowa;1.0;105
+18;Perzowa;Zajączkowska;3.0;105
+19;Zajączkowska;ŚWINIARY;2.0;105
+1;KROMERA;KROMERA;2.0;930
+2;KROMERA;Mosty Warszawskie;2.0;930
+3;Mosty Warszawskie;Daszyńskiego;1.0;930
+4;Daszyńskiego;Słonimskiego;2.0;930
+5;Słonimskiego;Zakładowa;2.0;930
+6;Zakładowa;Broniewskiego;4.0;930
+7;Broniewskiego;Kamieńskiego;1.0;930
+8;Kamieńskiego;Mochnackiego;2.0;930
+9;Mochnackiego;Gąsiorowskiego;1.0;930
+10;Gąsiorowskiego;Jutrosińska;1.0;930
+11;Jutrosińska;Kamieńskiego (Szpital);1.0;930
+12;Kamieńskiego (Szpital);Milicka;1.0;930
+13;Milicka;Kątowa;1.0;930
+14;Kątowa;Ługowa;1.0;930
+15;Ługowa;Starościńska;1.0;930
+16;Starościńska;KRZYŻANOWICE;3.0;930
+1;ROD Bielany;ROD Bielany;1.0;133
+2;ROD Bielany;Połabian;2.0;133
+3;Połabian;Słoneczna;1.0;133
+4;Słoneczna;Marcepanowa;1.0;133
+5;Marcepanowa;WAŁBRZYSKA;2.0;133
+6;WAŁBRZYSKA;Kościelna;2.0;133
+7;Kościelna;KLECINA;2.0;133
+8;KLECINA;Skarbowców;1.0;133
+9;Skarbowców;Os. Przyjaźni;1.0;133
+10;Os. Przyjaźni;Zimowa;1.0;133
+11;Zimowa;Sowia;1.0;133
+12;Sowia;Chłodna;1.0;133
+13;Chłodna;Wawrzyniaka;1.0;133
+14;Wawrzyniaka;Modlińska;2.0;133
+15;Modlińska;Gajowicka (szkoła);2.0;133
+16;Gajowicka (szkoła);Gajowicka;3.0;133
+17;Gajowicka;Hallera;4.0;133
+18;Hallera;Drukarska;3.0;133
+19;Drukarska;Uniwersytet Ekonomiczny;3.0;133
+20;Uniwersytet Ekonomiczny;Śliczna;4.0;133
+21;Śliczna;ROD Bajki;2.0;133
+22;ROD Bajki;Orzechowa;1.0;133
+23;Orzechowa;Bardzka;3.0;133
+24;Bardzka;Krynicka;1.0;133
+25;Krynicka;Morwowa;2.0;133
+26;Morwowa;BARDZKA (Cmentarz);1.0;133
+27;BARDZKA (Cmentarz);Buforowa-Rondo;2.0;133
+28;Buforowa-Rondo;ROD Zgoda;2.0;133
+29;ROD Zgoda;Tunelowa;1.0;133
+30;Tunelowa;ROD Mieczyk;2.0;133
+31;ROD Mieczyk;Park Brochowski;1.0;133
+32;Park Brochowski;Chińska;1.0;133
+33;Chińska;BROCHÓW;1.0;133
+1;LEŚNICA;RUBCZAKA (Stacja kolejowa);2.0;937
+2;RUBCZAKA (Stacja kolejowa);Rubczaka;1.0;937
+3;Rubczaka;Średzka;1.0;937
+4;Średzka;Eluarda;2.0;937
+5;Eluarda;Brzezińska;1.0;937
+6;Brzezińska;Owczarska;1.0;937
+7;Owczarska;Dolnobrzeska;1.0;937
+8;Dolnobrzeska;Mokra;3.0;937
+9;Mokra;Las Mokrzański;1.0;937
+10;Las Mokrzański;Brzezina - Biedronka;2.0;937
+11;Brzezina - Biedronka;Brzezina - Zacisze;1.0;937
+12;Brzezina - Zacisze;Brzezina - Osiedle;1.0;937
+13;Brzezina - Osiedle;Brzezina - ul. Chrobrego;2.0;937
+14;Brzezina - ul. Chrobrego;Brzezina - Kościół;1.0;937
+15;Brzezina - Kościół;BRZEZINA (pętla);1.0;937
+16;BRZEZINA (pętla);Brzezina - Kościół;1.0;937
+17;Brzezina - Kościół;Brzezinka Średzka - ul. Główna;3.0;937
+18;Brzezinka Średzka - ul. Główna;Brzezinka Średzka - ul. Parkowa;1.0;937
+19;Brzezinka Średzka - ul. Parkowa;Brzezinka Średzka - PKP;3.0;937
+1;DWORZEC NADODRZE;Trzebnicka;3.0;908
+2;Trzebnicka;Broniewskiego;4.0;908
+3;Broniewskiego;Kamieńskiego;1.0;908
+4;Kamieńskiego;Kępińska;2.0;908
+5;Kępińska;Wołowska;1.0;908
+6;Wołowska;POŚWIĘTNE;1.0;908
+7;POŚWIĘTNE;Żmigrodzka (Obwodnica);1.0;908
+8;Żmigrodzka (Obwodnica);Lekarska;1.0;908
+9;Lekarska;Rondo Obrońców Grodna;1.0;908
+10;Rondo Obrońców Grodna;Rondo Obrońców Grodna;1.0;908
+11;Rondo Obrońców Grodna;Konopackiej;1.0;908
+12;Konopackiej;Widawa;1.0;908
+13;Widawa;Psary - Wolności;2.0;908
+1;KSIĘŻE WIELKIE;Brochowska;1.0;134
+2;Brochowska;Sosnowiecka;2.0;134
+3;Sosnowiecka;Zagłębiowska;2.0;134
+4;Zagłębiowska;KSIĘŻE MAŁE;3.0;134
+5;KSIĘŻE MAŁE;Karwińska;3.0;134
+6;Karwińska;Park Wschodni;1.0;134
+7;Park Wschodni;Armii Krajowej (Bogedaina);1.0;134
+8;Armii Krajowej (Bogedaina);Tarnogajska;2.0;134
+9;Tarnogajska;Bardzka;3.0;134
+10;Bardzka;Kamienna;2.0;134
+11;Kamienna;Wapienna;1.0;134
+12;Wapienna;Borowska;2.0;134
+13;Borowska;Uniwersytet Ekonomiczny;6.0;134
+14;Uniwersytet Ekonomiczny;Drukarska;2.0;134
+15;Drukarska;Rondo;3.0;134
+16;Rondo;Krucza;3.0;134
+17;Krucza;Grochowa;2.0;134
+18;Grochowa;Stalowa;3.0;134
+19;Stalowa;pl. Srebrny;1.0;134
+20;pl. Srebrny;Bzowa (Centrum Zajezdnia);1.0;134
+21;Bzowa (Centrum Zajezdnia);Hutmen;2.0;134
+22;Hutmen;FAT;3.0;134
+23;FAT;ROD Oświata;2.0;134
+24;ROD Oświata;Wrocławski Park Technologiczny;1.0;134
+25;Wrocławski Park Technologiczny;Szkocka;2.0;134
+26;Szkocka;Nowodworska;4.0;134
+27;Nowodworska;Nowy Dwór;2.0;134
+28;Nowy Dwór;Chociebuska;3.0;134
+29;Chociebuska;Nowy Dwór (Rogowska);1.0;134
+30;Nowy Dwór (Rogowska);Zemska;2.0;134
+31;Zemska;NOWY DWÓR (pętla);2.0;134
